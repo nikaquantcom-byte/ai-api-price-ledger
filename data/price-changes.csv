@@ -1,0 +1,62 @@
+date,model_id,model,change,source,input_before_usd_per_1m,output_before_usd_per_1m,input_after_usd_per_1m,output_after_usd_per_1m
+2026-11-16,expanded-deepseek-deepseek-v4-1-flash,DeepSeek V4.1 Flash,up,openrouter,0.0507,0.2028,0.14,0.42
+2026-11-16,tracked-google-gemma-4-26b-a4b-it,Gemma 4 26B A4B,up,openrouter,0.0675,0.225,0.09,0.3
+2026-11-16,expanded-z-ai-glm-4-5-air,GLM 4.5 Air,down,openrouter,0.2,1.1,0.13,0.85
+2026-11-16,expanded-openai-gpt-oss-20b,gpt-oss-20b,up,openrouter,0.03,0.13,0.075,0.3
+2026-11-16,expanded-ibm-granite-granite-4-2-8b,Granite 4.2 8B,down,openrouter,0.06,0.25,0.06,0.15
+2026-11-16,expanded-minimax-minimax-m2-5,MiniMax M2.5,up,openrouter,0.27,0.95,0.295,1.2
+2026-11-16,expanded-qwen-qwen3-5-397b-a17b,Qwen3.5 397B A17B,down,openrouter,0.6,3.6,0.45,3
+2026-11-16,tracked-qwen-qwen3-5-9b,Qwen3.5-9B,up,openrouter,0.022,0.032,0.081,0.118
+2026-11-15,expanded-deepseek-deepseek-chat-v3-0324,DeepSeek V3 0324,up,openrouter,0.25,1,0.29,1.14
+2026-11-15,tracked-deepseek-deepseek-v3-2,DeepSeek V3.2,down,openrouter,0.269,0.4,0.26,0.38
+2026-11-15,expanded-deepseek-deepseek-v4-flash,DeepSeek V4 Flash 0423,up,openrouter,0.08554,0.17108,0.09,0.18
+2026-11-15,tracked-deepseek-deepseek-v4-pro,DeepSeek V4 Pro 0423,down,openrouter,0.954738,1.909476,0.9,1.5
+2026-11-15,expanded-google-gemma-3-27b-it,Gemma 3 27B,down,openrouter,0.08,0.45,0.08,0.35
+2026-11-15,tracked-google-gemma-4-26b-a4b-it,Gemma 4 26B A4B,up,openrouter,0.042,0.22,0.0675,0.225
+2026-11-15,tracked-google-gemma-4-31b-it,Gemma 4 31B,up,openrouter,0.09,0.34,0.2,0.4
+2026-11-15,expanded-z-ai-glm-4-5-air,GLM 4.5 Air,up,openrouter,0.13,0.85,0.2,1.1
+2026-11-15,expanded-z-ai-glm-4-6,GLM 4.6,up,openrouter,0.43,1.75,0.5,2
+2026-11-15,expanded-z-ai-glm-4-7,GLM 4.7,up,openrouter,0.4,1.75,0.6,2.2
+2026-11-15,expanded-z-ai-glm-4-7,GLM 4.7,down,openrouter,0.6,2.2,0.4,1.75
+2026-11-15,expanded-openai-gpt-oss-120b,gpt-oss-120b,up,openrouter,0.037,0.17,0.15,0.6
+2026-11-15,tracked-meta-llama-llama-3-1-70b-instruct,Llama 3.1 70B Instruct,up,openrouter,0.4,0.4,0.72,0.72
+2026-11-15,tracked-meta-llama-llama-3-1-8b-instruct,Llama 3.1 8B Instruct,down,openrouter,0.05,0.08,0.02,0.04
+2026-11-15,tracked-meta-llama-llama-3-2-3b-instruct,Llama 3.2 3B Instruct,up,openrouter,0.05,0.33,0.0509,0.335
+2026-11-15,tracked-meta-llama-llama-3-3-70b-instruct,Llama 3.3 70B Instruct,up,openrouter,0.1,0.32,0.71,0.71
+2026-11-15,tracked-meta-llama-llama-4-maverick,Llama 4 Maverick,up,openrouter,0.2,0.696,0.35,1
+2026-11-15,expanded-xiaomi-mimo-v2-5,MiMo-V2.5,up,openrouter,0.14,0.28,0.4,2
+2026-11-15,expanded-minimax-minimax-m2-5,MiniMax M2.5,down,openrouter,0.3,1.2,0.27,0.95
+2026-11-15,expanded-minimax-minimax-m2-7,MiniMax M2.7,down,openrouter,0.3,1.2,0.21,0.84
+2026-11-15,expanded-mistralai-mistral-nemo,Mistral Nemo,up,openrouter,0.019,0.03,0.029,0.03
+2026-11-15,expanded-meta-muse-glimmer-30b,Muse Glimmer 30B,up,openrouter,0.3,1.1,0.3,1.2
+2026-11-15,expanded-gryphe-mythomax-l2-13b,MythoMax 13B,up,openrouter,0.06,0.06,0.08,0.11
+2026-11-15,expanded-nvidia-nemotron-3-nano-30b-a3b,Nemotron 3 Nano 30B A3B,up,openrouter,0.05,0.2,0.06,0.24
+2026-11-15,expanded-nvidia-nemotron-3-super-120b-a12b,Nemotron 3 Super,down,openrouter,0.085,0.4,0.075,0.4
+2026-11-15,expanded-nvidia-nemotron-3-ultra-550b-a55b,Nemotron 3 Ultra,down,openrouter,0.625,3.125,0.6,2.4
+2026-11-15,expanded-nvidia-nemotron-3-5-lightning,Nemotron 3.5 Lightning,down,openrouter,0.08,0.2,0.07,0.2
+2026-11-15,expanded-nvidia-nemotron-3-5-super-vl,Nemotron 3.5 Super VL,up,openrouter,0.15,0.47,0.15,0.5
+2026-11-15,expanded-qwen-qwen3-14b,Qwen3 14B,down,openrouter,0.2275,0.91,0.12,0.24
+2026-11-15,expanded-qwen-qwen3-235b-a22b-2507,Qwen3 235B A22B Instruct 2507,down,openrouter,0.22,0.88,0.14,0.8
+2026-11-15,expanded-qwen-qwen3-235b-a22b-thinking-2507,Qwen3 235B A22B Thinking 2507,up,openrouter,0.23,2.3,0.45,3.5
+2026-11-15,expanded-qwen-qwen3-30b-a3b-instruct-2507,Qwen3 30B A3B Instruct 2507,up,openrouter,0.09,0.3,0.1,0.3
+2026-11-15,expanded-qwen-qwen3-coder-30b-a3b-instruct,Qwen3 Coder 30B A3B Instruct,up,openrouter,0.07,0.28,0.15,0.6
+2026-11-15,expanded-qwen-qwen3-vl-8b-instruct,Qwen3 VL 8B Instruct,up,openrouter,0.117,0.455,0.25,0.75
+2026-11-15,expanded-qwen-qwen3-5-397b-a17b,Qwen3.5 397B A17B,up,openrouter,0.55,3.5,0.6,3.6
+2026-11-15,expanded-qwen-qwen3-5-27b,Qwen3.5-27B,up,openrouter,0.195,1.56,0.26,2.6
+2026-11-15,tracked-qwen-qwen3-5-9b,Qwen3.5-9B,down,openrouter,0.1,0.15,0.03,0.043
+2026-11-15,tracked-qwen-qwen3-5-9b,Qwen3.5-9B,up,openrouter,0.03,0.043,0.17,0.25
+2026-11-15,tracked-qwen-qwen3-5-9b,Qwen3.5-9B,down,openrouter,0.17,0.25,0.022,0.032
+2026-11-15,tracked-deepseek-deepseek-r1-0528,R1 0528,up,openrouter,0.5,2.15,0.571,2.286
+2026-11-15,tracked-deepseek-deepseek-r1-0528,R1 0528,down,openrouter,0.571,2.286,0.5,2.15
+2026-11-15,expanded-undi95-remm-slerp-l2-13b,ReMM SLERP 13B,down,openrouter,0.35,0.65,0.3,0.5
+2026-11-15,expanded-upstage-solar-pro4,Solar Pro 4,up,openrouter,0.09,0.36,0.15,0.6
+2026-11-15,expanded-mancer-weaver,Weaver (alpha),down,openrouter,0.4,0.75,0.3,0.5
+2026-11-14,deepseek-v4-flash,DeepSeek V4 Flash,retired,vendor,0.44,1.32,,
+2026-11-14,expanded-deepseek-deepseek-v4-flash,DeepSeek V4 Flash 0423,retired,vendor,0.09,0.18,,
+2026-11-14,tracked-deepseek-deepseek-v4-flash-vision-exp,DeepSeek V4 Flash Vision Exp,retired,vendor,0.44,1.32,,
+2026-11-14,tracked-mistralai-devstral-2512,Devstral 2 2512,retired,vendor,0.4,2,,
+2026-11-14,tracked-moonshotai-kimi-k2,Kimi K2 0711,retired,vendor,0.57,2.3,,
+2026-11-14,tracked-moonshotai-kimi-k2-thinking,Kimi K2 Thinking,retired,vendor,0.6,2.5,,
+2026-11-14,tracked-moonshotai-kimi-k2-5,Kimi K2.5,retired,vendor,0.45,2.25,,
+2026-11-14,tracked-mistralai-mistral-medium-3,Mistral Medium 3,retired,vendor,0.4,2,,
+2026-11-14,tracked-mistralai-mistral-small-3-2-24b-instruct,Mistral Small 3.2 24B,retired,vendor,0.075,0.2,,

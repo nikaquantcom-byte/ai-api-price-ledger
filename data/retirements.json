@@ -1,0 +1,339 @@
+{
+ "asOf": "2026-11-16",
+ "license": {
+  "name": "CC BY 4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "AIScoreboard (aiscoreboard.app), https://aiscoreboard.app/price-changes/"
+ },
+ "events": [
+  {
+   "date": "2026-11-30",
+   "event": "retires",
+   "id": "tracked-anthropic-claude-sonnet-4-5",
+   "name": "Claude Sonnet 4.5",
+   "replacement": {
+    "id": "expanded-anthropic-claude-sonnet-5-5",
+    "name": "Claude Sonnet 5.5"
+   },
+   "note": null,
+   "sourceUrl": "https://platform.claude.com/docs/en/about-claude/pricing",
+   "checked": "2026-11-14",
+   "status": "upcoming"
+  },
+  {
+   "date": "2026-11-30",
+   "event": "promotion-ends",
+   "id": "gpt-5-6-sol",
+   "name": "GPT-5.6 Sol",
+   "replacement": null,
+   "note": "The $4 / $20 per 1M promotional price runs until 30 November. OpenAI does not publish the price that applies afterwards.",
+   "sourceUrl": "https://developers.openai.com/api/docs/pricing",
+   "checked": "2026-11-14",
+   "status": "upcoming"
+  },
+  {
+   "date": "2026-12-01",
+   "event": "price-change",
+   "id": "expanded-google-gemini-4-argon",
+   "name": "Gemini 4 Argon",
+   "replacement": null,
+   "from": [
+    2,
+    10
+   ],
+   "to": [
+    4,
+    20
+   ],
+   "note": null,
+   "sourceUrl": "https://aistudio.google.com/docs/pricing",
+   "checked": "2026-11-14",
+   "status": "upcoming"
+  },
+  {
+   "date": "2026-12-01",
+   "event": "price-change",
+   "id": "expanded-google-gemini-4-carbon",
+   "name": "Gemini 4 Carbon",
+   "replacement": null,
+   "from": [
+    2,
+    10
+   ],
+   "to": [
+    4,
+    20
+   ],
+   "note": null,
+   "sourceUrl": "https://aistudio.google.com/docs/pricing",
+   "checked": "2026-11-14",
+   "status": "upcoming"
+  },
+  {
+   "date": "2026-12-31",
+   "event": "retires",
+   "id": "tracked-moonshotai-kimi-k2-6",
+   "name": "Kimi K2.6",
+   "replacement": {
+    "id": "expanded-moonshotai-kimi-k3-1-pro",
+    "name": "Kimi K3.1 Pro"
+   },
+   "note": "Replacement inferred from Moonshot AI’s migration link.",
+   "sourceUrl": "https://platform.kimi.ai/docs/pricing/chat",
+   "checked": "2026-11-14",
+   "status": "upcoming"
+  },
+  {
+   "date": "2026-12-31",
+   "event": "retires",
+   "id": "tracked-moonshotai-kimi-k2-7-code",
+   "name": "Kimi K2.7 Code",
+   "replacement": {
+    "id": "expanded-moonshotai-kimi-k3-1-pro",
+    "name": "Kimi K3.1 Pro"
+   },
+   "note": "Replacement inferred from Moonshot AI’s migration link.",
+   "sourceUrl": "https://platform.kimi.ai/docs/pricing/chat",
+   "checked": "2026-11-14",
+   "status": "upcoming"
+  },
+  {
+   "date": "2027-01-19",
+   "event": "retires",
+   "id": "tracked-qwen-qwen3-5-plus-20260420",
+   "name": "Qwen3.5 Plus 2026-04-20",
+   "replacement": {
+    "id": "tracked-qwen-qwen3-8-flash",
+    "name": "Qwen3.8 Flash"
+   },
+   "note": null,
+   "sourceUrl": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+   "checked": "2026-11-14",
+   "status": "upcoming"
+  },
+  {
+   "date": "2027-04-30",
+   "event": "retires",
+   "id": "tracked-mistralai-mistral-medium-3-5",
+   "name": "Mistral Medium 3.5",
+   "replacement": {
+    "id": "expanded-mistralai-mistral-large-4-0",
+    "name": "Mistral Large 4"
+   },
+   "note": "Still available until retirement under Mistral’s lifecycle policy; Mistral no longer publishes its token price.",
+   "sourceUrl": "https://docs.mistral.ai/models",
+   "checked": "2026-11-14",
+   "status": "upcoming"
+  },
+  {
+   "date": "2026-10-08",
+   "event": "deprecated",
+   "id": "tracked-google-gemini-3-5-flash",
+   "name": "Gemini 3.5 Flash",
+   "replacement": {
+    "id": "gemini-3-6-flash",
+    "name": "Gemini 3.6 Flash"
+   },
+   "note": "The endpoint is not shutting down: requests are routed to Gemini 3.6 Flash, and Google does not state the billing rate for routed requests.",
+   "sourceUrl": "https://aistudio.google.com/docs/models/gemini-3.5-flash",
+   "checked": "2026-11-14",
+   "status": "deprecated"
+  },
+  {
+   "date": "2026-10-08",
+   "event": "deprecated",
+   "id": "gemini-3-7-flash",
+   "name": "Gemini 3.7 Flash",
+   "replacement": {
+    "id": "gemini-3-8-flash",
+    "name": "Gemini 3.8 Flash"
+   },
+   "note": "The endpoint is not shutting down: requests are routed to Gemini 3.8 Flash, and Google does not state the billing rate for routed requests.",
+   "sourceUrl": "https://aistudio.google.com/docs/models/gemini-3.7-flash",
+   "checked": "2026-11-14",
+   "status": "deprecated"
+  },
+  {
+   "date": "2026-09-10",
+   "event": "retired",
+   "id": "tracked-deepseek-deepseek-v4-flash-vision-exp",
+   "name": "DeepSeek V4 Flash Vision Exp",
+   "replacement": {
+    "id": "expanded-deepseek-deepseek-v4-1-flash-1017",
+    "name": "DeepSeek V4.1 Flash 1017"
+   },
+   "note": null,
+   "sourceUrl": "https://api-docs.deepseek.com/updates",
+   "checked": "2026-11-14",
+   "status": "retired"
+  },
+  {
+   "date": "2026-09-10",
+   "event": "retired",
+   "id": "expanded-deepseek-deepseek-v4-flash",
+   "name": "DeepSeek V4 Flash 0423",
+   "replacement": {
+    "id": "expanded-deepseek-deepseek-v4-1-flash-1017",
+    "name": "DeepSeek V4.1 Flash 1017"
+   },
+   "note": "OpenRouter still listed this route on 15 November; DeepSeek itself has retired the model.",
+   "sourceUrl": "https://api-docs.deepseek.com/quick_start/pricing",
+   "checked": "2026-11-14",
+   "status": "retired"
+  },
+  {
+   "date": "2026-09-10",
+   "event": "retired",
+   "id": "deepseek-v4-flash",
+   "name": "DeepSeek V4 Flash",
+   "replacement": {
+    "id": "expanded-deepseek-deepseek-v4-1-flash-1017",
+    "name": "DeepSeek V4.1 Flash 1017"
+   },
+   "note": "Includes the dated V4 Flash 0731 alias.",
+   "sourceUrl": "https://api-docs.deepseek.com/quick_start/pricing/",
+   "checked": "2026-11-14",
+   "status": "retired"
+  },
+  {
+   "date": "2026-08-31",
+   "event": "retired",
+   "id": "tracked-mistralai-mistral-medium-3",
+   "name": "Mistral Medium 3",
+   "replacement": {
+    "id": "expanded-mistralai-mistral-large-4-0",
+    "name": "Mistral Large 4"
+   },
+   "note": "Mistral named Medium 3.5 as the replacement, which is itself now deprecated; Mistral recommends Large 4.",
+   "sourceUrl": "https://docs.mistral.ai/models",
+   "checked": "2026-11-14",
+   "status": "retired"
+  },
+  {
+   "date": "2026-08-05",
+   "event": "retired",
+   "id": "tracked-anthropic-claude-opus-4-1",
+   "name": "Claude Opus 4.1",
+   "replacement": {
+    "id": "claude-opus-4-8",
+    "name": "Claude Opus 4.8"
+   },
+   "note": "Retired on the Claude API; partner clouds may still list it.",
+   "sourceUrl": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
+   "checked": "2026-11-14",
+   "status": "retired"
+  },
+  {
+   "date": "2026-08",
+   "event": "retired",
+   "id": "tracked-moonshotai-kimi-k2-5",
+   "name": "Kimi K2.5",
+   "replacement": {
+    "id": "kimi-k3",
+    "name": "Kimi K3"
+   },
+   "note": "Moonshot AI gives the month only.",
+   "sourceUrl": "https://platform.kimi.ai/docs/platform-changelog",
+   "checked": "2026-11-14",
+   "status": "retired"
+  },
+  {
+   "date": "2026-07-31",
+   "event": "retired",
+   "id": "tracked-mistralai-mistral-small-3-2-24b-instruct",
+   "name": "Mistral Small 3.2 24B",
+   "replacement": {
+    "id": "tracked-mistralai-mistral-small-2603",
+    "name": "Mistral Small 4"
+   },
+   "note": null,
+   "sourceUrl": "https://docs.mistral.ai/models",
+   "checked": "2026-11-14",
+   "status": "retired"
+  },
+  {
+   "date": "2026-07-31",
+   "event": "retired",
+   "id": "tracked-mistralai-devstral-2512",
+   "name": "Devstral 2 2512",
+   "replacement": {
+    "id": "expanded-mistralai-mistral-large-4-0",
+    "name": "Mistral Large 4"
+   },
+   "note": "Mistral named Medium 3.5 as the replacement, which is itself now deprecated; Mistral recommends Large 4.",
+   "sourceUrl": "https://docs.mistral.ai/models",
+   "checked": "2026-11-14",
+   "status": "retired"
+  },
+  {
+   "date": "2026-06-15",
+   "event": "retired",
+   "id": "tracked-anthropic-claude-sonnet-4",
+   "name": "Claude Sonnet 4",
+   "replacement": {
+    "id": "expanded-anthropic-claude-sonnet-5-5",
+    "name": "Claude Sonnet 5.5"
+   },
+   "note": "Retired on the Claude API; partner clouds may still list it.",
+   "sourceUrl": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
+   "checked": "2026-11-14",
+   "status": "retired"
+  },
+  {
+   "date": "2026-06-15",
+   "event": "retired",
+   "id": "tracked-anthropic-claude-opus-4",
+   "name": "Claude Opus 4",
+   "replacement": {
+    "id": "claude-opus-4-8",
+    "name": "Claude Opus 4.8"
+   },
+   "note": "Retired on the Claude API; partner clouds may still list it.",
+   "sourceUrl": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
+   "checked": "2026-11-14",
+   "status": "retired"
+  },
+  {
+   "date": "2026-05",
+   "event": "retired",
+   "id": "tracked-moonshotai-kimi-k2-thinking",
+   "name": "Kimi K2 Thinking",
+   "replacement": {
+    "id": "kimi-k3",
+    "name": "Kimi K3"
+   },
+   "note": "Moonshot AI gives the month only.",
+   "sourceUrl": "https://platform.kimi.ai/docs/platform-changelog",
+   "checked": "2026-11-14",
+   "status": "retired"
+  },
+  {
+   "date": "2026-05",
+   "event": "retired",
+   "id": "tracked-moonshotai-kimi-k2",
+   "name": "Kimi K2 0711",
+   "replacement": {
+    "id": "kimi-k3",
+    "name": "Kimi K3"
+   },
+   "note": "Moonshot AI gives the month only.",
+   "sourceUrl": "https://platform.kimi.ai/docs/platform-changelog",
+   "checked": "2026-11-14",
+   "status": "retired"
+  },
+  {
+   "date": "2026-04-20",
+   "event": "retired",
+   "id": "tracked-anthropic-claude-3-haiku",
+   "name": "Claude 3 Haiku",
+   "replacement": {
+    "id": "expanded-anthropic-claude-haiku-4-5",
+    "name": "Claude Haiku 4.5"
+   },
+   "note": "Retired on the Claude API; partner clouds may still list it.",
+   "sourceUrl": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
+   "checked": "2026-11-14",
+   "status": "retired"
+  }
+ ]
+}

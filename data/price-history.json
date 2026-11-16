@@ -1,0 +1,4637 @@
+{
+ "schemaVersion": "aiscoreboard-price-history-1",
+ "notice": "API prices in USD per 1M tokens (input, output) as each catalogue edition showed them. src vendor = read on the vendor's own pricing page; src router = observed on the OpenRouter router. A point is added only when a price, its source or its retirement status changed. ed = the archived edition (next/data/editions/<ed>...). A move from a router price to the vendor's page is a better source, not a price change, so it is not listed under changes.",
+ "license": {
+  "name": "CC BY 4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "AIScoreboard (aiscoreboard.app), https://aiscoreboard.app/price-changes/"
+ },
+ "firstObservation": "2026-09-08",
+ "lastObservation": "2026-11-16",
+ "changes": [
+  {
+   "at": "2026-11-16",
+   "id": "expanded-deepseek-deepseek-v4-1-flash",
+   "name": "DeepSeek V4.1 Flash",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.0507,
+    0.2028
+   ],
+   "to": [
+    0.14,
+    0.42
+   ]
+  },
+  {
+   "at": "2026-11-16",
+   "id": "tracked-google-gemma-4-26b-a4b-it",
+   "name": "Gemma 4 26B A4B",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.0675,
+    0.225
+   ],
+   "to": [
+    0.09,
+    0.3
+   ]
+  },
+  {
+   "at": "2026-11-16",
+   "id": "expanded-z-ai-glm-4-5-air",
+   "name": "GLM 4.5 Air",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.2,
+    1.1
+   ],
+   "to": [
+    0.13,
+    0.85
+   ]
+  },
+  {
+   "at": "2026-11-16",
+   "id": "expanded-openai-gpt-oss-20b",
+   "name": "gpt-oss-20b",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.03,
+    0.13
+   ],
+   "to": [
+    0.075,
+    0.3
+   ]
+  },
+  {
+   "at": "2026-11-16",
+   "id": "expanded-ibm-granite-granite-4-2-8b",
+   "name": "Granite 4.2 8B",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.06,
+    0.25
+   ],
+   "to": [
+    0.06,
+    0.15
+   ]
+  },
+  {
+   "at": "2026-11-16",
+   "id": "expanded-minimax-minimax-m2-5",
+   "name": "MiniMax M2.5",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.27,
+    0.95
+   ],
+   "to": [
+    0.295,
+    1.2
+   ]
+  },
+  {
+   "at": "2026-11-16",
+   "id": "expanded-qwen-qwen3-5-397b-a17b",
+   "name": "Qwen3.5 397B A17B",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.6,
+    3.6
+   ],
+   "to": [
+    0.45,
+    3
+   ]
+  },
+  {
+   "at": "2026-11-16",
+   "id": "tracked-qwen-qwen3-5-9b",
+   "name": "Qwen3.5-9B",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.022,
+    0.032
+   ],
+   "to": [
+    0.081,
+    0.118
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-deepseek-deepseek-chat-v3-0324",
+   "name": "DeepSeek V3 0324",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.25,
+    1
+   ],
+   "to": [
+    0.29,
+    1.14
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-deepseek-deepseek-v3-2",
+   "name": "DeepSeek V3.2",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.269,
+    0.4
+   ],
+   "to": [
+    0.26,
+    0.38
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-deepseek-deepseek-v4-flash",
+   "name": "DeepSeek V4 Flash 0423",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.08554,
+    0.17108
+   ],
+   "to": [
+    0.09,
+    0.18
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-deepseek-deepseek-v4-pro",
+   "name": "DeepSeek V4 Pro 0423",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.954738,
+    1.909476
+   ],
+   "to": [
+    0.9,
+    1.5
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-google-gemma-3-27b-it",
+   "name": "Gemma 3 27B",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.08,
+    0.45
+   ],
+   "to": [
+    0.08,
+    0.35
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-google-gemma-4-26b-a4b-it",
+   "name": "Gemma 4 26B A4B",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.042,
+    0.22
+   ],
+   "to": [
+    0.0675,
+    0.225
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-google-gemma-4-31b-it",
+   "name": "Gemma 4 31B",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.09,
+    0.34
+   ],
+   "to": [
+    0.2,
+    0.4
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-z-ai-glm-4-5-air",
+   "name": "GLM 4.5 Air",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.13,
+    0.85
+   ],
+   "to": [
+    0.2,
+    1.1
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-z-ai-glm-4-6",
+   "name": "GLM 4.6",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.43,
+    1.75
+   ],
+   "to": [
+    0.5,
+    2
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-z-ai-glm-4-7",
+   "name": "GLM 4.7",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.4,
+    1.75
+   ],
+   "to": [
+    0.6,
+    2.2
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-z-ai-glm-4-7",
+   "name": "GLM 4.7",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.6,
+    2.2
+   ],
+   "to": [
+    0.4,
+    1.75
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-openai-gpt-oss-120b",
+   "name": "gpt-oss-120b",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.037,
+    0.17
+   ],
+   "to": [
+    0.15,
+    0.6
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-meta-llama-llama-3-1-70b-instruct",
+   "name": "Llama 3.1 70B Instruct",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.4,
+    0.4
+   ],
+   "to": [
+    0.72,
+    0.72
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-meta-llama-llama-3-1-8b-instruct",
+   "name": "Llama 3.1 8B Instruct",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.05,
+    0.08
+   ],
+   "to": [
+    0.02,
+    0.04
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-meta-llama-llama-3-2-3b-instruct",
+   "name": "Llama 3.2 3B Instruct",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.05,
+    0.33
+   ],
+   "to": [
+    0.0509,
+    0.335
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-meta-llama-llama-3-3-70b-instruct",
+   "name": "Llama 3.3 70B Instruct",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.1,
+    0.32
+   ],
+   "to": [
+    0.71,
+    0.71
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-meta-llama-llama-4-maverick",
+   "name": "Llama 4 Maverick",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.2,
+    0.696
+   ],
+   "to": [
+    0.35,
+    1
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-xiaomi-mimo-v2-5",
+   "name": "MiMo-V2.5",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.14,
+    0.28
+   ],
+   "to": [
+    0.4,
+    2
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-minimax-minimax-m2-5",
+   "name": "MiniMax M2.5",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.3,
+    1.2
+   ],
+   "to": [
+    0.27,
+    0.95
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-minimax-minimax-m2-7",
+   "name": "MiniMax M2.7",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.3,
+    1.2
+   ],
+   "to": [
+    0.21,
+    0.84
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-mistralai-mistral-nemo",
+   "name": "Mistral Nemo",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.019,
+    0.03
+   ],
+   "to": [
+    0.029,
+    0.03
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-meta-muse-glimmer-30b",
+   "name": "Muse Glimmer 30B",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.3,
+    1.1
+   ],
+   "to": [
+    0.3,
+    1.2
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-gryphe-mythomax-l2-13b",
+   "name": "MythoMax 13B",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.06,
+    0.06
+   ],
+   "to": [
+    0.08,
+    0.11
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-nvidia-nemotron-3-nano-30b-a3b",
+   "name": "Nemotron 3 Nano 30B A3B",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.05,
+    0.2
+   ],
+   "to": [
+    0.06,
+    0.24
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-nvidia-nemotron-3-super-120b-a12b",
+   "name": "Nemotron 3 Super",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.085,
+    0.4
+   ],
+   "to": [
+    0.075,
+    0.4
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-nvidia-nemotron-3-ultra-550b-a55b",
+   "name": "Nemotron 3 Ultra",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.625,
+    3.125
+   ],
+   "to": [
+    0.6,
+    2.4
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-nvidia-nemotron-3-5-lightning",
+   "name": "Nemotron 3.5 Lightning",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.08,
+    0.2
+   ],
+   "to": [
+    0.07,
+    0.2
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-nvidia-nemotron-3-5-super-vl",
+   "name": "Nemotron 3.5 Super VL",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.15,
+    0.47
+   ],
+   "to": [
+    0.15,
+    0.5
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-qwen-qwen3-14b",
+   "name": "Qwen3 14B",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.2275,
+    0.91
+   ],
+   "to": [
+    0.12,
+    0.24
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-qwen-qwen3-235b-a22b-2507",
+   "name": "Qwen3 235B A22B Instruct 2507",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.22,
+    0.88
+   ],
+   "to": [
+    0.14,
+    0.8
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-qwen-qwen3-235b-a22b-thinking-2507",
+   "name": "Qwen3 235B A22B Thinking 2507",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.23,
+    2.3
+   ],
+   "to": [
+    0.45,
+    3.5
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-qwen-qwen3-30b-a3b-instruct-2507",
+   "name": "Qwen3 30B A3B Instruct 2507",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.09,
+    0.3
+   ],
+   "to": [
+    0.1,
+    0.3
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-qwen-qwen3-coder-30b-a3b-instruct",
+   "name": "Qwen3 Coder 30B A3B Instruct",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.07,
+    0.28
+   ],
+   "to": [
+    0.15,
+    0.6
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-qwen-qwen3-vl-8b-instruct",
+   "name": "Qwen3 VL 8B Instruct",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.117,
+    0.455
+   ],
+   "to": [
+    0.25,
+    0.75
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-qwen-qwen3-5-397b-a17b",
+   "name": "Qwen3.5 397B A17B",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.55,
+    3.5
+   ],
+   "to": [
+    0.6,
+    3.6
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-qwen-qwen3-5-27b",
+   "name": "Qwen3.5-27B",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.195,
+    1.56
+   ],
+   "to": [
+    0.26,
+    2.6
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-qwen-qwen3-5-9b",
+   "name": "Qwen3.5-9B",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.1,
+    0.15
+   ],
+   "to": [
+    0.03,
+    0.043
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-qwen-qwen3-5-9b",
+   "name": "Qwen3.5-9B",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.03,
+    0.043
+   ],
+   "to": [
+    0.17,
+    0.25
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-qwen-qwen3-5-9b",
+   "name": "Qwen3.5-9B",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.17,
+    0.25
+   ],
+   "to": [
+    0.022,
+    0.032
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-deepseek-deepseek-r1-0528",
+   "name": "R1 0528",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.5,
+    2.15
+   ],
+   "to": [
+    0.571,
+    2.286
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "tracked-deepseek-deepseek-r1-0528",
+   "name": "R1 0528",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.571,
+    2.286
+   ],
+   "to": [
+    0.5,
+    2.15
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-undi95-remm-slerp-l2-13b",
+   "name": "ReMM SLERP 13B",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.35,
+    0.65
+   ],
+   "to": [
+    0.3,
+    0.5
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-upstage-solar-pro4",
+   "name": "Solar Pro 4",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.09,
+    0.36
+   ],
+   "to": [
+    0.15,
+    0.6
+   ]
+  },
+  {
+   "at": "2026-11-15",
+   "id": "expanded-mancer-weaver",
+   "name": "Weaver (alpha)",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.4,
+    0.75
+   ],
+   "to": [
+    0.3,
+    0.5
+   ]
+  },
+  {
+   "at": "2026-11-14",
+   "id": "deepseek-v4-flash",
+   "name": "DeepSeek V4 Flash",
+   "kind": "retired",
+   "src": "vendor",
+   "from": [
+    0.44,
+    1.32
+   ]
+  },
+  {
+   "at": "2026-11-14",
+   "id": "expanded-deepseek-deepseek-v4-flash",
+   "name": "DeepSeek V4 Flash 0423",
+   "kind": "retired",
+   "src": "vendor",
+   "from": [
+    0.09,
+    0.18
+   ]
+  },
+  {
+   "at": "2026-11-14",
+   "id": "tracked-deepseek-deepseek-v4-flash-vision-exp",
+   "name": "DeepSeek V4 Flash Vision Exp",
+   "kind": "retired",
+   "src": "vendor",
+   "from": [
+    0.44,
+    1.32
+   ]
+  },
+  {
+   "at": "2026-11-14",
+   "id": "tracked-mistralai-devstral-2512",
+   "name": "Devstral 2 2512",
+   "kind": "retired",
+   "src": "vendor",
+   "from": [
+    0.4,
+    2
+   ]
+  },
+  {
+   "at": "2026-11-14",
+   "id": "tracked-moonshotai-kimi-k2",
+   "name": "Kimi K2 0711",
+   "kind": "retired",
+   "src": "vendor",
+   "from": [
+    0.57,
+    2.3
+   ]
+  },
+  {
+   "at": "2026-11-14",
+   "id": "tracked-moonshotai-kimi-k2-thinking",
+   "name": "Kimi K2 Thinking",
+   "kind": "retired",
+   "src": "vendor",
+   "from": [
+    0.6,
+    2.5
+   ]
+  },
+  {
+   "at": "2026-11-14",
+   "id": "tracked-moonshotai-kimi-k2-5",
+   "name": "Kimi K2.5",
+   "kind": "retired",
+   "src": "vendor",
+   "from": [
+    0.45,
+    2.25
+   ]
+  },
+  {
+   "at": "2026-11-14",
+   "id": "tracked-mistralai-mistral-medium-3",
+   "name": "Mistral Medium 3",
+   "kind": "retired",
+   "src": "vendor",
+   "from": [
+    0.4,
+    2
+   ]
+  },
+  {
+   "at": "2026-11-14",
+   "id": "tracked-mistralai-mistral-small-3-2-24b-instruct",
+   "name": "Mistral Small 3.2 24B",
+   "kind": "retired",
+   "src": "vendor",
+   "from": [
+    0.075,
+    0.2
+   ]
+  }
+ ],
+ "models": {
+  "claude-fable-5": [
+   {
+    "in": 10,
+    "out": 50,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "claude-fable-5-1": [
+   {
+    "in": 10,
+    "out": 50,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "claude-opus-4-7": [
+   {
+    "in": 5,
+    "out": 25,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "claude-opus-4-8": [
+   {
+    "in": 5,
+    "out": 25,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "claude-opus-5": [
+   {
+    "in": 5,
+    "out": 25,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "claude-sonnet-4-6": [
+   {
+    "in": 3,
+    "out": 15,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "claude-sonnet-5": [
+   {
+    "in": 2,
+    "out": 10,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "deepseek-v4-flash": [
+   {
+    "in": 0.44,
+    "out": 1.32,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   },
+   {
+    "status": "retired",
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "deepseek-v4-pro-0813": [
+   {
+    "in": 1.32,
+    "out": 3.96,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-aion-labs-aion-2-0": [
+   {
+    "in": 0.8,
+    "out": 1.6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-aion-labs-aion-3-0": [
+   {
+    "in": 3,
+    "out": 6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-aion-labs-aion-3-0-mini": [
+   {
+    "in": 0.7,
+    "out": 1.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-aion-labs-aion-3-5": [
+   {
+    "in": 3,
+    "out": 6,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-aion-labs-aion-3-5-mini": [
+   {
+    "in": 0.7,
+    "out": 1.4,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-aion-labs-aion-rp-llama-3-1-8b": [
+   {
+    "in": 0.8,
+    "out": 1.6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-amazon-nova-2-lite-v1": [
+   {
+    "in": 0.3,
+    "out": 2.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-amazon-nova-lite-v1": [
+   {
+    "in": 0.06,
+    "out": 0.24,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-amazon-nova-micro-v1": [
+   {
+    "in": 0.035,
+    "out": 0.14,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-amazon-nova-premier-v1": [
+   {
+    "in": 2.5,
+    "out": 12.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-amazon-nova-pro-v1": [
+   {
+    "in": 0.8,
+    "out": 3.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-anthracite-org-magnum-v4-72b": [
+   {
+    "in": 2.5,
+    "out": 5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-anthropic-claude-fable-5-2": [
+   {
+    "in": 8,
+    "out": 40,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 8,
+    "out": 40,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-anthropic-claude-haiku-4-5": [
+   {
+    "in": 1,
+    "out": 5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-anthropic-claude-haiku-5-5": [
+   {
+    "in": 0.1,
+    "out": 0.5,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-anthropic-claude-opus-5-5": [
+   {
+    "in": 4,
+    "out": 20,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 4,
+    "out": 20,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-anthropic-claude-sonnet-5-5": [
+   {
+    "in": 2,
+    "out": 10,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 2,
+    "out": 10,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-arcee-ai-trinity-large-thinking": [
+   {
+    "in": 0.25,
+    "out": 0.8,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-baidu-ernie-4-5-vl-424b-a47b": [
+   {
+    "in": 0.42,
+    "out": 1.25,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-baidu-ernie-5-5-flash-preview-free": [
+   {
+    "in": 0,
+    "out": 0,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-baidu-ernie-light-dt-1-0-intl": [
+   {
+    "in": 1.13,
+    "out": 3.94,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-bytedance-seed-seed-2-1-turbo": [
+   {
+    "in": 0.5,
+    "out": 2.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-bytedance-ui-tars-1-5-7b": [
+   {
+    "in": 0.1,
+    "out": 0.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-cognitivecomputations-dolphin-mistral-24b-venice-edition": [
+   {
+    "in": 0.2,
+    "out": 0.9,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-cohere-command-a": [
+   {
+    "in": 2.5,
+    "out": 10,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-cohere-command-a-plus": [
+   {
+    "in": 0.3,
+    "out": 1.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-cohere-command-r-08-2024": [
+   {
+    "in": 0.15,
+    "out": 0.6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-cohere-command-r-plus-08-2024": [
+   {
+    "in": 2.5,
+    "out": 10,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-cohere-command-r7b-12-2024": [
+   {
+    "in": 0.0375,
+    "out": 0.15,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-cohere-north-mini-code-free": [
+   {
+    "in": 0,
+    "out": 0,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-deepseek-deepseek-chat": [
+   {
+    "in": 0.2574,
+    "out": 1.0287,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-deepseek-deepseek-chat-v3-0324": [
+   {
+    "in": 0.25,
+    "out": 1,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.29,
+    "out": 1.14,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-deepseek-deepseek-r1": [
+   {
+    "in": 0.7,
+    "out": 2.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-deepseek-deepseek-v3-2-exp": [
+   {
+    "in": 0.27,
+    "out": 0.41,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-deepseek-deepseek-v4-1-flash": [
+   {
+    "in": 0.0507,
+    "out": 0.2028,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.14,
+    "out": 0.42,
+    "at": "2026-11-16",
+    "src": "router",
+    "ed": "next-350051c3"
+   }
+  ],
+  "expanded-deepseek-deepseek-v4-1-flash-1017": [
+   {
+    "in": 0.038,
+    "out": 0.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.3,
+    "out": 1.2,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-deepseek-deepseek-v4-flash": [
+   {
+    "in": 0.08554,
+    "out": 0.17108,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.09,
+    "out": 0.18,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "status": "retired",
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-dots-studio-dots-3-note-preview-free": [
+   {
+    "in": 0,
+    "out": 0,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-elorian-glimpse": [
+   {
+    "in": 0.6,
+    "out": 3,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-fireworks-ember-1": [
+   {
+    "in": 3,
+    "out": 15,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-google-gemini-2-5-flash": [
+   {
+    "in": 0.3,
+    "out": 2.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-google-gemini-2-5-flash-lite": [
+   {
+    "in": 0.1,
+    "out": 0.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-google-gemini-3-1-flash-lite-preview": [
+   {
+    "in": 0.25,
+    "out": 1.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-google-gemini-3-flash-preview": [
+   {
+    "in": 0.5,
+    "out": 3,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-google-gemini-4-argon": [
+   {
+    "in": 2,
+    "out": 10,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 2,
+    "out": 10,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-google-gemini-4-carbon": [
+   {
+    "in": 2,
+    "out": 10,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 2,
+    "out": 10,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-google-gemini-4-hydrogen": [
+   {
+    "in": 1.5,
+    "out": 7.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 1.5,
+    "out": 7.5,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-google-gemma-2-27b-it": [
+   {
+    "in": 0.65,
+    "out": 0.65,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-google-gemma-3-12b-it": [
+   {
+    "in": 0.05,
+    "out": 0.15,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-google-gemma-3-27b-it": [
+   {
+    "in": 0.08,
+    "out": 0.45,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.08,
+    "out": 0.35,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-google-gemma-3-4b-it": [
+   {
+    "in": 0.05,
+    "out": 0.1,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-gryphe-mythomax-l2-13b": [
+   {
+    "in": 0.06,
+    "out": 0.06,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.08,
+    "out": 0.11,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-ibm-granite-granite-4-0-h-micro": [
+   {
+    "in": 0.017,
+    "out": 0.112,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-ibm-granite-granite-4-2-8b": [
+   {
+    "in": 0.06,
+    "out": 0.25,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.06,
+    "out": 0.15,
+    "at": "2026-11-16",
+    "src": "router",
+    "ed": "next-350051c3"
+   }
+  ],
+  "expanded-inception-mercury-2": [
+   {
+    "in": 0.25,
+    "out": 0.75,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-inception-mercury-2-5": [
+   {
+    "in": 0.04,
+    "out": 0.15,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-inclusionai-ling-3-0-flash": [
+   {
+    "in": 0.021,
+    "out": 0.063,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-inclusionai-ling-3-0-flash-fin": [
+   {
+    "in": 0.06,
+    "out": 0.18,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-inclusionai-ling-3-0-flash-sante-free": [
+   {
+    "in": 0,
+    "out": 0,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-inclusionai-ling-3-0-flash-vl": [
+   {
+    "in": 0.06,
+    "out": 0.18,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-inclusionai-ling-3-0-tiny": [
+   {
+    "in": 0.015,
+    "out": 0.045,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-inclusionai-ling-3-1-flash": [
+   {
+    "in": 0.045,
+    "out": 0.135,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-inclusionai-ling-3-2-flash-free": [
+   {
+    "in": 0,
+    "out": 0,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-inference-net-schematron-v2-small": [
+   {
+    "in": 0.05,
+    "out": 0.23,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-inference-net-schematron-v2-turbo": [
+   {
+    "in": 0.03,
+    "out": 0.15,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-kt-midm-k-3-0-pro": [
+   {
+    "in": 0.2,
+    "out": 0.8,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-kwaipilot-kat-coder-pro-v2": [
+   {
+    "in": 0.3,
+    "out": 1.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-kwaipilot-kat-coder-pro-v2-5": [
+   {
+    "in": 0.74,
+    "out": 2.96,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-liquid-lfm-2-5-2-6b-free": [
+   {
+    "in": 0,
+    "out": 0,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-liquid-lfm-2-5-24b-a2b": [
+   {
+    "in": 0.05,
+    "out": 0.7,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-liquid-lfm-3-1-7b": [
+   {
+    "in": 0.08,
+    "out": 0.2,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-mancer-weaver": [
+   {
+    "in": 0.4,
+    "out": 0.75,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.3,
+    "out": 0.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-meituan-longcat-2-0": [
+   {
+    "in": 0.3,
+    "out": 1.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-meta-muse-ember": [
+   {
+    "in": 0.1,
+    "out": 0.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-meta-muse-glimmer-30b": [
+   {
+    "in": 0.3,
+    "out": 1.1,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.3,
+    "out": 1.2,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-meta-muse-spark-1-1": [
+   {
+    "in": 1.25,
+    "out": 4.25,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-meta-muse-spark-1-2": [
+   {
+    "in": 1.25,
+    "out": 4.25,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-meta-muse-spark-1-2-contributor": [
+   {
+    "in": 0.1,
+    "out": 0.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-meta-muse-spark-1-3-contributor": [
+   {
+    "in": 0.1,
+    "out": 0.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-meta-muse-spark-open": [
+   {
+    "in": 1.25,
+    "out": 4.25,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-meta-muse-wonder": [
+   {
+    "in": 4,
+    "out": 20,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 4,
+    "out": 20,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-microsoft-phi-4": [
+   {
+    "in": 0.07,
+    "out": 0.14,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-microsoft-wizardlm-2-8x22b": [
+   {
+    "in": 0.62,
+    "out": 0.62,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-minimax-minimax-01": [
+   {
+    "in": 0.2,
+    "out": 1.1,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-minimax-minimax-m1": [
+   {
+    "in": 0.55,
+    "out": 2.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-minimax-minimax-m2": [
+   {
+    "in": 0.255,
+    "out": 1.02,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-minimax-minimax-m2-1": [
+   {
+    "in": 0.3,
+    "out": 1.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-minimax-minimax-m2-5": [
+   {
+    "in": 0.3,
+    "out": 1.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.27,
+    "out": 0.95,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.295,
+    "out": 1.2,
+    "at": "2026-11-16",
+    "src": "router",
+    "ed": "next-350051c3"
+   }
+  ],
+  "expanded-minimax-minimax-m2-7": [
+   {
+    "in": 0.3,
+    "out": 1.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.21,
+    "out": 0.84,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-minimax-minimax-m2-her": [
+   {
+    "in": 0.3,
+    "out": 1.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-minimax-minimax-m3": [
+   {
+    "in": 0.3,
+    "out": 1.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-mistralai-ministral-14b-2512": [
+   {
+    "in": 0.2,
+    "out": 0.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-mistralai-mistral-large": [
+   {
+    "in": 2,
+    "out": 6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-mistralai-mistral-large-2407": [
+   {
+    "in": 2,
+    "out": 6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-mistralai-mistral-large-2512": [
+   {
+    "in": 0.5,
+    "out": 1.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-mistralai-mistral-large-4-0": [
+   {
+    "in": 0.7,
+    "out": 2.1,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.7,
+    "out": 2.1,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-mistralai-mistral-medium-3-1": [
+   {
+    "in": 0.4,
+    "out": 2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-mistralai-mistral-nemo": [
+   {
+    "in": 0.019,
+    "out": 0.03,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.029,
+    "out": 0.03,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-mistralai-mistral-saba": [
+   {
+    "in": 0.2,
+    "out": 0.6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-mistralai-mistral-small-24b-instruct-2501": [
+   {
+    "in": 0.05,
+    "out": 0.08,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-mistralai-mistral-small-3-1-24b-instruct": [
+   {
+    "in": 0.351,
+    "out": 0.555,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-mistralai-mixtral-8x22b-instruct": [
+   {
+    "in": 2,
+    "out": 6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-mistralai-voxtral-small-24b-2507": [
+   {
+    "in": 0.1,
+    "out": 0.3,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-moondream-moondream3-1-9b-a2b": [
+   {
+    "in": 0.3,
+    "out": 2.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-moondream-moondream3-preview": [
+   {
+    "in": 0.3,
+    "out": 2.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-moonshotai-kimi-k2-0905": [
+   {
+    "in": 0.6,
+    "out": 2.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-moonshotai-kimi-k3-1-pro": [
+   {
+    "in": 2,
+    "out": 10,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 2,
+    "out": 10,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-morph-morph-v3-fast": [
+   {
+    "in": 0.8,
+    "out": 1.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-morph-morph-v3-large": [
+   {
+    "in": 0.9,
+    "out": 1.9,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-motif-technologies-motif-3": [
+   {
+    "in": 0.3,
+    "out": 1.2,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-nex-agi-nex-n2-5-mini": [
+   {
+    "in": 0.025,
+    "out": 0.1,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-nex-agi-nex-n2-5-mini-free": [
+   {
+    "in": 0,
+    "out": 0,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-nex-agi-nex-n2-5-pro": [
+   {
+    "in": 0.075,
+    "out": 0.25,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-nex-agi-nex-n2-5-pro-free": [
+   {
+    "in": 0,
+    "out": 0,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-nex-agi-nex-n2-6": [
+   {
+    "in": 0.12,
+    "out": 0.4,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-nousresearch-hermes-3-llama-3-1-405b": [
+   {
+    "in": 1,
+    "out": 1,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-nousresearch-hermes-3-llama-3-1-70b": [
+   {
+    "in": 0.7,
+    "out": 0.7,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-nousresearch-hermes-4-405b": [
+   {
+    "in": 1,
+    "out": 3,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-nvidia-nemotron-3-5-content-safety": [
+   {
+    "in": 0.2,
+    "out": 0.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-nvidia-nemotron-3-5-lightning": [
+   {
+    "in": 0.08,
+    "out": 0.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.07,
+    "out": 0.2,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-nvidia-nemotron-3-5-super-vl": [
+   {
+    "in": 0.15,
+    "out": 0.47,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.15,
+    "out": 0.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-d04174b7"
+   }
+  ],
+  "expanded-nvidia-nemotron-3-nano-30b-a3b": [
+   {
+    "in": 0.05,
+    "out": 0.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.06,
+    "out": 0.24,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-nvidia-nemotron-3-nano-omni-30b-a3b-reasoning-free": [
+   {
+    "in": 0,
+    "out": 0,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-nvidia-nemotron-3-super-120b-a12b": [
+   {
+    "in": 0.085,
+    "out": 0.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.075,
+    "out": 0.4,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-nvidia-nemotron-3-ultra-550b-a55b": [
+   {
+    "in": 0.625,
+    "out": 3.125,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.6,
+    "out": 2.4,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-openai-gpt-3-5-turbo": [
+   {
+    "in": 0.5,
+    "out": 1.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-3-5-turbo-0613": [
+   {
+    "in": 1,
+    "out": 2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-3-5-turbo-16k": [
+   {
+    "in": 3,
+    "out": 4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-3-5-turbo-instruct": [
+   {
+    "in": 1.5,
+    "out": 2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-4": [
+   {
+    "in": 30,
+    "out": 60,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-4-1": [
+   {
+    "in": 2,
+    "out": 8,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-4-1-mini": [
+   {
+    "in": 0.4,
+    "out": 1.6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-4-1-nano": [
+   {
+    "in": 0.1,
+    "out": 0.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-4-turbo": [
+   {
+    "in": 10,
+    "out": 30,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-4-turbo-preview": [
+   {
+    "in": 10,
+    "out": 30,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-4o": [
+   {
+    "in": 2.5,
+    "out": 10,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-4o-2024-05-13": [
+   {
+    "in": 5,
+    "out": 15,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-4o-2024-08-06": [
+   {
+    "in": 2.5,
+    "out": 10,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-4o-2024-11-20": [
+   {
+    "in": 2.5,
+    "out": 10,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-4o-mini": [
+   {
+    "in": 0.15,
+    "out": 0.6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-4o-mini-2024-07-18": [
+   {
+    "in": 0.15,
+    "out": 0.6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5": [
+   {
+    "in": 1.25,
+    "out": 10,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5-1": [
+   {
+    "in": 1.25,
+    "out": 10,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5-1-codex": [
+   {
+    "in": 1.25,
+    "out": 10,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5-1-codex-max": [
+   {
+    "in": 1.25,
+    "out": 10,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5-1-codex-mini": [
+   {
+    "in": 0.25,
+    "out": 2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5-2": [
+   {
+    "in": 1.75,
+    "out": 14,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5-2-chat": [
+   {
+    "in": 1.75,
+    "out": 14,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5-2-codex": [
+   {
+    "in": 1.75,
+    "out": 14,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5-2-pro": [
+   {
+    "in": 21,
+    "out": 168,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5-3-codex": [
+   {
+    "in": 1.75,
+    "out": 14,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5-4-nano": [
+   {
+    "in": 0.2,
+    "out": 1.25,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5-mini": [
+   {
+    "in": 0.25,
+    "out": 2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5-nano": [
+   {
+    "in": 0.05,
+    "out": 0.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-5-pro": [
+   {
+    "in": 15,
+    "out": 120,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-gpt-6-1-sol": [
+   {
+    "in": 2,
+    "out": 10,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-openai-gpt-6-1-terra": [
+   {
+    "in": 1,
+    "out": 5,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-openai-gpt-6-luna": [
+   {
+    "in": 0.1,
+    "out": 0.5,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-openai-gpt-6-sol": [
+   {
+    "in": 2,
+    "out": 10,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-openai-gpt-oss-120b": [
+   {
+    "in": 0.037,
+    "out": 0.17,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.15,
+    "out": 0.6,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-openai-gpt-oss-20b": [
+   {
+    "in": 0.03,
+    "out": 0.13,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.075,
+    "out": 0.3,
+    "at": "2026-11-16",
+    "src": "router",
+    "ed": "next-350051c3"
+   }
+  ],
+  "expanded-openai-gpt-oss-safeguard-20b": [
+   {
+    "in": 0.075,
+    "out": 0.3,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-o1": [
+   {
+    "in": 15,
+    "out": 60,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-o1-pro": [
+   {
+    "in": 150,
+    "out": 600,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-o3": [
+   {
+    "in": 2,
+    "out": 8,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-o3-mini": [
+   {
+    "in": 1.1,
+    "out": 4.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-o3-mini-high": [
+   {
+    "in": 1.1,
+    "out": 4.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-o3-pro": [
+   {
+    "in": 20,
+    "out": 80,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-o4-mini": [
+   {
+    "in": 1.1,
+    "out": 4.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-openai-o4-mini-high": [
+   {
+    "in": 1.1,
+    "out": 4.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-particle-ai-particle-1": [
+   {
+    "in": 0.06,
+    "out": 0.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-perceptron-perceptron-mk1": [
+   {
+    "in": 0.15,
+    "out": 1.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-perceptron-perceptron-mk1-5": [
+   {
+    "in": 0.15,
+    "out": 1.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-perplexity-sonar": [
+   {
+    "in": 1,
+    "out": 1,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-perplexity-sonar-deep-research": [
+   {
+    "in": 2,
+    "out": 8,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-perplexity-sonar-pro": [
+   {
+    "in": 3,
+    "out": 15,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-perplexity-sonar-pro-search": [
+   {
+    "in": 3,
+    "out": 15,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-perplexity-sonar-reasoning-pro": [
+   {
+    "in": 2,
+    "out": 8,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-poolside-laguna-s-2-1": [
+   {
+    "in": 0.09,
+    "out": 0.18,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-poolside-laguna-xs-2-1": [
+   {
+    "in": 0.06,
+    "out": 0.12,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-prism-ml-ternary-bonsai-2-27b": [
+   {
+    "in": 0.075,
+    "out": 0.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-prism-ml-ternary-bonsai-2-9b": [
+   {
+    "in": 0.08,
+    "out": 0.13,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-qwen-qwen-2-5-72b-instruct": [
+   {
+    "in": 0.36,
+    "out": 0.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen-2-5-7b-instruct": [
+   {
+    "in": 0.1,
+    "out": 0.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen-2-5-coder-32b-instruct": [
+   {
+    "in": 0.66,
+    "out": 1,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen2-5-vl-72b-instruct": [
+   {
+    "in": 0.8,
+    "out": 1,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-14b": [
+   {
+    "in": 0.2275,
+    "out": 0.91,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.12,
+    "out": 0.24,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-qwen-qwen3-235b-a22b": [
+   {
+    "in": 0.455,
+    "out": 1.82,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-235b-a22b-2507": [
+   {
+    "in": 0.22,
+    "out": 0.88,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.14,
+    "out": 0.8,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-qwen-qwen3-235b-a22b-thinking-2507": [
+   {
+    "in": 0.23,
+    "out": 2.3,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.45,
+    "out": 3.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-qwen-qwen3-30b-a3b": [
+   {
+    "in": 0.12,
+    "out": 0.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-30b-a3b-instruct-2507": [
+   {
+    "in": 0.09,
+    "out": 0.3,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.1,
+    "out": 0.3,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-qwen-qwen3-30b-a3b-thinking-2507": [
+   {
+    "in": 0.2,
+    "out": 2.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-32b": [
+   {
+    "in": 0.08,
+    "out": 0.28,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-5-122b-a10b": [
+   {
+    "in": 0.26,
+    "out": 2.08,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-5-27b": [
+   {
+    "in": 0.195,
+    "out": 1.56,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.26,
+    "out": 2.6,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-qwen-qwen3-5-397b-a17b": [
+   {
+    "in": 0.55,
+    "out": 3.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.6,
+    "out": 3.6,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.45,
+    "out": 3,
+    "at": "2026-11-16",
+    "src": "router",
+    "ed": "next-350051c3"
+   }
+  ],
+  "expanded-qwen-qwen3-5-flash-02-23": [
+   {
+    "in": 0.065,
+    "out": 0.26,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-8-2-4t-a95b": [
+   {
+    "in": 2,
+    "out": 6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-8-max-prime": [
+   {
+    "in": 4,
+    "out": 12,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-qwen-qwen3-8-omni-flash": [
+   {
+    "in": 0.15,
+    "out": 0.47,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-qwen-qwen3-8b": [
+   {
+    "in": 0.117,
+    "out": 0.455,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-coder": [
+   {
+    "in": 0.3,
+    "out": 1,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-coder-30b-a3b-instruct": [
+   {
+    "in": 0.07,
+    "out": 0.28,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.15,
+    "out": 0.6,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-qwen-qwen3-coder-next": [
+   {
+    "in": 0.12,
+    "out": 0.8,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-next-80b-a3b-instruct": [
+   {
+    "in": 0.09,
+    "out": 1.1,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-next-80b-a3b-thinking": [
+   {
+    "in": 0.15,
+    "out": 1.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-vl-235b-a22b-instruct": [
+   {
+    "in": 0.21,
+    "out": 1.9,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-vl-235b-a22b-thinking": [
+   {
+    "in": 0.4,
+    "out": 4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-vl-30b-a3b-instruct": [
+   {
+    "in": 0.15,
+    "out": 0.6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-vl-30b-a3b-thinking": [
+   {
+    "in": 0.2,
+    "out": 2.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-vl-32b-instruct": [
+   {
+    "in": 0.104,
+    "out": 0.416,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen3-vl-8b-instruct": [
+   {
+    "in": 0.117,
+    "out": 0.455,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.25,
+    "out": 0.75,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-qwen-qwen3-vl-8b-thinking": [
+   {
+    "in": 0.18,
+    "out": 2.1,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-qwen-qwen4-max": [
+   {
+    "in": 1.5,
+    "out": 4.5,
+    "at": "2026-11-16",
+    "src": "router",
+    "ed": "next-350051c3"
+   }
+  ],
+  "expanded-recursive-flint-v1-0-free": [
+   {
+    "in": 0,
+    "out": 0,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-reflection-beam-1-0-501b-a23b": [
+   {
+    "in": 0.3,
+    "out": 1,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-rekaai-reka-edge": [
+   {
+    "in": 0.1,
+    "out": 0.1,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-rekaai-reka-flash-3": [
+   {
+    "in": 0.1,
+    "out": 0.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-relace-relace-apply-3": [
+   {
+    "in": 0.85,
+    "out": 1.25,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-relace-relace-search": [
+   {
+    "in": 1,
+    "out": 3,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-ricursiveai-ripple-65b-preview": [
+   {
+    "in": 0.1,
+    "out": 0.3,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-sakana-fugu-max": [
+   {
+    "in": 2,
+    "out": 6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-sakana-sakana-namazu": [
+   {
+    "in": 0.95,
+    "out": 4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-sao10k-l3-1-euryale-70b": [
+   {
+    "in": 0.85,
+    "out": 0.85,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-sao10k-l3-3-euryale-70b": [
+   {
+    "in": 0.65,
+    "out": 0.75,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-sao10k-l3-lunaris-8b": [
+   {
+    "in": 0.04,
+    "out": 0.05,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-scaledown-extract": [
+   {
+    "in": 0.04,
+    "out": 0,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-scaledown-summarize": [
+   {
+    "in": 0.04,
+    "out": 0,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-stepfun-step-3-5-flash": [
+   {
+    "in": 0.1,
+    "out": 0.3,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-stepfun-step-3-7-flash": [
+   {
+    "in": 0.2,
+    "out": 1.15,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-stepfun-step-5-preview": [
+   {
+    "in": 1,
+    "out": 2.7,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-tencent-hunyuan-a13b-instruct": [
+   {
+    "in": 0.14,
+    "out": 0.57,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-tencent-hy-mt2-1-8b": [
+   {
+    "in": 0.044,
+    "out": 0.177,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-tencent-hy-mt2-30b-a3b": [
+   {
+    "in": 0.074,
+    "out": 0.295,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-tencent-hy-mt2-7b": [
+   {
+    "in": 0.074,
+    "out": 0.295,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-tencent-hy3-preview": [
+   {
+    "in": 0.18,
+    "out": 0.6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-tencent-hy4": [
+   {
+    "in": 0.417,
+    "out": 1.2505,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-thedrummer-cydonia-24b-v4-1": [
+   {
+    "in": 0.3,
+    "out": 0.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-thedrummer-skyfall-36b-v2": [
+   {
+    "in": 0.55,
+    "out": 0.8,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-thedrummer-unslopnemo-12b": [
+   {
+    "in": 0.4,
+    "out": 0.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-thinkingmachines-inkling": [
+   {
+    "in": 1,
+    "out": 4.05,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-thinkingmachines-inkling-2-small": [
+   {
+    "in": 0.3,
+    "out": 1,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-thinkingmachines-inkling-small": [
+   {
+    "in": 0.45,
+    "out": 1.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-unbiased-pareto-26-10": [
+   {
+    "in": 0.8,
+    "out": 3.2,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-unbiased-pareto-26-10-preview": [
+   {
+    "in": 0.8,
+    "out": 3.2,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-unbiased-pareto-26-9": [
+   {
+    "in": 2.5,
+    "out": 7.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-undi95-remm-slerp-l2-13b": [
+   {
+    "in": 0.35,
+    "out": 0.65,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.3,
+    "out": 0.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-upstage-solar-mini4": [
+   {
+    "in": 0.05,
+    "out": 0.2,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-upstage-solar-pro-3": [
+   {
+    "in": 0.15,
+    "out": 0.6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-upstage-solar-pro4": [
+   {
+    "in": 0.09,
+    "out": 0.36,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.15,
+    "out": 0.6,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-writer-palmyra-x5": [
+   {
+    "in": 0.6,
+    "out": 6,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-x-ai-grok-4-7": [
+   {
+    "in": 2,
+    "out": 6,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-d4a6e624"
+   }
+  ],
+  "expanded-xiaomi-mimo-v2-5": [
+   {
+    "in": 0.14,
+    "out": 0.28,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.4,
+    "out": 2,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-xiaomi-mimo-v2-5-pro": [
+   {
+    "in": 0.435,
+    "out": 0.87,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-xiaomi-mimo-v2-6-flash": [
+   {
+    "in": 0.14,
+    "out": 0.28,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-xiaomi-mimo-v2-6-pro": [
+   {
+    "in": 0.435,
+    "out": 0.87,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-xiaomi-mimo-v2-6-pro-ultraspeed": [
+   {
+    "in": 4.35,
+    "out": 8.7,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-z-ai-glm-4-5": [
+   {
+    "in": 0.6,
+    "out": 2.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-z-ai-glm-4-5-air": [
+   {
+    "in": 0.13,
+    "out": 0.85,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.2,
+    "out": 1.1,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.13,
+    "out": 0.85,
+    "at": "2026-11-16",
+    "src": "router",
+    "ed": "next-350051c3"
+   }
+  ],
+  "expanded-z-ai-glm-4-5v": [
+   {
+    "in": 0.6,
+    "out": 1.8,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-z-ai-glm-4-6": [
+   {
+    "in": 0.43,
+    "out": 1.75,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.5,
+    "out": 2,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-z-ai-glm-4-6v": [
+   {
+    "in": 0.3,
+    "out": 0.9,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-z-ai-glm-4-7": [
+   {
+    "in": 0.4,
+    "out": 1.75,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.6,
+    "out": 2.2,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.4,
+    "out": 1.75,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-eeb6897b"
+   }
+  ],
+  "expanded-z-ai-glm-5-3-flashx": [
+   {
+    "in": 0.37,
+    "out": 1.25,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-z-ai-glm-5-3-flashx-legal": [
+   {
+    "in": 0.37,
+    "out": 1.25,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "expanded-z-ai-glm-5-3-prime": [
+   {
+    "in": 2.8,
+    "out": 8.8,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "gemini-3-6-flash": [
+   {
+    "in": 0.75,
+    "out": 3.75,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "gemini-3-7-flash": [
+   {
+    "in": 0.75,
+    "out": 3.75,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.75,
+    "out": 3.75,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "gemini-3-8-flash": [
+   {
+    "in": 0.75,
+    "out": 3.75,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "glm-5-2": [
+   {
+    "in": 1.4,
+    "out": 4.4,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "glm-5-3": [
+   {
+    "in": 1.4,
+    "out": 4.4,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "gpt-5-5": [
+   {
+    "in": 5,
+    "out": 30,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "gpt-5-6-luna": [
+   {
+    "in": 0.2,
+    "out": 1.2,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "gpt-5-6-sol": [
+   {
+    "in": 4,
+    "out": 20,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "gpt-5-6-terra": [
+   {
+    "in": 2,
+    "out": 12,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "gpt-6-astra": [
+   {
+    "in": 10,
+    "out": 50,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "grok-4-5": [
+   {
+    "in": 2,
+    "out": 6,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "grok-4-6": [
+   {
+    "in": 2,
+    "out": 6,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "hy3": [
+   {
+    "in": 0.132,
+    "out": 0.528,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "hy4-preview": [
+   {
+    "in": 0.834,
+    "out": 2.501,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "kimi-k3": [
+   {
+    "in": 3,
+    "out": 15,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "muse-spark-1-3": [
+   {
+    "in": 1.25,
+    "out": 4.25,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 1.25,
+    "out": 4.25,
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "qwen3-7-max": [
+   {
+    "in": 2.5,
+    "out": 7.5,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "qwen3-8-27b": [
+   {
+    "in": 0.5,
+    "out": 3,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "qwen3-8-max-0902": [
+   {
+    "in": 2,
+    "out": 6,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-anthropic-claude-3-haiku": [
+   {
+    "status": "retired",
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-anthropic-claude-opus-4": [
+   {
+    "status": "retired",
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-anthropic-claude-opus-4-1": [
+   {
+    "status": "retired",
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-anthropic-claude-opus-4-5": [
+   {
+    "in": 5,
+    "out": 25,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-anthropic-claude-opus-4-6": [
+   {
+    "in": 5,
+    "out": 25,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-anthropic-claude-sonnet-4": [
+   {
+    "status": "retired",
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-anthropic-claude-sonnet-4-5": [
+   {
+    "in": 3,
+    "out": 15,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-deepseek-deepseek-chat-v3-1": [
+   {
+    "in": 0.25,
+    "out": 0.95,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-deepseek-deepseek-r1-0528": [
+   {
+    "in": 0.5,
+    "out": 2.15,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.571,
+    "out": 2.286,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.5,
+    "out": 2.15,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-d04174b7"
+   }
+  ],
+  "tracked-deepseek-deepseek-r1-distill-llama-70b": [
+   {
+    "in": 0.8,
+    "out": 0.8,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-deepseek-deepseek-v3-1-terminus": [
+   {
+    "in": 0.27,
+    "out": 1,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-deepseek-deepseek-v3-2": [
+   {
+    "in": 0.269,
+    "out": 0.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.26,
+    "out": 0.38,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-deepseek-deepseek-v4-flash-vision-exp": [
+   {
+    "in": 0.44,
+    "out": 1.32,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   },
+   {
+    "status": "retired",
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-deepseek-deepseek-v4-pro": [
+   {
+    "in": 0.954738,
+    "out": 1.909476,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.9,
+    "out": 1.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-google-gemini-3-1-flash-lite": [
+   {
+    "in": 0.25,
+    "out": 1.5,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-google-gemini-3-1-pro-preview": [
+   {
+    "in": 2,
+    "out": 12,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-google-gemini-3-1-pro-preview-customtools": [
+   {
+    "in": 2,
+    "out": 12,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-google-gemini-3-5-flash": [
+   {
+    "in": 1.5,
+    "out": 9,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 1.5,
+    "out": 9,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-google-gemini-3-5-flash-lite": [
+   {
+    "in": 0.3,
+    "out": 2.5,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-google-gemini-3-pro-image": [
+   {
+    "in": 2,
+    "out": 12,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-google-gemma-4-26b-a4b-it": [
+   {
+    "in": 0.042,
+    "out": 0.22,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.0675,
+    "out": 0.225,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.09,
+    "out": 0.3,
+    "at": "2026-11-16",
+    "src": "router",
+    "ed": "next-350051c3"
+   }
+  ],
+  "tracked-google-gemma-4-31b-it": [
+   {
+    "in": 0.09,
+    "out": 0.34,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.2,
+    "out": 0.4,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-meta-llama-llama-3-1-70b-instruct": [
+   {
+    "in": 0.4,
+    "out": 0.4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.72,
+    "out": 0.72,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-meta-llama-llama-3-1-8b-instruct": [
+   {
+    "in": 0.05,
+    "out": 0.08,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.02,
+    "out": 0.04,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-meta-llama-llama-3-2-1b-instruct": [
+   {
+    "in": 0.027,
+    "out": 0.201,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-meta-llama-llama-3-2-3b-instruct": [
+   {
+    "in": 0.05,
+    "out": 0.33,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.0509,
+    "out": 0.335,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-meta-llama-llama-3-3-70b-instruct": [
+   {
+    "in": 0.1,
+    "out": 0.32,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.71,
+    "out": 0.71,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-meta-llama-llama-4-maverick": [
+   {
+    "in": 0.2,
+    "out": 0.696,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.35,
+    "out": 1,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-meta-llama-llama-4-scout": [
+   {
+    "in": 0.1,
+    "out": 0.3,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-meta-llama-llama-guard-4-12b": [
+   {
+    "in": 0.18,
+    "out": 0.18,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-mistralai-codestral-2508": [
+   {
+    "in": 0.3,
+    "out": 0.9,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-mistralai-devstral-2512": [
+   {
+    "in": 0.4,
+    "out": 2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "status": "retired",
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-mistralai-ministral-3b-2512": [
+   {
+    "in": 0.1,
+    "out": 0.1,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-mistralai-ministral-8b-2512": [
+   {
+    "in": 0.15,
+    "out": 0.15,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-mistralai-mistral-medium-3": [
+   {
+    "in": 0.4,
+    "out": 2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "status": "retired",
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-mistralai-mistral-medium-3-5": [
+   {
+    "in": 1.5,
+    "out": 7.5,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 1.5,
+    "out": 7.5,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-mistralai-mistral-small-2603": [
+   {
+    "in": 0.15,
+    "out": 0.6,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-mistralai-mistral-small-3-2-24b-instruct": [
+   {
+    "in": 0.075,
+    "out": 0.2,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "status": "retired",
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-moonshotai-kimi-k2": [
+   {
+    "in": 0.57,
+    "out": 2.3,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "status": "retired",
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-moonshotai-kimi-k2-5": [
+   {
+    "in": 0.45,
+    "out": 2.25,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "status": "retired",
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-moonshotai-kimi-k2-6": [
+   {
+    "in": 0.95,
+    "out": 4,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-moonshotai-kimi-k2-7-code": [
+   {
+    "in": 0.95,
+    "out": 4,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-moonshotai-kimi-k2-thinking": [
+   {
+    "in": 0.6,
+    "out": 2.5,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "status": "retired",
+    "at": "2026-11-14",
+    "src": "vendor",
+    "ed": "next-05ff7363"
+   }
+  ],
+  "tracked-openai-gpt-5-4-mini": [
+   {
+    "in": 0.75,
+    "out": 4.5,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-openai-gpt-5-4-pro": [
+   {
+    "in": 30,
+    "out": 180,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-openai-gpt-5-5-pro": [
+   {
+    "in": 30,
+    "out": 180,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-qwen-qwen3-5-35b-a3b": [
+   {
+    "in": 0.25,
+    "out": 2,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-qwen-qwen3-5-9b": [
+   {
+    "in": 0.1,
+    "out": 0.15,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.03,
+    "out": 0.043,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.17,
+    "out": 0.25,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-eeb6897b"
+   },
+   {
+    "in": 0.022,
+    "out": 0.032,
+    "at": "2026-11-15",
+    "src": "router",
+    "ed": "next-d04174b7"
+   },
+   {
+    "in": 0.081,
+    "out": 0.118,
+    "at": "2026-11-16",
+    "src": "router",
+    "ed": "next-350051c3"
+   }
+  ],
+  "tracked-qwen-qwen3-5-plus-20260420": [
+   {
+    "in": 0.4,
+    "out": 2.4,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-qwen-qwen3-6-27b": [
+   {
+    "in": 0.6,
+    "out": 3.6,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-qwen-qwen3-6-35b-a3b": [
+   {
+    "in": 0.375,
+    "out": 2.25,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-qwen-qwen3-6-max-preview": [
+   {
+    "in": 1.3,
+    "out": 7.8,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-qwen-qwen3-7-flash": [
+   {
+    "in": 0.03,
+    "out": 0.13,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-qwen-qwen3-8-flash": [
+   {
+    "in": 0.15,
+    "out": 0.47,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-x-ai-grok-4-20": [
+   {
+    "in": 1.25,
+    "out": 2.5,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-x-ai-grok-4-20-multi-agent": [
+   {
+    "in": 1.25,
+    "out": 2.5,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-x-ai-grok-4-3": [
+   {
+    "in": 1.25,
+    "out": 2.5,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-x-ai-grok-build-0-1": [
+   {
+    "in": 1,
+    "out": 2,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-z-ai-glm-4-7-flash": [
+   {
+    "in": 0,
+    "out": 0,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-z-ai-glm-5": [
+   {
+    "in": 1,
+    "out": 3.2,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-z-ai-glm-5-1": [
+   {
+    "in": 1.4,
+    "out": 4.4,
+    "at": "2026-09-08",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-z-ai-glm-5-3-flash": [
+   {
+    "in": 0.15,
+    "out": 0.5,
+    "at": "2026-09-09",
+    "src": "vendor",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-z-ai-glm-5-turbo": [
+   {
+    "in": 1.2,
+    "out": 4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ],
+  "tracked-z-ai-glm-5v-turbo": [
+   {
+    "in": 1.2,
+    "out": 4,
+    "at": "2026-09-11",
+    "src": "router",
+    "ed": "next-707e28fd"
+   }
+  ]
+ }
+}

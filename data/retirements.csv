@@ -1,0 +1,24 @@
+date,model_id,model,event,status,suggested_replacement,source_url,source_checked
+2026-11-30,tracked-anthropic-claude-sonnet-4-5,Claude Sonnet 4.5,retires,upcoming,Claude Sonnet 5.5,https://platform.claude.com/docs/en/about-claude/pricing,2026-11-14
+2026-11-30,gpt-5-6-sol,GPT-5.6 Sol,promotion-ends,upcoming,,https://developers.openai.com/api/docs/pricing,2026-11-14
+2026-12-01,expanded-google-gemini-4-argon,Gemini 4 Argon,price-change,upcoming,,https://aistudio.google.com/docs/pricing,2026-11-14
+2026-12-01,expanded-google-gemini-4-carbon,Gemini 4 Carbon,price-change,upcoming,,https://aistudio.google.com/docs/pricing,2026-11-14
+2026-12-31,tracked-moonshotai-kimi-k2-6,Kimi K2.6,retires,upcoming,Kimi K3.1 Pro,https://platform.kimi.ai/docs/pricing/chat,2026-11-14
+2026-12-31,tracked-moonshotai-kimi-k2-7-code,Kimi K2.7 Code,retires,upcoming,Kimi K3.1 Pro,https://platform.kimi.ai/docs/pricing/chat,2026-11-14
+2027-01-19,tracked-qwen-qwen3-5-plus-20260420,Qwen3.5 Plus 2026-04-20,retires,upcoming,Qwen3.8 Flash,https://www.alibabacloud.com/help/en/model-studio/model-pricing,2026-11-14
+2027-04-30,tracked-mistralai-mistral-medium-3-5,Mistral Medium 3.5,retires,upcoming,Mistral Large 4,https://docs.mistral.ai/models,2026-11-14
+2026-10-08,tracked-google-gemini-3-5-flash,Gemini 3.5 Flash,deprecated,deprecated,Gemini 3.6 Flash,https://aistudio.google.com/docs/models/gemini-3.5-flash,2026-11-14
+2026-10-08,gemini-3-7-flash,Gemini 3.7 Flash,deprecated,deprecated,Gemini 3.8 Flash,https://aistudio.google.com/docs/models/gemini-3.7-flash,2026-11-14
+2026-09-10,tracked-deepseek-deepseek-v4-flash-vision-exp,DeepSeek V4 Flash Vision Exp,retired,retired,DeepSeek V4.1 Flash 1017,https://api-docs.deepseek.com/updates,2026-11-14
+2026-09-10,expanded-deepseek-deepseek-v4-flash,DeepSeek V4 Flash 0423,retired,retired,DeepSeek V4.1 Flash 1017,https://api-docs.deepseek.com/quick_start/pricing,2026-11-14
+2026-09-10,deepseek-v4-flash,DeepSeek V4 Flash,retired,retired,DeepSeek V4.1 Flash 1017,https://api-docs.deepseek.com/quick_start/pricing/,2026-11-14
+2026-08-31,tracked-mistralai-mistral-medium-3,Mistral Medium 3,retired,retired,Mistral Large 4,https://docs.mistral.ai/models,2026-11-14
+2026-08-05,tracked-anthropic-claude-opus-4-1,Claude Opus 4.1,retired,retired,Claude Opus 4.8,https://platform.claude.com/docs/en/about-claude/model-deprecations,2026-11-14
+2026-08,tracked-moonshotai-kimi-k2-5,Kimi K2.5,retired,retired,Kimi K3,https://platform.kimi.ai/docs/platform-changelog,2026-11-14
+2026-07-31,tracked-mistralai-mistral-small-3-2-24b-instruct,Mistral Small 3.2 24B,retired,retired,Mistral Small 4,https://docs.mistral.ai/models,2026-11-14
+2026-07-31,tracked-mistralai-devstral-2512,Devstral 2 2512,retired,retired,Mistral Large 4,https://docs.mistral.ai/models,2026-11-14
+2026-06-15,tracked-anthropic-claude-sonnet-4,Claude Sonnet 4,retired,retired,Claude Sonnet 5.5,https://platform.claude.com/docs/en/about-claude/model-deprecations,2026-11-14
+2026-06-15,tracked-anthropic-claude-opus-4,Claude Opus 4,retired,retired,Claude Opus 4.8,https://platform.claude.com/docs/en/about-claude/model-deprecations,2026-11-14
+2026-05,tracked-moonshotai-kimi-k2-thinking,Kimi K2 Thinking,retired,retired,Kimi K3,https://platform.kimi.ai/docs/platform-changelog,2026-11-14
+2026-05,tracked-moonshotai-kimi-k2,Kimi K2 0711,retired,retired,Kimi K3,https://platform.kimi.ai/docs/platform-changelog,2026-11-14
+2026-04-20,tracked-anthropic-claude-3-haiku,Claude 3 Haiku,retired,retired,Claude Haiku 4.5,https://platform.claude.com/docs/en/about-claude/model-deprecations,2026-11-14
