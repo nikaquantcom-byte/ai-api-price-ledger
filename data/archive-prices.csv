@@ -1,0 +1,143 @@
+vendor,model,first_seen,last_seen,input_usd_per_1m,output_usd_per_1m,note,archived_page
+OpenAI,GPT-6 Luna,2026-11-04,2026-11-04,0.1,0.5,,https://web.archive.org/web/20261104074127/https://openai.com/api/pricing/
+OpenAI,GPT-6.1 Sol,2026-11-04,2026-11-04,2,10,,https://web.archive.org/web/20261104074127/https://openai.com/api/pricing/
+OpenAI,GPT-6.1 Terra,2026-11-04,2026-11-04,1,5,,https://web.archive.org/web/20261104074127/https://openai.com/api/pricing/
+OpenAI,GPT-5.6 Luna,2026-09-09,2026-09-09,0.2,1.2,,https://web.archive.org/web/20260909122111/https://openai.com/api/pricing/
+OpenAI,GPT-5.6 Terra,2026-09-09,2026-09-09,2,12,,https://web.archive.org/web/20260909122111/https://openai.com/api/pricing/
+OpenAI,GPT-6 Astra,2026-09-09,2026-11-04,10,50,,https://web.archive.org/web/20260909122111/https://openai.com/api/pricing/
+OpenAI,GPT-5.5,2026-05-09,2026-06-01,5,30,,https://web.archive.org/web/20260509145718/https://openai.com/api/pricing/
+OpenAI,GPT-5.4,2026-04-01,2026-06-01,2.5,15,,https://web.archive.org/web/20260401024903/https://openai.com/api/pricing/
+OpenAI,GPT-5.4 mini,2026-04-01,2026-06-01,0.75,4.5,,https://web.archive.org/web/20260401024903/https://openai.com/api/pricing/
+OpenAI,GPT-5.4 nano,2026-04-01,2026-04-01,0.2,1.25,,https://web.archive.org/web/20260401024903/https://openai.com/api/pricing/
+OpenAI,GPT-5.2,2026-01-02,2026-03-01,1.75,14,,https://web.archive.org/web/20260102012016/https://openai.com/api/pricing/
+OpenAI,GPT-5.2 pro,2026-01-02,2026-03-01,21,168,,https://web.archive.org/web/20260102012016/https://openai.com/api/pricing/
+OpenAI,GPT-5.1,2025-12-03,2025-12-03,1.25,10,,https://web.archive.org/web/20251203034208/https://openai.com/api/pricing/
+OpenAI,GPT-5 pro,2025-11-11,2025-12-03,15,120,,https://web.archive.org/web/20251111115926/https://openai.com/api/pricing/
+OpenAI,GPT-5,2025-09-02,2025-11-11,1.25,10,,https://web.archive.org/web/20250902002545/https://openai.com/api/pricing/
+OpenAI,GPT-5 mini,2025-09-02,2026-03-01,0.25,2,,https://web.archive.org/web/20250902002545/https://openai.com/api/pricing/
+OpenAI,GPT-5 nano,2025-09-02,2025-12-03,0.05,0.4,,https://web.archive.org/web/20250902002545/https://openai.com/api/pricing/
+OpenAI,GPT-4.1,2025-05-03,2025-08-02,2,8,,https://web.archive.org/web/20250503232709/https://openai.com/api/pricing/
+OpenAI,GPT-4.1 mini,2025-05-03,2025-08-02,0.4,1.6,,https://web.archive.org/web/20250503232709/https://openai.com/api/pricing/
+OpenAI,GPT-4.1 nano,2025-05-03,2025-08-02,0.1,0.4,,https://web.archive.org/web/20250503232709/https://openai.com/api/pricing/
+OpenAI,o3,2025-05-03,2025-06-02,10,40,,https://web.archive.org/web/20250503232709/https://openai.com/api/pricing/
+OpenAI,o3,2025-07-02,2025-08-02,2,8,,https://web.archive.org/web/20250702152237/https://openai.com/api/pricing/
+OpenAI,o4-mini,2025-05-03,2025-08-02,1.1,4.4,,https://web.archive.org/web/20250503232709/https://openai.com/api/pricing/
+OpenAI,GPT-4.5,2025-03-03,2025-04-01,75,150,,https://web.archive.org/web/20250303222338/https://openai.com/api/pricing/
+OpenAI,o3-mini,2025-02-01,2025-04-01,1.1,4.4,,https://web.archive.org/web/20250201145921/https://openai.com/api/pricing/
+OpenAI,o3-mini-2025-01-31,2025-02-01,2025-02-01,1.1,4.4,,https://web.archive.org/web/20250201145921/https://openai.com/api/pricing/
+OpenAI,o1,2025-01-09,2025-04-01,15,60,,https://web.archive.org/web/20250109100914/https://openai.com/api/pricing/
+OpenAI,o1-2024-12-17,2025-01-09,2025-02-01,15,60,,https://web.archive.org/web/20250109100914/https://openai.com/api/pricing/
+OpenAI,gpt-4o-2024-11-20,2024-12-05,2025-02-01,2.5,10,,https://web.archive.org/web/20241205094524/https://openai.com/api/pricing/
+OpenAI,o1-mini,2024-10-01,2025-01-09,3,12,,https://web.archive.org/web/20241001064825/https://openai.com/api/pricing/
+OpenAI,o1-mini-2024-09-12,2024-10-01,2025-01-09,3,12,,https://web.archive.org/web/20241001064825/https://openai.com/api/pricing/
+OpenAI,o1-mini-2024-09-12,2025-02-01,2025-02-01,1.1,4.4,,https://web.archive.org/web/20250201145921/https://openai.com/api/pricing/
+OpenAI,o1-preview,2024-10-01,2025-02-01,15,60,,https://web.archive.org/web/20241001064825/https://openai.com/api/pricing/
+OpenAI,o1-preview-2024-09-12,2024-10-01,2025-01-09,15,60,,https://web.archive.org/web/20241001064825/https://openai.com/api/pricing/
+OpenAI,chatgpt-4o-latest,2024-09-02,2025-02-01,5,15,,https://web.archive.org/web/20240902045237/https://openai.com/api/pricing/
+OpenAI,gpt-4o-2024-08-06,2024-09-02,2025-02-01,2.5,10,,https://web.archive.org/web/20240902045237/https://openai.com/api/pricing/
+OpenAI,GPT-4o mini,2024-08-01,2025-04-01,0.15,0.6,,https://web.archive.org/web/20240801072308/https://openai.com/api/pricing/
+OpenAI,gpt-4o-mini-2024-07-18,2024-08-01,2025-02-01,0.15,0.6,,https://web.archive.org/web/20240801072308/https://openai.com/api/pricing/
+OpenAI,gpt-4-turbo,2024-06-01,2025-02-01,10,30,,https://web.archive.org/web/20240601042358/https://openai.com/api/pricing/
+OpenAI,GPT-4o,2024-06-01,2024-10-01,5,15,,https://web.archive.org/web/20240601042358/https://openai.com/api/pricing/
+OpenAI,GPT-4o,2024-11-12,2025-04-01,2.5,10,,https://web.archive.org/web/20241112050536/https://openai.com/api/pricing/
+OpenAI,gpt-4o-2024-05-13,2024-06-01,2025-02-01,5,15,,https://web.archive.org/web/20240601042358/https://openai.com/api/pricing/
+OpenAI,gpt-4-turbo-2024-04-09,2024-05-01,2025-02-01,10,30,,https://web.archive.org/web/20240501154924/https://openai.com/pricing
+OpenAI,gpt-4-vision-preview,2024-05-01,2025-02-01,10,30,,https://web.archive.org/web/20240501154924/https://openai.com/pricing
+OpenAI,gpt-3.5-turbo-0125,2024-02-01,2025-02-01,0.5,1.5,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20240201194002/https://openai.com/pricing
+OpenAI,gpt-3.5-turbo-0301,2024-02-01,2025-02-01,1.5,2,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20240201194002/https://openai.com/pricing
+OpenAI,gpt-3.5-turbo-0613,2024-02-01,2025-02-01,1.5,2,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20240201194002/https://openai.com/pricing
+OpenAI,gpt-3.5-turbo-16k-0613,2024-02-01,2025-02-01,3,4,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20240201194002/https://openai.com/pricing
+OpenAI,gpt-4-0125-preview,2024-02-01,2025-02-01,10,30,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20240201194002/https://openai.com/pricing
+OpenAI,gpt-3.5-turbo-1106,2023-12-01,2025-02-01,1,2,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20231201003736/https://openai.com/pricing
+OpenAI,gpt-3.5-turbo-instruct,2023-12-01,2025-02-01,1.5,2,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20231201003736/https://openai.com/pricing
+OpenAI,gpt-4,2023-12-01,2025-02-01,30,60,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20231201003736/https://openai.com/pricing
+OpenAI,gpt-4-1106-preview,2023-12-01,2025-02-01,10,30,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20231201003736/https://openai.com/pricing
+OpenAI,gpt-4-1106-vision-preview,2023-12-01,2024-04-02,10,30,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20231201003736/https://openai.com/pricing
+OpenAI,gpt-4-32k,2023-12-01,2025-02-01,60,120,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20231201003736/https://openai.com/pricing
+OpenAI,babbage-002,2023-09-01,2025-02-01,0.4,0.4,"Page priced per 1K tokens; multiplied by 1,000. One price for input and output",https://web.archive.org/web/20230901020057/https://openai.com/pricing
+OpenAI,davinci-002,2023-09-01,2025-02-01,2,2,"Page priced per 1K tokens; multiplied by 1,000. One price for input and output",https://web.archive.org/web/20230901020057/https://openai.com/pricing
+OpenAI,GPT-3.5 Turbo 16K context,2023-07-05,2023-11-05,3,4,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20230705195635/https://openai.com/pricing
+OpenAI,GPT-3.5 Turbo 4K context,2023-07-05,2023-11-05,1.5,2,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20230705195635/https://openai.com/pricing
+OpenAI,gpt-3.5-turbo,2023-04-01,2023-06-03,2,2,"Page priced per 1K tokens; multiplied by 1,000. One price for input and output",https://web.archive.org/web/20230401063613/https://openai.com/pricing
+OpenAI,GPT-4 32K context,2023-04-01,2023-11-05,60,120,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20230401063613/https://openai.com/pricing
+OpenAI,GPT-4 8K context,2023-04-01,2023-11-05,30,60,"Page priced per 1K tokens; multiplied by 1,000",https://web.archive.org/web/20230401063613/https://openai.com/pricing
+OpenAI,Ada,2021-11-20,2022-08-03,0.8,0.8,"Page priced per 1K tokens; multiplied by 1,000. One price for input and output",https://web.archive.org/web/20211120082310/https://openai.com/api/pricing/
+OpenAI,Ada,2022-09-05,2023-07-05,0.4,0.4,"Page priced per 1K tokens; multiplied by 1,000. One price for input and output",https://web.archive.org/web/20220905191340/https://openai.com/api/pricing/
+OpenAI,Babbage,2021-11-20,2022-08-03,1.2,1.2,"Page priced per 1K tokens; multiplied by 1,000. One price for input and output",https://web.archive.org/web/20211120082310/https://openai.com/api/pricing/
+OpenAI,Babbage,2022-09-05,2023-07-05,0.5,0.5,"Page priced per 1K tokens; multiplied by 1,000. One price for input and output",https://web.archive.org/web/20220905191340/https://openai.com/api/pricing/
+OpenAI,Curie,2021-11-20,2022-08-03,6,6,"Page priced per 1K tokens; multiplied by 1,000. One price for input and output",https://web.archive.org/web/20211120082310/https://openai.com/api/pricing/
+OpenAI,Curie,2022-09-05,2023-07-05,2,2,"Page priced per 1K tokens; multiplied by 1,000. One price for input and output",https://web.archive.org/web/20220905191340/https://openai.com/api/pricing/
+OpenAI,Davinci,2021-11-20,2022-08-03,60,60,"Page priced per 1K tokens; multiplied by 1,000. One price for input and output",https://web.archive.org/web/20211120082310/https://openai.com/api/pricing/
+OpenAI,Davinci,2022-09-05,2023-07-05,20,20,"Page priced per 1K tokens; multiplied by 1,000. One price for input and output",https://web.archive.org/web/20220905191340/https://openai.com/api/pricing/
+Anthropic,Claude Haiku 5.5,2026-11-01,2026-11-01,0.1,0.5,Lower prompt-size tier,https://web.archive.org/web/20261101085240/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Fable 5.1,2026-10-02,2026-11-01,10,50,,https://web.archive.org/web/20261002051605/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Mythos 5.1,2026-10-02,2026-11-01,10,50,,https://web.archive.org/web/20261002051605/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Opus 5.5,2026-10-02,2026-11-01,4,20,,https://web.archive.org/web/20261002051605/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Sonnet 5.5,2026-10-02,2026-11-01,2,10,,https://web.archive.org/web/20261002051605/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Opus 5,2026-08-01,2026-11-01,5,25,,https://web.archive.org/web/20260801200108/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Fable 5,2026-07-01,2026-11-01,10,50,,https://web.archive.org/web/20260701035419/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Mythos 5,2026-07-01,2026-11-01,10,50,,https://web.archive.org/web/20260701035419/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Sonnet 5,2026-07-01,2026-11-01,2,10,,https://web.archive.org/web/20260701035419/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Opus 4.8,2026-06-01,2026-11-01,5,25,,https://web.archive.org/web/20260601063217/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Opus 4.7,2026-05-04,2026-11-01,5,25,,https://web.archive.org/web/20260504111305/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Opus 4.6,2026-03-01,2026-11-01,5,25,,https://web.archive.org/web/20260301150515/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Sonnet 4.6,2026-03-01,2026-11-01,3,15,,https://web.archive.org/web/20260301150515/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Opus 4.5,2025-12-01,2026-11-01,5,25,,https://web.archive.org/web/20251201041432/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Haiku 4.5,2025-11-19,2026-11-01,1,5,,https://web.archive.org/web/20251119190003/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Sonnet 4.5,2025-11-19,2026-11-01,3,15,,https://web.archive.org/web/20251119190003/https://platform.claude.com/docs/en/about-claude/pricing
+Anthropic,Claude Opus 4.1,2025-09-02,2026-11-01,15,75,,https://web.archive.org/web/20250902002655/https://www.anthropic.com/pricing
+Anthropic,Claude Opus 4,2025-06-03,2026-11-01,15,75,,https://web.archive.org/web/20250603033741/https://www.anthropic.com/pricing
+Anthropic,Claude Sonnet 4,2025-06-03,2026-11-01,3,15,,https://web.archive.org/web/20250603033741/https://www.anthropic.com/pricing
+Anthropic,Claude Sonnet 3.7,2025-03-03,2026-05-04,3,15,,https://web.archive.org/web/20250303042746/https://www.anthropic.com/pricing
+Anthropic,Claude Haiku 3.5,2024-12-03,2024-12-03,1,5,,https://web.archive.org/web/20241203010242/https://www.anthropic.com/pricing
+Anthropic,Claude Haiku 3.5,2025-01-01,2026-11-01,0.8,4,,https://web.archive.org/web/20250101035229/https://www.anthropic.com/pricing
+Anthropic,Claude Sonnet 3.5,2024-06-20,2025-09-12,3,15,,https://web.archive.org/web/20240620172520/https://www.anthropic.com/pricing
+Anthropic,Claude 2.0,2024-03-04,2024-10-03,8,24,,https://web.archive.org/web/20240304143754/https://www.anthropic.com/api
+Anthropic,Claude 2.1,2024-03-04,2024-10-03,8,24,,https://web.archive.org/web/20240304143754/https://www.anthropic.com/api
+Anthropic,Claude 3 Sonnet,2024-03-04,2025-01-01,3,15,,https://web.archive.org/web/20240304143754/https://www.anthropic.com/api
+Anthropic,Claude Haiku 3,2024-03-04,2026-05-04,0.25,1.25,,https://web.archive.org/web/20240304143754/https://www.anthropic.com/api
+Anthropic,Claude Instant,2024-03-04,2024-10-03,0.8,2.4,,https://web.archive.org/web/20240304143754/https://www.anthropic.com/api
+Anthropic,Claude Opus 3,2024-03-04,2026-05-04,15,75,,https://web.archive.org/web/20240304143754/https://www.anthropic.com/api
+Google,Gemini 4 Argon,2026-11-01,2026-11-01,2,10,Price through 2026-11-30,https://web.archive.org/web/20261101085645/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 3.8 Flash,2026-10-01,2026-11-01,0.75,3.75,Price through 2026-12-31,https://web.archive.org/web/20261001035256/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 3.7 Flash,2026-09-01,2026-10-01,0.75,3.75,Price through 2026-12-31,https://web.archive.org/web/20260901002902/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 3.5 Flash-Lite,2026-08-01,2026-11-01,0.3,2.5,Text/image/video/audio input,https://web.archive.org/web/20260801152348/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 3.6 Flash,2026-08-01,2026-08-01,1.5,7.5,,https://web.archive.org/web/20260801152348/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 3.6 Flash,2026-09-01,2026-11-01,0.75,3.75,Price through 2026-12-31,https://web.archive.org/web/20260901002902/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini Robotics ER 2 Preview,2026-08-01,2026-09-01,2,10,Text/image/video/audio input,https://web.archive.org/web/20260801152348/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini Robotics ER 2 Preview,2026-10-01,2026-11-01,1,5,Text/image/video/audio input; price through 2026-12-31,https://web.archive.org/web/20261001035256/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 3.1 Flash-Lite,2026-06-02,2026-11-01,0.25,1.5,Text/image/video input,https://web.archive.org/web/20260602081519/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 3.5 Flash,2026-06-02,2026-10-01,1.5,9,,https://web.archive.org/web/20260602081519/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini Robotics ER 1.6 Preview,2026-05-01,2026-09-01,1,5,Text/image/video input,https://web.archive.org/web/20260501160638/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 3.1 Flash-Lite Preview,2026-04-01,2026-05-01,0.25,1.5,Text/image/video input,https://web.archive.org/web/20260401191258/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 3.1 Pro Preview,2026-03-01,2026-11-01,2,12,Prompts up to 200k tokens,https://web.archive.org/web/20260301091320/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 3 Flash Preview,2026-01-01,2026-11-01,0.5,3,Text/image/video input,https://web.archive.org/web/20260101134813/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 3 Pro Preview,2025-12-06,2026-03-01,2,12,Prompts up to 200k tokens,https://web.archive.org/web/20251206112346/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 2.5 Computer Use Preview,2025-11-03,2026-09-01,1.25,10,Prompts up to 200k tokens,https://web.archive.org/web/20251103074340/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini Robotics-ER 1.5 Preview,2025-10-02,2026-04-01,0.3,2.5,Text/image/video input,https://web.archive.org/web/20251002162244/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 2.5 Flash-Lite,2025-08-01,2026-11-01,0.1,0.4,Text/image/video input,https://web.archive.org/web/20250801134936/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 2.5 Flash,2025-07-01,2026-11-01,0.3,2.5,Text/image/video input,https://web.archive.org/web/20250701052920/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 2.5 Flash-Lite Preview,2025-07-01,2026-08-01,0.1,0.4,Text/image/video input,https://web.archive.org/web/20250701052920/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 2.5 Pro,2025-07-01,2026-11-01,1.25,10,Prompts up to 200k tokens,https://web.archive.org/web/20250701052920/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 2.5 Flash Preview,2025-05-02,2025-06-03,0.15,0.6,Text/image/video input; non-thinking output,https://web.archive.org/web/20250502025139/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 2.5 Flash Preview,2025-10-02,2026-02-01,0.3,2.5,Text/image/video input,https://web.archive.org/web/20251002162244/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 2.5 Pro Preview,2025-05-02,2025-06-03,1.25,10,Prompts up to 200k tokens,https://web.archive.org/web/20250502025139/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 2.0 Flash,2025-02-11,2026-08-01,0.1,0.4,Text/image/video input,https://web.archive.org/web/20250211163751/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 2.0 Flash-Lite,2025-02-11,2026-08-01,0.075,0.3,,https://web.archive.org/web/20250211163751/https://ai.google.dev/gemini-api/docs/pricing
+Google,Gemini 1.5 Flash-8B,2024-11-02,2025-10-02,0.0375,0.15,Prompts up to 128k tokens,https://web.archive.org/web/20241102172747/https://ai.google.dev/pricing
+Google,Gemini 1.5 Flash,2024-06-03,2024-08-03,0.35,1.05,Prompts up to 128k tokens,https://web.archive.org/web/20240603135204/https://ai.google.dev/pricing
+Google,Gemini 1.5 Flash,2024-09-04,2025-10-02,0.075,0.3,Prompts up to 128k tokens,https://web.archive.org/web/20240904171757/https://ai.google.dev/pricing
+Google,Gemini 1.0 Pro,2024-04-02,2025-02-11,0.5,1.5,,https://web.archive.org/web/20240402010009/https://ai.google.dev/pricing
+Google,Gemini 1.5 Pro,2024-04-02,2024-05-02,7,21,,https://web.archive.org/web/20240402010009/https://ai.google.dev/pricing
+Google,Gemini 1.5 Pro,2024-06-03,2024-09-04,3.5,10.5,Prompts up to 128k tokens,https://web.archive.org/web/20240603135204/https://ai.google.dev/pricing
+Google,Gemini 1.5 Pro,2024-11-02,2025-10-02,1.25,5,Prompts up to 128k tokens,https://web.archive.org/web/20241102172747/https://ai.google.dev/pricing
+DeepSeek,deepseek-flash,2026-10-03,2026-11-01,0.3,1.2,Peak-hours rate; the page lists off-peak at half,https://web.archive.org/web/20261003073808/https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek,deepseek-v4-flash,2026-05-01,2026-08-01,0.14,0.28,,https://web.archive.org/web/20260501050639/https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek,deepseek-v4-pro,2026-05-01,2026-05-01,1.74,3.48,Temporary discount shown beside the list price: $0.435 / $0.87 until 2026/05/31 15:59 UTC,https://web.archive.org/web/20260501050639/https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek,deepseek-v4-pro,2026-06-02,2026-08-01,0.435,0.87,,https://web.archive.org/web/20260602230941/https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek,deepseek-v4-pro,2026-10-03,2026-11-01,1.32,3.96,Peak-hours rate; the page lists off-peak at half,https://web.archive.org/web/20261003073808/https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek,deepseek-reasoner,2025-02-07,2025-09-01,0.55,2.19,,https://web.archive.org/web/20250207125601/https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek,deepseek-reasoner,2025-10-04,2026-04-03,0.28,0.42,,https://web.archive.org/web/20251004112357/https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek,deepseek-chat,2024-11-07,2024-12-04,0.14,0.28,,https://web.archive.org/web/20241107075055/https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek,deepseek-chat,2025-01-03,2025-09-01,0.27,1.1,Temporary discount shown beside the list price: $0.14 / $0.28 until 2025-02-08 16:00 (UTC),https://web.archive.org/web/20250103234807/https://api-docs.deepseek.com/quick_start/pricing
+DeepSeek,deepseek-chat,2025-10-04,2026-04-03,0.28,0.42,,https://web.archive.org/web/20251004112357/https://api-docs.deepseek.com/quick_start/pricing

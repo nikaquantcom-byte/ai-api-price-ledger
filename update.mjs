@@ -29,6 +29,21 @@ fs.writeFileSync('data/retirements.csv', csv([
   ...events.map(x => [x.date, x.id, x.name, x.event, x.status, x.replacement?.name, x.sourceUrl, x.checked]),
 ]));
 
+// Older prices, read from Internet Archive copies of the vendors' own pricing pages (a fixed import; kept if the fetch fails).
+try {
+  const archive = await get('/next/data/price-archive.json');
+  if (archive.schemaVersion !== 'aiscoreboard-price-archive-1' || !archive.vendors?.length) throw new Error('unexpected shape');
+  fs.writeFileSync('data/price-archive.json', JSON.stringify(archive, null, 1) + '\n');
+  fs.writeFileSync('data/archive-prices.csv', csv([
+    ['vendor', 'model', 'first_seen', 'last_seen', 'input_usd_per_1m', 'output_usd_per_1m', 'note', 'archived_page'],
+    ...archive.vendors.flatMap(v => v.models.flatMap(m => m.points.map(p => [v.name, m.name, p.from, p.until, p.in, p.out, p.note, p.snapshot]))),
+  ]));
+  fs.writeFileSync('data/archive-price-changes.csv', csv([
+    ['first_seen_at_new_price', 'old_price_last_seen', 'vendor', 'model', 'change', 'input_before_usd_per_1m', 'output_before_usd_per_1m', 'input_after_usd_per_1m', 'output_after_usd_per_1m', 'archived_page'],
+    ...archive.changes.map(c => [c.at, c.lastSeenOld, c.vendor, c.model, c.kind, c.from[0], c.from[1], c.to[0], c.to[1], c.snapshot]),
+  ]));
+} catch (error) { console.log('price archive not updated: ' + error.message); }
+
 const moves = changes.filter(c => Array.isArray(c.from) && Array.isArray(c.to));
 const usd = n => `$${Number(n).toFixed(2)}`;
 const latest = moves.slice(0, 10).map(c => `| ${c.at} | ${c.name} | ${usd(c.from[0])} / ${usd(c.from[1])} | ${usd(c.to[0])} / ${usd(c.to[1])} | ${c.src === 'router' ? 'OpenRouter' : 'vendor page'} |`).join('\n');

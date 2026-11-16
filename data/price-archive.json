@@ -1,0 +1,2401 @@
+{
+ "schemaVersion": "aiscoreboard-price-archive-1",
+ "notice": "API list prices in USD per 1M tokens (input, output), read from Internet Archive copies of each vendor's own pricing page, about one copy per month. from = date of the first archived copy showing a price; until = date of the last copy showing it. A price change happened somewhere between the two copies named on its row. Standard pay-as-you-go text prices only (no batch, cache or fine-tuning prices). Model names are as the vendor wrote them. Nothing is estimated or carried forward.",
+ "license": {
+  "name": "CC BY 4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "AIScoreboard (aiscoreboard.app), https://aiscoreboard.app/price-history/"
+ },
+ "vendors": [
+  {
+   "name": "OpenAI",
+   "pages": [
+    "https://openai.com/api/pricing/",
+    "https://openai.com/pricing"
+   ],
+   "captures": 59,
+   "firstCapture": "2021-11-20",
+   "lastCapture": "2026-11-04",
+   "models": [
+    {
+     "name": "GPT-6 Luna",
+     "firstSeen": "2026-11-04",
+     "lastSeen": "2026-11-04",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-11-04",
+       "until": "2026-11-04",
+       "in": 0.1,
+       "out": 0.5,
+       "snapshot": "https://web.archive.org/web/20261104074127/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-6.1 Sol",
+     "firstSeen": "2026-11-04",
+     "lastSeen": "2026-11-04",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-11-04",
+       "until": "2026-11-04",
+       "in": 2,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20261104074127/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-6.1 Terra",
+     "firstSeen": "2026-11-04",
+     "lastSeen": "2026-11-04",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-11-04",
+       "until": "2026-11-04",
+       "in": 1,
+       "out": 5,
+       "snapshot": "https://web.archive.org/web/20261104074127/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-5.6 Luna",
+     "firstSeen": "2026-09-09",
+     "lastSeen": "2026-09-09",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-09-09",
+       "until": "2026-09-09",
+       "in": 0.2,
+       "out": 1.2,
+       "snapshot": "https://web.archive.org/web/20260909122111/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-5.6 Terra",
+     "firstSeen": "2026-09-09",
+     "lastSeen": "2026-09-09",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-09-09",
+       "until": "2026-09-09",
+       "in": 2,
+       "out": 12,
+       "snapshot": "https://web.archive.org/web/20260909122111/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-6 Astra",
+     "firstSeen": "2026-09-09",
+     "lastSeen": "2026-11-04",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-09-09",
+       "until": "2026-11-04",
+       "in": 10,
+       "out": 50,
+       "snapshot": "https://web.archive.org/web/20260909122111/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-5.5",
+     "firstSeen": "2026-05-09",
+     "lastSeen": "2026-06-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-05-09",
+       "until": "2026-06-01",
+       "in": 5,
+       "out": 30,
+       "snapshot": "https://web.archive.org/web/20260509145718/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-5.4",
+     "firstSeen": "2026-04-01",
+     "lastSeen": "2026-06-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-04-01",
+       "until": "2026-06-01",
+       "in": 2.5,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20260401024903/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-5.4 mini",
+     "firstSeen": "2026-04-01",
+     "lastSeen": "2026-06-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-04-01",
+       "until": "2026-06-01",
+       "in": 0.75,
+       "out": 4.5,
+       "snapshot": "https://web.archive.org/web/20260401024903/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-5.4 nano",
+     "firstSeen": "2026-04-01",
+     "lastSeen": "2026-04-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-04-01",
+       "until": "2026-04-01",
+       "in": 0.2,
+       "out": 1.25,
+       "snapshot": "https://web.archive.org/web/20260401024903/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-5.2",
+     "firstSeen": "2026-01-02",
+     "lastSeen": "2026-03-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-01-02",
+       "until": "2026-03-01",
+       "in": 1.75,
+       "out": 14,
+       "snapshot": "https://web.archive.org/web/20260102012016/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-5.2 pro",
+     "firstSeen": "2026-01-02",
+     "lastSeen": "2026-03-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-01-02",
+       "until": "2026-03-01",
+       "in": 21,
+       "out": 168,
+       "snapshot": "https://web.archive.org/web/20260102012016/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-5.1",
+     "firstSeen": "2025-12-03",
+     "lastSeen": "2025-12-03",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-12-03",
+       "until": "2025-12-03",
+       "in": 1.25,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20251203034208/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-5 pro",
+     "firstSeen": "2025-11-11",
+     "lastSeen": "2025-12-03",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-11-11",
+       "until": "2025-12-03",
+       "in": 15,
+       "out": 120,
+       "snapshot": "https://web.archive.org/web/20251111115926/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-5",
+     "firstSeen": "2025-09-02",
+     "lastSeen": "2025-11-11",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-09-02",
+       "until": "2025-11-11",
+       "in": 1.25,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20250902002545/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-5 mini",
+     "firstSeen": "2025-09-02",
+     "lastSeen": "2026-03-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-09-02",
+       "until": "2026-03-01",
+       "in": 0.25,
+       "out": 2,
+       "snapshot": "https://web.archive.org/web/20250902002545/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-5 nano",
+     "firstSeen": "2025-09-02",
+     "lastSeen": "2025-12-03",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-09-02",
+       "until": "2025-12-03",
+       "in": 0.05,
+       "out": 0.4,
+       "snapshot": "https://web.archive.org/web/20250902002545/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-4.1",
+     "firstSeen": "2025-05-03",
+     "lastSeen": "2025-08-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-05-03",
+       "until": "2025-08-02",
+       "in": 2,
+       "out": 8,
+       "snapshot": "https://web.archive.org/web/20250503232709/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-4.1 mini",
+     "firstSeen": "2025-05-03",
+     "lastSeen": "2025-08-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-05-03",
+       "until": "2025-08-02",
+       "in": 0.4,
+       "out": 1.6,
+       "snapshot": "https://web.archive.org/web/20250503232709/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-4.1 nano",
+     "firstSeen": "2025-05-03",
+     "lastSeen": "2025-08-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-05-03",
+       "until": "2025-08-02",
+       "in": 0.1,
+       "out": 0.4,
+       "snapshot": "https://web.archive.org/web/20250503232709/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "o3",
+     "firstSeen": "2025-05-03",
+     "lastSeen": "2025-08-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-05-03",
+       "until": "2025-06-02",
+       "in": 10,
+       "out": 40,
+       "snapshot": "https://web.archive.org/web/20250503232709/https://openai.com/api/pricing/"
+      },
+      {
+       "from": "2025-07-02",
+       "until": "2025-08-02",
+       "in": 2,
+       "out": 8,
+       "snapshot": "https://web.archive.org/web/20250702152237/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "o4-mini",
+     "firstSeen": "2025-05-03",
+     "lastSeen": "2025-08-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-05-03",
+       "until": "2025-08-02",
+       "in": 1.1,
+       "out": 4.4,
+       "snapshot": "https://web.archive.org/web/20250503232709/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-4.5",
+     "firstSeen": "2025-03-03",
+     "lastSeen": "2025-04-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-03-03",
+       "until": "2025-04-01",
+       "in": 75,
+       "out": 150,
+       "snapshot": "https://web.archive.org/web/20250303222338/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "o3-mini",
+     "firstSeen": "2025-02-01",
+     "lastSeen": "2025-04-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-02-01",
+       "until": "2025-04-01",
+       "in": 1.1,
+       "out": 4.4,
+       "snapshot": "https://web.archive.org/web/20250201145921/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "o3-mini-2025-01-31",
+     "firstSeen": "2025-02-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-02-01",
+       "until": "2025-02-01",
+       "in": 1.1,
+       "out": 4.4,
+       "snapshot": "https://web.archive.org/web/20250201145921/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "o1",
+     "firstSeen": "2025-01-09",
+     "lastSeen": "2025-04-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-01-09",
+       "until": "2025-04-01",
+       "in": 15,
+       "out": 60,
+       "snapshot": "https://web.archive.org/web/20250109100914/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "o1-2024-12-17",
+     "firstSeen": "2025-01-09",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-01-09",
+       "until": "2025-02-01",
+       "in": 15,
+       "out": 60,
+       "snapshot": "https://web.archive.org/web/20250109100914/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "gpt-4o-2024-11-20",
+     "firstSeen": "2024-12-05",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-12-05",
+       "until": "2025-02-01",
+       "in": 2.5,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20241205094524/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "o1-mini",
+     "firstSeen": "2024-10-01",
+     "lastSeen": "2025-01-09",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-10-01",
+       "until": "2025-01-09",
+       "in": 3,
+       "out": 12,
+       "snapshot": "https://web.archive.org/web/20241001064825/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "o1-mini-2024-09-12",
+     "firstSeen": "2024-10-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-10-01",
+       "until": "2025-01-09",
+       "in": 3,
+       "out": 12,
+       "snapshot": "https://web.archive.org/web/20241001064825/https://openai.com/api/pricing/"
+      },
+      {
+       "from": "2025-02-01",
+       "until": "2025-02-01",
+       "in": 1.1,
+       "out": 4.4,
+       "snapshot": "https://web.archive.org/web/20250201145921/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "o1-preview",
+     "firstSeen": "2024-10-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-10-01",
+       "until": "2025-02-01",
+       "in": 15,
+       "out": 60,
+       "snapshot": "https://web.archive.org/web/20241001064825/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "o1-preview-2024-09-12",
+     "firstSeen": "2024-10-01",
+     "lastSeen": "2025-01-09",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-10-01",
+       "until": "2025-01-09",
+       "in": 15,
+       "out": 60,
+       "snapshot": "https://web.archive.org/web/20241001064825/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "chatgpt-4o-latest",
+     "firstSeen": "2024-09-02",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-09-02",
+       "until": "2025-02-01",
+       "in": 5,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20240902045237/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "gpt-4o-2024-08-06",
+     "firstSeen": "2024-09-02",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-09-02",
+       "until": "2025-02-01",
+       "in": 2.5,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20240902045237/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-4o mini",
+     "firstSeen": "2024-08-01",
+     "lastSeen": "2025-04-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-08-01",
+       "until": "2025-04-01",
+       "in": 0.15,
+       "out": 0.6,
+       "snapshot": "https://web.archive.org/web/20240801072308/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "gpt-4o-mini-2024-07-18",
+     "firstSeen": "2024-08-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-08-01",
+       "until": "2025-02-01",
+       "in": 0.15,
+       "out": 0.6,
+       "snapshot": "https://web.archive.org/web/20240801072308/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "gpt-4-turbo",
+     "firstSeen": "2024-06-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-06-01",
+       "until": "2025-02-01",
+       "in": 10,
+       "out": 30,
+       "snapshot": "https://web.archive.org/web/20240601042358/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "GPT-4o",
+     "firstSeen": "2024-06-01",
+     "lastSeen": "2025-04-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-06-01",
+       "until": "2024-10-01",
+       "in": 5,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20240601042358/https://openai.com/api/pricing/"
+      },
+      {
+       "from": "2024-11-12",
+       "until": "2025-04-01",
+       "in": 2.5,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20241112050536/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "gpt-4o-2024-05-13",
+     "firstSeen": "2024-06-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-06-01",
+       "until": "2025-02-01",
+       "in": 5,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20240601042358/https://openai.com/api/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "gpt-4-turbo-2024-04-09",
+     "firstSeen": "2024-05-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-05-01",
+       "until": "2025-02-01",
+       "in": 10,
+       "out": 30,
+       "snapshot": "https://web.archive.org/web/20240501154924/https://openai.com/pricing"
+      }
+     ]
+    },
+    {
+     "name": "gpt-4-vision-preview",
+     "firstSeen": "2024-05-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-05-01",
+       "until": "2025-02-01",
+       "in": 10,
+       "out": 30,
+       "snapshot": "https://web.archive.org/web/20240501154924/https://openai.com/pricing"
+      }
+     ]
+    },
+    {
+     "name": "gpt-3.5-turbo-0125",
+     "firstSeen": "2024-02-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-02-01",
+       "until": "2025-02-01",
+       "in": 0.5,
+       "out": 1.5,
+       "snapshot": "https://web.archive.org/web/20240201194002/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "gpt-3.5-turbo-0301",
+     "firstSeen": "2024-02-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-02-01",
+       "until": "2025-02-01",
+       "in": 1.5,
+       "out": 2,
+       "snapshot": "https://web.archive.org/web/20240201194002/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "gpt-3.5-turbo-0613",
+     "firstSeen": "2024-02-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-02-01",
+       "until": "2025-02-01",
+       "in": 1.5,
+       "out": 2,
+       "snapshot": "https://web.archive.org/web/20240201194002/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "gpt-3.5-turbo-16k-0613",
+     "firstSeen": "2024-02-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-02-01",
+       "until": "2025-02-01",
+       "in": 3,
+       "out": 4,
+       "snapshot": "https://web.archive.org/web/20240201194002/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "gpt-4-0125-preview",
+     "firstSeen": "2024-02-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-02-01",
+       "until": "2025-02-01",
+       "in": 10,
+       "out": 30,
+       "snapshot": "https://web.archive.org/web/20240201194002/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "gpt-3.5-turbo-1106",
+     "firstSeen": "2023-12-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2023-12-01",
+       "until": "2025-02-01",
+       "in": 1,
+       "out": 2,
+       "snapshot": "https://web.archive.org/web/20231201003736/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "gpt-3.5-turbo-instruct",
+     "firstSeen": "2023-12-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2023-12-01",
+       "until": "2025-02-01",
+       "in": 1.5,
+       "out": 2,
+       "snapshot": "https://web.archive.org/web/20231201003736/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "gpt-4",
+     "firstSeen": "2023-12-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2023-12-01",
+       "until": "2025-02-01",
+       "in": 30,
+       "out": 60,
+       "snapshot": "https://web.archive.org/web/20231201003736/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "gpt-4-1106-preview",
+     "firstSeen": "2023-12-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2023-12-01",
+       "until": "2025-02-01",
+       "in": 10,
+       "out": 30,
+       "snapshot": "https://web.archive.org/web/20231201003736/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "gpt-4-1106-vision-preview",
+     "firstSeen": "2023-12-01",
+     "lastSeen": "2024-04-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2023-12-01",
+       "until": "2024-04-02",
+       "in": 10,
+       "out": 30,
+       "snapshot": "https://web.archive.org/web/20231201003736/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "gpt-4-32k",
+     "firstSeen": "2023-12-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2023-12-01",
+       "until": "2025-02-01",
+       "in": 60,
+       "out": 120,
+       "snapshot": "https://web.archive.org/web/20231201003736/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "babbage-002",
+     "firstSeen": "2023-09-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2023-09-01",
+       "until": "2025-02-01",
+       "in": 0.4,
+       "out": 0.4,
+       "snapshot": "https://web.archive.org/web/20230901020057/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+      }
+     ]
+    },
+    {
+     "name": "davinci-002",
+     "firstSeen": "2023-09-01",
+     "lastSeen": "2025-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2023-09-01",
+       "until": "2025-02-01",
+       "in": 2,
+       "out": 2,
+       "snapshot": "https://web.archive.org/web/20230901020057/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+      }
+     ]
+    },
+    {
+     "name": "GPT-3.5 Turbo 16K context",
+     "firstSeen": "2023-07-05",
+     "lastSeen": "2023-11-05",
+     "listed": false,
+     "points": [
+      {
+       "from": "2023-07-05",
+       "until": "2023-11-05",
+       "in": 3,
+       "out": 4,
+       "snapshot": "https://web.archive.org/web/20230705195635/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "GPT-3.5 Turbo 4K context",
+     "firstSeen": "2023-07-05",
+     "lastSeen": "2023-11-05",
+     "listed": false,
+     "points": [
+      {
+       "from": "2023-07-05",
+       "until": "2023-11-05",
+       "in": 1.5,
+       "out": 2,
+       "snapshot": "https://web.archive.org/web/20230705195635/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "gpt-3.5-turbo",
+     "firstSeen": "2023-04-01",
+     "lastSeen": "2023-06-03",
+     "listed": false,
+     "points": [
+      {
+       "from": "2023-04-01",
+       "until": "2023-06-03",
+       "in": 2,
+       "out": 2,
+       "snapshot": "https://web.archive.org/web/20230401063613/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+      }
+     ]
+    },
+    {
+     "name": "GPT-4 32K context",
+     "firstSeen": "2023-04-01",
+     "lastSeen": "2023-11-05",
+     "listed": false,
+     "points": [
+      {
+       "from": "2023-04-01",
+       "until": "2023-11-05",
+       "in": 60,
+       "out": 120,
+       "snapshot": "https://web.archive.org/web/20230401063613/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "GPT-4 8K context",
+     "firstSeen": "2023-04-01",
+     "lastSeen": "2023-11-05",
+     "listed": false,
+     "points": [
+      {
+       "from": "2023-04-01",
+       "until": "2023-11-05",
+       "in": 30,
+       "out": 60,
+       "snapshot": "https://web.archive.org/web/20230401063613/https://openai.com/pricing",
+       "note": "Page priced per 1K tokens; multiplied by 1,000"
+      }
+     ]
+    },
+    {
+     "name": "Ada",
+     "firstSeen": "2021-11-20",
+     "lastSeen": "2023-07-05",
+     "listed": false,
+     "points": [
+      {
+       "from": "2021-11-20",
+       "until": "2022-08-03",
+       "in": 0.8,
+       "out": 0.8,
+       "snapshot": "https://web.archive.org/web/20211120082310/https://openai.com/api/pricing/",
+       "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+      },
+      {
+       "from": "2022-09-05",
+       "until": "2023-07-05",
+       "in": 0.4,
+       "out": 0.4,
+       "snapshot": "https://web.archive.org/web/20220905191340/https://openai.com/api/pricing/",
+       "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+      }
+     ]
+    },
+    {
+     "name": "Babbage",
+     "firstSeen": "2021-11-20",
+     "lastSeen": "2023-07-05",
+     "listed": false,
+     "points": [
+      {
+       "from": "2021-11-20",
+       "until": "2022-08-03",
+       "in": 1.2,
+       "out": 1.2,
+       "snapshot": "https://web.archive.org/web/20211120082310/https://openai.com/api/pricing/",
+       "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+      },
+      {
+       "from": "2022-09-05",
+       "until": "2023-07-05",
+       "in": 0.5,
+       "out": 0.5,
+       "snapshot": "https://web.archive.org/web/20220905191340/https://openai.com/api/pricing/",
+       "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+      }
+     ]
+    },
+    {
+     "name": "Curie",
+     "firstSeen": "2021-11-20",
+     "lastSeen": "2023-07-05",
+     "listed": false,
+     "points": [
+      {
+       "from": "2021-11-20",
+       "until": "2022-08-03",
+       "in": 6,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20211120082310/https://openai.com/api/pricing/",
+       "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+      },
+      {
+       "from": "2022-09-05",
+       "until": "2023-07-05",
+       "in": 2,
+       "out": 2,
+       "snapshot": "https://web.archive.org/web/20220905191340/https://openai.com/api/pricing/",
+       "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+      }
+     ]
+    },
+    {
+     "name": "Davinci",
+     "firstSeen": "2021-11-20",
+     "lastSeen": "2023-07-05",
+     "listed": false,
+     "points": [
+      {
+       "from": "2021-11-20",
+       "until": "2022-08-03",
+       "in": 60,
+       "out": 60,
+       "snapshot": "https://web.archive.org/web/20211120082310/https://openai.com/api/pricing/",
+       "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+      },
+      {
+       "from": "2022-09-05",
+       "until": "2023-07-05",
+       "in": 20,
+       "out": 20,
+       "snapshot": "https://web.archive.org/web/20220905191340/https://openai.com/api/pricing/",
+       "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Anthropic",
+   "pages": [
+    "https://www.anthropic.com/api",
+    "https://www.anthropic.com/pricing",
+    "https://docs.anthropic.com/en/docs/about-claude/pricing",
+    "https://platform.claude.com/docs/en/about-claude/pricing"
+   ],
+   "captures": 38,
+   "firstCapture": "2024-03-04",
+   "lastCapture": "2026-11-01",
+   "models": [
+    {
+     "name": "Claude Haiku 5.5",
+     "firstSeen": "2026-11-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-11-01",
+       "until": "2026-11-01",
+       "in": 0.1,
+       "out": 0.5,
+       "snapshot": "https://web.archive.org/web/20261101085240/https://platform.claude.com/docs/en/about-claude/pricing",
+       "note": "Lower prompt-size tier"
+      }
+     ]
+    },
+    {
+     "name": "Claude Fable 5.1",
+     "firstSeen": "2026-10-02",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-10-02",
+       "until": "2026-11-01",
+       "in": 10,
+       "out": 50,
+       "snapshot": "https://web.archive.org/web/20261002051605/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Mythos 5.1",
+     "firstSeen": "2026-10-02",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-10-02",
+       "until": "2026-11-01",
+       "in": 10,
+       "out": 50,
+       "snapshot": "https://web.archive.org/web/20261002051605/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Opus 5.5",
+     "firstSeen": "2026-10-02",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-10-02",
+       "until": "2026-11-01",
+       "in": 4,
+       "out": 20,
+       "snapshot": "https://web.archive.org/web/20261002051605/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Sonnet 5.5",
+     "firstSeen": "2026-10-02",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-10-02",
+       "until": "2026-11-01",
+       "in": 2,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20261002051605/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Opus 5",
+     "firstSeen": "2026-08-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-08-01",
+       "until": "2026-11-01",
+       "in": 5,
+       "out": 25,
+       "snapshot": "https://web.archive.org/web/20260801200108/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Fable 5",
+     "firstSeen": "2026-07-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-07-01",
+       "until": "2026-11-01",
+       "in": 10,
+       "out": 50,
+       "snapshot": "https://web.archive.org/web/20260701035419/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Mythos 5",
+     "firstSeen": "2026-07-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-07-01",
+       "until": "2026-11-01",
+       "in": 10,
+       "out": 50,
+       "snapshot": "https://web.archive.org/web/20260701035419/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Sonnet 5",
+     "firstSeen": "2026-07-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-07-01",
+       "until": "2026-11-01",
+       "in": 2,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20260701035419/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Opus 4.8",
+     "firstSeen": "2026-06-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-06-01",
+       "until": "2026-11-01",
+       "in": 5,
+       "out": 25,
+       "snapshot": "https://web.archive.org/web/20260601063217/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Opus 4.7",
+     "firstSeen": "2026-05-04",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-05-04",
+       "until": "2026-11-01",
+       "in": 5,
+       "out": 25,
+       "snapshot": "https://web.archive.org/web/20260504111305/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Opus 4.6",
+     "firstSeen": "2026-03-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-03-01",
+       "until": "2026-11-01",
+       "in": 5,
+       "out": 25,
+       "snapshot": "https://web.archive.org/web/20260301150515/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Sonnet 4.6",
+     "firstSeen": "2026-03-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-03-01",
+       "until": "2026-11-01",
+       "in": 3,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20260301150515/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Opus 4.5",
+     "firstSeen": "2025-12-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2025-12-01",
+       "until": "2026-11-01",
+       "in": 5,
+       "out": 25,
+       "snapshot": "https://web.archive.org/web/20251201041432/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Haiku 4.5",
+     "firstSeen": "2025-11-19",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2025-11-19",
+       "until": "2026-11-01",
+       "in": 1,
+       "out": 5,
+       "snapshot": "https://web.archive.org/web/20251119190003/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Sonnet 4.5",
+     "firstSeen": "2025-11-19",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2025-11-19",
+       "until": "2026-11-01",
+       "in": 3,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20251119190003/https://platform.claude.com/docs/en/about-claude/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Opus 4.1",
+     "firstSeen": "2025-09-02",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2025-09-02",
+       "until": "2026-11-01",
+       "in": 15,
+       "out": 75,
+       "snapshot": "https://web.archive.org/web/20250902002655/https://www.anthropic.com/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Opus 4",
+     "firstSeen": "2025-06-03",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2025-06-03",
+       "until": "2026-11-01",
+       "in": 15,
+       "out": 75,
+       "snapshot": "https://web.archive.org/web/20250603033741/https://www.anthropic.com/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Sonnet 4",
+     "firstSeen": "2025-06-03",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2025-06-03",
+       "until": "2026-11-01",
+       "in": 3,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20250603033741/https://www.anthropic.com/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Sonnet 3.7",
+     "firstSeen": "2025-03-03",
+     "lastSeen": "2026-05-04",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-03-03",
+       "until": "2026-05-04",
+       "in": 3,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20250303042746/https://www.anthropic.com/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Haiku 3.5",
+     "firstSeen": "2024-12-03",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2024-12-03",
+       "until": "2024-12-03",
+       "in": 1,
+       "out": 5,
+       "snapshot": "https://web.archive.org/web/20241203010242/https://www.anthropic.com/pricing"
+      },
+      {
+       "from": "2025-01-01",
+       "until": "2026-11-01",
+       "in": 0.8,
+       "out": 4,
+       "snapshot": "https://web.archive.org/web/20250101035229/https://www.anthropic.com/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude Sonnet 3.5",
+     "firstSeen": "2024-06-20",
+     "lastSeen": "2025-09-12",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-06-20",
+       "until": "2025-09-12",
+       "in": 3,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20240620172520/https://www.anthropic.com/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Claude 2.0",
+     "firstSeen": "2024-03-04",
+     "lastSeen": "2024-10-03",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-03-04",
+       "until": "2024-10-03",
+       "in": 8,
+       "out": 24,
+       "snapshot": "https://web.archive.org/web/20240304143754/https://www.anthropic.com/api"
+      }
+     ]
+    },
+    {
+     "name": "Claude 2.1",
+     "firstSeen": "2024-03-04",
+     "lastSeen": "2024-10-03",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-03-04",
+       "until": "2024-10-03",
+       "in": 8,
+       "out": 24,
+       "snapshot": "https://web.archive.org/web/20240304143754/https://www.anthropic.com/api"
+      }
+     ]
+    },
+    {
+     "name": "Claude 3 Sonnet",
+     "firstSeen": "2024-03-04",
+     "lastSeen": "2025-01-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-03-04",
+       "until": "2025-01-01",
+       "in": 3,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20240304143754/https://www.anthropic.com/api"
+      }
+     ]
+    },
+    {
+     "name": "Claude Haiku 3",
+     "firstSeen": "2024-03-04",
+     "lastSeen": "2026-05-04",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-03-04",
+       "until": "2026-05-04",
+       "in": 0.25,
+       "out": 1.25,
+       "snapshot": "https://web.archive.org/web/20240304143754/https://www.anthropic.com/api"
+      }
+     ]
+    },
+    {
+     "name": "Claude Instant",
+     "firstSeen": "2024-03-04",
+     "lastSeen": "2024-10-03",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-03-04",
+       "until": "2024-10-03",
+       "in": 0.8,
+       "out": 2.4,
+       "snapshot": "https://web.archive.org/web/20240304143754/https://www.anthropic.com/api"
+      }
+     ]
+    },
+    {
+     "name": "Claude Opus 3",
+     "firstSeen": "2024-03-04",
+     "lastSeen": "2026-05-04",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-03-04",
+       "until": "2026-05-04",
+       "in": 15,
+       "out": 75,
+       "snapshot": "https://web.archive.org/web/20240304143754/https://www.anthropic.com/api"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Google",
+   "pages": [
+    "https://ai.google.dev/pricing",
+    "https://ai.google.dev/gemini-api/docs/pricing"
+   ],
+   "captures": 33,
+   "firstCapture": "2024-04-02",
+   "lastCapture": "2026-11-01",
+   "models": [
+    {
+     "name": "Gemini 4 Argon",
+     "firstSeen": "2026-11-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-11-01",
+       "until": "2026-11-01",
+       "in": 2,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20261101085645/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Price through 2026-11-30"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 3.8 Flash",
+     "firstSeen": "2026-10-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-10-01",
+       "until": "2026-11-01",
+       "in": 0.75,
+       "out": 3.75,
+       "snapshot": "https://web.archive.org/web/20261001035256/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Price through 2026-12-31"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 3.7 Flash",
+     "firstSeen": "2026-09-01",
+     "lastSeen": "2026-10-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-09-01",
+       "until": "2026-10-01",
+       "in": 0.75,
+       "out": 3.75,
+       "snapshot": "https://web.archive.org/web/20260901002902/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Price through 2026-12-31"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 3.5 Flash-Lite",
+     "firstSeen": "2026-08-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-08-01",
+       "until": "2026-11-01",
+       "in": 0.3,
+       "out": 2.5,
+       "snapshot": "https://web.archive.org/web/20260801152348/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video/audio input"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 3.6 Flash",
+     "firstSeen": "2026-08-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-08-01",
+       "until": "2026-08-01",
+       "in": 1.5,
+       "out": 7.5,
+       "snapshot": "https://web.archive.org/web/20260801152348/https://ai.google.dev/gemini-api/docs/pricing"
+      },
+      {
+       "from": "2026-09-01",
+       "until": "2026-11-01",
+       "in": 0.75,
+       "out": 3.75,
+       "snapshot": "https://web.archive.org/web/20260901002902/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Price through 2026-12-31"
+      }
+     ]
+    },
+    {
+     "name": "Gemini Robotics ER 2 Preview",
+     "firstSeen": "2026-08-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-08-01",
+       "until": "2026-09-01",
+       "in": 2,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20260801152348/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video/audio input"
+      },
+      {
+       "from": "2026-10-01",
+       "until": "2026-11-01",
+       "in": 1,
+       "out": 5,
+       "snapshot": "https://web.archive.org/web/20261001035256/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video/audio input; price through 2026-12-31"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 3.1 Flash-Lite",
+     "firstSeen": "2026-06-02",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-06-02",
+       "until": "2026-11-01",
+       "in": 0.25,
+       "out": 1.5,
+       "snapshot": "https://web.archive.org/web/20260602081519/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video input"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 3.5 Flash",
+     "firstSeen": "2026-06-02",
+     "lastSeen": "2026-10-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-06-02",
+       "until": "2026-10-01",
+       "in": 1.5,
+       "out": 9,
+       "snapshot": "https://web.archive.org/web/20260602081519/https://ai.google.dev/gemini-api/docs/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Gemini Robotics ER 1.6 Preview",
+     "firstSeen": "2026-05-01",
+     "lastSeen": "2026-09-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-05-01",
+       "until": "2026-09-01",
+       "in": 1,
+       "out": 5,
+       "snapshot": "https://web.archive.org/web/20260501160638/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video input"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 3.1 Flash-Lite Preview",
+     "firstSeen": "2026-04-01",
+     "lastSeen": "2026-05-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-04-01",
+       "until": "2026-05-01",
+       "in": 0.25,
+       "out": 1.5,
+       "snapshot": "https://web.archive.org/web/20260401191258/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video input"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 3.1 Pro Preview",
+     "firstSeen": "2026-03-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-03-01",
+       "until": "2026-11-01",
+       "in": 2,
+       "out": 12,
+       "snapshot": "https://web.archive.org/web/20260301091320/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Prompts up to 200k tokens"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 3 Flash Preview",
+     "firstSeen": "2026-01-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-01-01",
+       "until": "2026-11-01",
+       "in": 0.5,
+       "out": 3,
+       "snapshot": "https://web.archive.org/web/20260101134813/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video input"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 3 Pro Preview",
+     "firstSeen": "2025-12-06",
+     "lastSeen": "2026-03-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-12-06",
+       "until": "2026-03-01",
+       "in": 2,
+       "out": 12,
+       "snapshot": "https://web.archive.org/web/20251206112346/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Prompts up to 200k tokens"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 2.5 Computer Use Preview",
+     "firstSeen": "2025-11-03",
+     "lastSeen": "2026-09-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-11-03",
+       "until": "2026-09-01",
+       "in": 1.25,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20251103074340/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Prompts up to 200k tokens"
+      }
+     ]
+    },
+    {
+     "name": "Gemini Robotics-ER 1.5 Preview",
+     "firstSeen": "2025-10-02",
+     "lastSeen": "2026-04-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-10-02",
+       "until": "2026-04-01",
+       "in": 0.3,
+       "out": 2.5,
+       "snapshot": "https://web.archive.org/web/20251002162244/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video input"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 2.5 Flash-Lite",
+     "firstSeen": "2025-08-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2025-08-01",
+       "until": "2026-11-01",
+       "in": 0.1,
+       "out": 0.4,
+       "snapshot": "https://web.archive.org/web/20250801134936/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video input"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 2.5 Flash",
+     "firstSeen": "2025-07-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2025-07-01",
+       "until": "2026-11-01",
+       "in": 0.3,
+       "out": 2.5,
+       "snapshot": "https://web.archive.org/web/20250701052920/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video input"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 2.5 Flash-Lite Preview",
+     "firstSeen": "2025-07-01",
+     "lastSeen": "2026-08-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-07-01",
+       "until": "2026-08-01",
+       "in": 0.1,
+       "out": 0.4,
+       "snapshot": "https://web.archive.org/web/20250701052920/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video input"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 2.5 Pro",
+     "firstSeen": "2025-07-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2025-07-01",
+       "until": "2026-11-01",
+       "in": 1.25,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20250701052920/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Prompts up to 200k tokens"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 2.5 Flash Preview",
+     "firstSeen": "2025-05-02",
+     "lastSeen": "2026-02-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-05-02",
+       "until": "2025-06-03",
+       "in": 0.15,
+       "out": 0.6,
+       "snapshot": "https://web.archive.org/web/20250502025139/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video input; non-thinking output"
+      },
+      {
+       "from": "2025-10-02",
+       "until": "2026-02-01",
+       "in": 0.3,
+       "out": 2.5,
+       "snapshot": "https://web.archive.org/web/20251002162244/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video input"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 2.5 Pro Preview",
+     "firstSeen": "2025-05-02",
+     "lastSeen": "2025-06-03",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-05-02",
+       "until": "2025-06-03",
+       "in": 1.25,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20250502025139/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Prompts up to 200k tokens"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 2.0 Flash",
+     "firstSeen": "2025-02-11",
+     "lastSeen": "2026-08-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-02-11",
+       "until": "2026-08-01",
+       "in": 0.1,
+       "out": 0.4,
+       "snapshot": "https://web.archive.org/web/20250211163751/https://ai.google.dev/gemini-api/docs/pricing",
+       "note": "Text/image/video input"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 2.0 Flash-Lite",
+     "firstSeen": "2025-02-11",
+     "lastSeen": "2026-08-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-02-11",
+       "until": "2026-08-01",
+       "in": 0.075,
+       "out": 0.3,
+       "snapshot": "https://web.archive.org/web/20250211163751/https://ai.google.dev/gemini-api/docs/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 1.5 Flash-8B",
+     "firstSeen": "2024-11-02",
+     "lastSeen": "2025-10-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-11-02",
+       "until": "2025-10-02",
+       "in": 0.0375,
+       "out": 0.15,
+       "snapshot": "https://web.archive.org/web/20241102172747/https://ai.google.dev/pricing",
+       "note": "Prompts up to 128k tokens"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 1.5 Flash",
+     "firstSeen": "2024-06-03",
+     "lastSeen": "2025-10-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-06-03",
+       "until": "2024-08-03",
+       "in": 0.35,
+       "out": 1.05,
+       "snapshot": "https://web.archive.org/web/20240603135204/https://ai.google.dev/pricing",
+       "note": "Prompts up to 128k tokens"
+      },
+      {
+       "from": "2024-09-04",
+       "until": "2025-10-02",
+       "in": 0.075,
+       "out": 0.3,
+       "snapshot": "https://web.archive.org/web/20240904171757/https://ai.google.dev/pricing",
+       "note": "Prompts up to 128k tokens"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 1.0 Pro",
+     "firstSeen": "2024-04-02",
+     "lastSeen": "2025-02-11",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-04-02",
+       "until": "2025-02-11",
+       "in": 0.5,
+       "out": 1.5,
+       "snapshot": "https://web.archive.org/web/20240402010009/https://ai.google.dev/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Gemini 1.5 Pro",
+     "firstSeen": "2024-04-02",
+     "lastSeen": "2025-10-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-04-02",
+       "until": "2024-05-02",
+       "in": 7,
+       "out": 21,
+       "snapshot": "https://web.archive.org/web/20240402010009/https://ai.google.dev/pricing"
+      },
+      {
+       "from": "2024-06-03",
+       "until": "2024-09-04",
+       "in": 3.5,
+       "out": 10.5,
+       "snapshot": "https://web.archive.org/web/20240603135204/https://ai.google.dev/pricing",
+       "note": "Prompts up to 128k tokens"
+      },
+      {
+       "from": "2024-11-02",
+       "until": "2025-10-02",
+       "in": 1.25,
+       "out": 5,
+       "snapshot": "https://web.archive.org/web/20241102172747/https://ai.google.dev/pricing",
+       "note": "Prompts up to 128k tokens"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "DeepSeek",
+   "pages": [
+    "https://api-docs.deepseek.com/quick_start/pricing"
+   ],
+   "captures": 24,
+   "firstCapture": "2024-11-07",
+   "lastCapture": "2026-11-01",
+   "models": [
+    {
+     "name": "deepseek-flash",
+     "firstSeen": "2026-10-03",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-10-03",
+       "until": "2026-11-01",
+       "in": 0.3,
+       "out": 1.2,
+       "snapshot": "https://web.archive.org/web/20261003073808/https://api-docs.deepseek.com/quick_start/pricing",
+       "note": "Peak-hours rate; the page lists off-peak at half"
+      }
+     ]
+    },
+    {
+     "name": "deepseek-v4-flash",
+     "firstSeen": "2026-05-01",
+     "lastSeen": "2026-08-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-05-01",
+       "until": "2026-08-01",
+       "in": 0.14,
+       "out": 0.28,
+       "snapshot": "https://web.archive.org/web/20260501050639/https://api-docs.deepseek.com/quick_start/pricing"
+      }
+     ]
+    },
+    {
+     "name": "deepseek-v4-pro",
+     "firstSeen": "2026-05-01",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-05-01",
+       "until": "2026-05-01",
+       "in": 1.74,
+       "out": 3.48,
+       "snapshot": "https://web.archive.org/web/20260501050639/https://api-docs.deepseek.com/quick_start/pricing",
+       "note": "Temporary discount shown beside the list price: $0.435 / $0.87 until 2026/05/31 15:59 UTC"
+      },
+      {
+       "from": "2026-06-02",
+       "until": "2026-08-01",
+       "in": 0.435,
+       "out": 0.87,
+       "snapshot": "https://web.archive.org/web/20260602230941/https://api-docs.deepseek.com/quick_start/pricing"
+      },
+      {
+       "from": "2026-10-03",
+       "until": "2026-11-01",
+       "in": 1.32,
+       "out": 3.96,
+       "snapshot": "https://web.archive.org/web/20261003073808/https://api-docs.deepseek.com/quick_start/pricing",
+       "note": "Peak-hours rate; the page lists off-peak at half"
+      }
+     ]
+    },
+    {
+     "name": "deepseek-reasoner",
+     "firstSeen": "2025-02-07",
+     "lastSeen": "2026-04-03",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-02-07",
+       "until": "2025-09-01",
+       "in": 0.55,
+       "out": 2.19,
+       "snapshot": "https://web.archive.org/web/20250207125601/https://api-docs.deepseek.com/quick_start/pricing"
+      },
+      {
+       "from": "2025-10-04",
+       "until": "2026-04-03",
+       "in": 0.28,
+       "out": 0.42,
+       "snapshot": "https://web.archive.org/web/20251004112357/https://api-docs.deepseek.com/quick_start/pricing"
+      }
+     ]
+    },
+    {
+     "name": "deepseek-chat",
+     "firstSeen": "2024-11-07",
+     "lastSeen": "2026-04-03",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-11-07",
+       "until": "2024-12-04",
+       "in": 0.14,
+       "out": 0.28,
+       "snapshot": "https://web.archive.org/web/20241107075055/https://api-docs.deepseek.com/quick_start/pricing"
+      },
+      {
+       "from": "2025-01-03",
+       "until": "2025-09-01",
+       "in": 0.27,
+       "out": 1.1,
+       "snapshot": "https://web.archive.org/web/20250103234807/https://api-docs.deepseek.com/quick_start/pricing",
+       "note": "Temporary discount shown beside the list price: $0.14 / $0.28 until 2025-02-08 16:00 (UTC)"
+      },
+      {
+       "from": "2025-10-04",
+       "until": "2026-04-03",
+       "in": 0.28,
+       "out": 0.42,
+       "snapshot": "https://web.archive.org/web/20251004112357/https://api-docs.deepseek.com/quick_start/pricing"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "changes": [
+  {
+   "vendor": "DeepSeek",
+   "model": "deepseek-v4-pro",
+   "at": "2026-10-03",
+   "lastSeenOld": "2026-08-01",
+   "kind": "up",
+   "from": [
+    0.435,
+    0.87
+   ],
+   "to": [
+    1.32,
+    3.96
+   ],
+   "snapshot": "https://web.archive.org/web/20261003073808/https://api-docs.deepseek.com/quick_start/pricing",
+   "note": "Peak-hours rate; the page lists off-peak at half"
+  },
+  {
+   "vendor": "Google",
+   "model": "Gemini Robotics ER 2 Preview",
+   "at": "2026-10-01",
+   "lastSeenOld": "2026-09-01",
+   "kind": "down",
+   "from": [
+    2,
+    10
+   ],
+   "to": [
+    1,
+    5
+   ],
+   "snapshot": "https://web.archive.org/web/20261001035256/https://ai.google.dev/gemini-api/docs/pricing",
+   "note": "Text/image/video/audio input; price through 2026-12-31"
+  },
+  {
+   "vendor": "Google",
+   "model": "Gemini 3.6 Flash",
+   "at": "2026-09-01",
+   "lastSeenOld": "2026-08-01",
+   "kind": "down",
+   "from": [
+    1.5,
+    7.5
+   ],
+   "to": [
+    0.75,
+    3.75
+   ],
+   "snapshot": "https://web.archive.org/web/20260901002902/https://ai.google.dev/gemini-api/docs/pricing",
+   "note": "Price through 2026-12-31"
+  },
+  {
+   "vendor": "DeepSeek",
+   "model": "deepseek-v4-pro",
+   "at": "2026-06-02",
+   "lastSeenOld": "2026-05-01",
+   "kind": "down",
+   "from": [
+    1.74,
+    3.48
+   ],
+   "to": [
+    0.435,
+    0.87
+   ],
+   "snapshot": "https://web.archive.org/web/20260602230941/https://api-docs.deepseek.com/quick_start/pricing"
+  },
+  {
+   "vendor": "DeepSeek",
+   "model": "deepseek-chat",
+   "at": "2025-10-04",
+   "lastSeenOld": "2025-09-01",
+   "kind": "down",
+   "from": [
+    0.27,
+    1.1
+   ],
+   "to": [
+    0.28,
+    0.42
+   ],
+   "snapshot": "https://web.archive.org/web/20251004112357/https://api-docs.deepseek.com/quick_start/pricing"
+  },
+  {
+   "vendor": "DeepSeek",
+   "model": "deepseek-reasoner",
+   "at": "2025-10-04",
+   "lastSeenOld": "2025-09-01",
+   "kind": "down",
+   "from": [
+    0.55,
+    2.19
+   ],
+   "to": [
+    0.28,
+    0.42
+   ],
+   "snapshot": "https://web.archive.org/web/20251004112357/https://api-docs.deepseek.com/quick_start/pricing"
+  },
+  {
+   "vendor": "OpenAI",
+   "model": "o3",
+   "at": "2025-07-02",
+   "lastSeenOld": "2025-06-02",
+   "kind": "down",
+   "from": [
+    10,
+    40
+   ],
+   "to": [
+    2,
+    8
+   ],
+   "snapshot": "https://web.archive.org/web/20250702152237/https://openai.com/api/pricing/"
+  },
+  {
+   "vendor": "OpenAI",
+   "model": "o1-mini-2024-09-12",
+   "at": "2025-02-01",
+   "lastSeenOld": "2025-01-09",
+   "kind": "down",
+   "from": [
+    3,
+    12
+   ],
+   "to": [
+    1.1,
+    4.4
+   ],
+   "snapshot": "https://web.archive.org/web/20250201145921/https://openai.com/api/pricing/"
+  },
+  {
+   "vendor": "DeepSeek",
+   "model": "deepseek-chat",
+   "at": "2025-01-03",
+   "lastSeenOld": "2024-12-04",
+   "kind": "up",
+   "from": [
+    0.14,
+    0.28
+   ],
+   "to": [
+    0.27,
+    1.1
+   ],
+   "snapshot": "https://web.archive.org/web/20250103234807/https://api-docs.deepseek.com/quick_start/pricing",
+   "note": "Temporary discount shown beside the list price: $0.14 / $0.28 until 2025-02-08 16:00 (UTC)"
+  },
+  {
+   "vendor": "Anthropic",
+   "model": "Claude Haiku 3.5",
+   "at": "2025-01-01",
+   "lastSeenOld": "2024-12-03",
+   "kind": "down",
+   "from": [
+    1,
+    5
+   ],
+   "to": [
+    0.8,
+    4
+   ],
+   "snapshot": "https://web.archive.org/web/20250101035229/https://www.anthropic.com/pricing"
+  },
+  {
+   "vendor": "OpenAI",
+   "model": "GPT-4o",
+   "at": "2024-11-12",
+   "lastSeenOld": "2024-10-01",
+   "kind": "down",
+   "from": [
+    5,
+    15
+   ],
+   "to": [
+    2.5,
+    10
+   ],
+   "snapshot": "https://web.archive.org/web/20241112050536/https://openai.com/api/pricing/"
+  },
+  {
+   "vendor": "Google",
+   "model": "Gemini 1.5 Pro",
+   "at": "2024-11-02",
+   "lastSeenOld": "2024-09-04",
+   "kind": "down",
+   "from": [
+    3.5,
+    10.5
+   ],
+   "to": [
+    1.25,
+    5
+   ],
+   "snapshot": "https://web.archive.org/web/20241102172747/https://ai.google.dev/pricing",
+   "note": "Prompts up to 128k tokens"
+  },
+  {
+   "vendor": "Google",
+   "model": "Gemini 1.5 Flash",
+   "at": "2024-09-04",
+   "lastSeenOld": "2024-08-03",
+   "kind": "down",
+   "from": [
+    0.35,
+    1.05
+   ],
+   "to": [
+    0.075,
+    0.3
+   ],
+   "snapshot": "https://web.archive.org/web/20240904171757/https://ai.google.dev/pricing",
+   "note": "Prompts up to 128k tokens"
+  },
+  {
+   "vendor": "Google",
+   "model": "Gemini 1.5 Pro",
+   "at": "2024-06-03",
+   "lastSeenOld": "2024-05-02",
+   "kind": "down",
+   "from": [
+    7,
+    21
+   ],
+   "to": [
+    3.5,
+    10.5
+   ],
+   "snapshot": "https://web.archive.org/web/20240603135204/https://ai.google.dev/pricing",
+   "note": "Prompts up to 128k tokens"
+  },
+  {
+   "vendor": "OpenAI",
+   "model": "Ada",
+   "at": "2022-09-05",
+   "lastSeenOld": "2022-08-03",
+   "kind": "down",
+   "from": [
+    0.8,
+    0.8
+   ],
+   "to": [
+    0.4,
+    0.4
+   ],
+   "snapshot": "https://web.archive.org/web/20220905191340/https://openai.com/api/pricing/",
+   "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+  },
+  {
+   "vendor": "OpenAI",
+   "model": "Babbage",
+   "at": "2022-09-05",
+   "lastSeenOld": "2022-08-03",
+   "kind": "down",
+   "from": [
+    1.2,
+    1.2
+   ],
+   "to": [
+    0.5,
+    0.5
+   ],
+   "snapshot": "https://web.archive.org/web/20220905191340/https://openai.com/api/pricing/",
+   "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+  },
+  {
+   "vendor": "OpenAI",
+   "model": "Curie",
+   "at": "2022-09-05",
+   "lastSeenOld": "2022-08-03",
+   "kind": "down",
+   "from": [
+    6,
+    6
+   ],
+   "to": [
+    2,
+    2
+   ],
+   "snapshot": "https://web.archive.org/web/20220905191340/https://openai.com/api/pricing/",
+   "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+  },
+  {
+   "vendor": "OpenAI",
+   "model": "Davinci",
+   "at": "2022-09-05",
+   "lastSeenOld": "2022-08-03",
+   "kind": "down",
+   "from": [
+    60,
+    60
+   ],
+   "to": [
+    20,
+    20
+   ],
+   "snapshot": "https://web.archive.org/web/20220905191340/https://openai.com/api/pricing/",
+   "note": "Page priced per 1K tokens; multiplied by 1,000. One price for input and output"
+  }
+ ],
+ "firstCapture": "2021-11-20",
+ "lastCapture": "2026-11-04",
+ "captures": 154
+}

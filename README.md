@@ -3,6 +3,7 @@
 Open data on what AI models cost through their APIs, and when models are retired. Updated daily from [AIScoreboard](https://aiscoreboard.app/).
 
 - **Price ledger:** every change to a model's API price that the catalogue recorded, with the old price, the new price, the date and where the price was read (the vendor's own pricing page, or OpenRouter).
+- **Price history since 2021:** what OpenAI, Anthropic, Google and DeepSeek listed on their own pricing pages, read from about 150 Internet Archive copies (roughly one a month). Every row links to the archived page it was read from.
 - **Retirement calendar:** announced model retirements and scheduled price changes, each with the vendor's own source link and the date it was checked.
 
 <!-- stats:start -->
@@ -44,6 +45,9 @@ Data as of **2026-11-16**: 61 recorded changes (32 price rises, 20 price cuts, 9
 | `data/price-changes.csv` | One row per recorded change: date, model, kind (`up`, `down`, `retired`), source, prices before and after |
 | `data/prices-over-time.csv` | One row per model and date on which its price, source or status changed |
 | `data/price-history.json` | The full ledger as published on the site |
+| `data/archive-prices.csv` | Older list prices by vendor and model: first and last archived copy showing each price, with the archive link |
+| `data/archive-price-changes.csv` | Price changes found between two archived copies of a vendor's page |
+| `data/price-archive.json` | The same archive as JSON |
 | `data/retirements.csv` | Announced retirements and scheduled price changes, with source links |
 | `data/retirements.json` | The same, as JSON |
 
@@ -51,7 +55,7 @@ Prices are in USD per 1 million tokens (input, output).
 
 ## What to know before using it
 
-- The ledger started in September 2026 and daily change recording started on 14 November 2026, so the history is short.
+- The daily ledger started in September 2026 and daily change recording started on 14 November 2026. Prices before that come from the archive files: about one reading a month, so a change there is dated to within about a month, and months with no readable archived copy are missing.
 - `source` says where a price was read. `vendor` means the vendor's own pricing page. `openrouter` means the price OpenRouter listed, which is how most open-weights models are tracked and which moves more often.
 - A row is added only when something changed. A move from an OpenRouter price to the vendor's page is a better source, not a price change, so it is not listed as one.
 - Nothing is estimated. A model with no verified price is left out.
@@ -59,7 +63,7 @@ Prices are in USD per 1 million tokens (input, output).
 
 ## Other ways to get the data
 
-- Browse: [price changes](https://aiscoreboard.app/price-changes/) · [Sunset Watch](https://aiscoreboard.app/sunset-watch/) · [weekly brief](https://aiscoreboard.app/reports/)
+- Browse: [price history since 2021](https://aiscoreboard.app/price-history/) · [price changes](https://aiscoreboard.app/price-changes/) · [Sunset Watch](https://aiscoreboard.app/sunset-watch/) · [weekly brief](https://aiscoreboard.app/reports/)
 - Feeds: [price changes (Atom)](https://aiscoreboard.app/price-changes/feed.xml) · [retirements (Atom)](https://aiscoreboard.app/sunset-watch/feed.xml) · [retirements (iCal)](https://aiscoreboard.app/sunset-watch/calendar.ics)
 - Free JSON API and MCP server (`https://aiscoreboard.app/mcp`, no key): [developer docs](https://aiscoreboard.app/developers/)
 - A weekly email with the changes: sign up on any [weekly brief](https://aiscoreboard.app/reports/) page
