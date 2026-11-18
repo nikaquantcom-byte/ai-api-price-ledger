@@ -1,4 +1,17 @@
 date,model_id,model,change,source,input_before_usd_per_1m,output_before_usd_per_1m,input_after_usd_per_1m,output_after_usd_per_1m
+2026-11-18,expanded-deepseek-deepseek-v4-1-flash,DeepSeek V4.1 Flash,down,openrouter,0.14,0.42,0.0507,0.2028
+2026-11-18,expanded-google-gemma-3-27b-it,Gemma 3 27B,up,openrouter,0.08,0.35,0.08,0.45
+2026-11-18,expanded-z-ai-glm-5-3-prime,GLM 5.3 Prime,down,openrouter,2.8,8.8,1.68,5.28
+2026-11-18,expanded-openai-gpt-oss-20b,gpt-oss-20b,down,openrouter,0.075,0.3,0.018,0.09
+2026-11-18,expanded-xiaomi-mimo-v2-5-pro,MiMo-V2.5-Pro,up,openrouter,0.435,0.87,0.48,1.8
+2026-11-18,expanded-mistralai-mistral-medium-3-1,Mistral Medium 3.1,up,openrouter,0.4,2,0.44,2.2
+2026-11-18,expanded-meta-muse-glimmer-30b,Muse Glimmer 30B,up,openrouter,0.3,1.2,0.35,1.5
+2026-11-18,expanded-nvidia-nemotron-3-ultra-550b-a55b,Nemotron 3 Ultra,down,openrouter,0.6,2.4,0.5,2.2
+2026-11-18,expanded-qwen-qwen3-next-80b-a3b-instruct,Qwen3 Next 80B A3B Instruct,up,openrouter,0.09,1.1,0.1,1.1
+2026-11-18,expanded-qwen-qwen3-5-27b,Qwen3.5-27B,down,openrouter,0.26,2.6,0.3,2.4
+2026-11-18,tracked-qwen-qwen3-5-9b,Qwen3.5-9B,up,openrouter,0.081,0.118,0.17,0.25
+2026-11-18,expanded-qwen-qwen4-max,Qwen4 Max,down,openrouter,1.5,4.5,1.425,4.275
+2026-11-18,tracked-deepseek-deepseek-r1-0528,R1 0528,up,openrouter,0.5,2.15,0.571,2.286
 2026-11-16,expanded-deepseek-deepseek-v4-1-flash,DeepSeek V4.1 Flash,up,openrouter,0.0507,0.2028,0.14,0.42
 2026-11-16,tracked-google-gemma-4-26b-a4b-it,Gemma 4 26B A4B,up,openrouter,0.0675,0.225,0.09,0.3
 2026-11-16,expanded-z-ai-glm-4-5-air,GLM 4.5 Air,down,openrouter,0.2,1.1,0.13,0.85

@@ -7,8 +7,203 @@
   "attribution": "AIScoreboard (aiscoreboard.app), https://aiscoreboard.app/price-changes/"
  },
  "firstObservation": "2026-09-08",
- "lastObservation": "2026-11-16",
+ "lastObservation": "2026-11-18",
  "changes": [
+  {
+   "at": "2026-11-18",
+   "id": "expanded-deepseek-deepseek-v4-1-flash",
+   "name": "DeepSeek V4.1 Flash",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.14,
+    0.42
+   ],
+   "to": [
+    0.0507,
+    0.2028
+   ]
+  },
+  {
+   "at": "2026-11-18",
+   "id": "expanded-google-gemma-3-27b-it",
+   "name": "Gemma 3 27B",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.08,
+    0.35
+   ],
+   "to": [
+    0.08,
+    0.45
+   ]
+  },
+  {
+   "at": "2026-11-18",
+   "id": "expanded-z-ai-glm-5-3-prime",
+   "name": "GLM 5.3 Prime",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    2.8,
+    8.8
+   ],
+   "to": [
+    1.68,
+    5.28
+   ]
+  },
+  {
+   "at": "2026-11-18",
+   "id": "expanded-openai-gpt-oss-20b",
+   "name": "gpt-oss-20b",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.075,
+    0.3
+   ],
+   "to": [
+    0.018,
+    0.09
+   ]
+  },
+  {
+   "at": "2026-11-18",
+   "id": "expanded-xiaomi-mimo-v2-5-pro",
+   "name": "MiMo-V2.5-Pro",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.435,
+    0.87
+   ],
+   "to": [
+    0.48,
+    1.8
+   ]
+  },
+  {
+   "at": "2026-11-18",
+   "id": "expanded-mistralai-mistral-medium-3-1",
+   "name": "Mistral Medium 3.1",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.4,
+    2
+   ],
+   "to": [
+    0.44,
+    2.2
+   ]
+  },
+  {
+   "at": "2026-11-18",
+   "id": "expanded-meta-muse-glimmer-30b",
+   "name": "Muse Glimmer 30B",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.3,
+    1.2
+   ],
+   "to": [
+    0.35,
+    1.5
+   ]
+  },
+  {
+   "at": "2026-11-18",
+   "id": "expanded-nvidia-nemotron-3-ultra-550b-a55b",
+   "name": "Nemotron 3 Ultra",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.6,
+    2.4
+   ],
+   "to": [
+    0.5,
+    2.2
+   ]
+  },
+  {
+   "at": "2026-11-18",
+   "id": "expanded-qwen-qwen3-next-80b-a3b-instruct",
+   "name": "Qwen3 Next 80B A3B Instruct",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.09,
+    1.1
+   ],
+   "to": [
+    0.1,
+    1.1
+   ]
+  },
+  {
+   "at": "2026-11-18",
+   "id": "expanded-qwen-qwen3-5-27b",
+   "name": "Qwen3.5-27B",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.26,
+    2.6
+   ],
+   "to": [
+    0.3,
+    2.4
+   ]
+  },
+  {
+   "at": "2026-11-18",
+   "id": "tracked-qwen-qwen3-5-9b",
+   "name": "Qwen3.5-9B",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.081,
+    0.118
+   ],
+   "to": [
+    0.17,
+    0.25
+   ]
+  },
+  {
+   "at": "2026-11-18",
+   "id": "expanded-qwen-qwen4-max",
+   "name": "Qwen4 Max",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    1.5,
+    4.5
+   ],
+   "to": [
+    1.425,
+    4.275
+   ]
+  },
+  {
+   "at": "2026-11-18",
+   "id": "tracked-deepseek-deepseek-r1-0528",
+   "name": "R1 0528",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.5,
+    2.15
+   ],
+   "to": [
+    0.571,
+    2.286
+   ]
+  },
   {
    "at": "2026-11-16",
    "id": "expanded-deepseek-deepseek-v4-1-flash",
@@ -1325,6 +1520,13 @@
     "at": "2026-11-16",
     "src": "router",
     "ed": "next-350051c3"
+   },
+   {
+    "in": 0.0507,
+    "out": 0.2028,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
    }
   ],
   "expanded-deepseek-deepseek-v4-1-flash-1017": [
@@ -1508,6 +1710,13 @@
     "at": "2026-11-15",
     "src": "router",
     "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.08,
+    "out": 0.45,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
    }
   ],
   "expanded-google-gemma-3-4b-it": [
@@ -1761,6 +1970,13 @@
     "at": "2026-11-15",
     "src": "router",
     "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.35,
+    "out": 1.5,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
    }
   ],
   "expanded-meta-muse-spark-1-1": [
@@ -1994,6 +2210,13 @@
     "at": "2026-09-11",
     "src": "router",
     "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.44,
+    "out": 2.2,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
    }
   ],
   "expanded-mistralai-mistral-nemo": [
@@ -2295,6 +2518,13 @@
     "at": "2026-11-15",
     "src": "router",
     "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.5,
+    "out": 2.2,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
    }
   ],
   "expanded-openai-gpt-3-5-turbo": [
@@ -2633,6 +2863,13 @@
     "at": "2026-11-16",
     "src": "router",
     "ed": "next-350051c3"
+   },
+   {
+    "in": 0.018,
+    "out": 0.09,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
    }
   ],
   "expanded-openai-gpt-oss-safeguard-20b": [
@@ -2983,6 +3220,13 @@
     "at": "2026-11-15",
     "src": "router",
     "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.3,
+    "out": 2.4,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
    }
   ],
   "expanded-qwen-qwen3-5-397b-a17b": [
@@ -3094,6 +3338,13 @@
     "at": "2026-09-11",
     "src": "router",
     "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.1,
+    "out": 1.1,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
    }
   ],
   "expanded-qwen-qwen3-next-80b-a3b-thinking": [
@@ -3182,6 +3433,13 @@
     "at": "2026-11-16",
     "src": "router",
     "ed": "next-350051c3"
+   },
+   {
+    "in": 1.425,
+    "out": 4.275,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
    }
   ],
   "expanded-recursive-flint-v1-0-free": [
@@ -3391,6 +3649,15 @@
     "ed": "next-05ff7363"
    }
   ],
+  "expanded-tencent-hy4-flash": [
+   {
+    "in": 0.035,
+    "out": 0.1405,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
+   }
+  ],
   "expanded-thedrummer-cydonia-24b-v4-1": [
    {
     "in": 0.3,
@@ -3563,6 +3830,13 @@
     "at": "2026-09-11",
     "src": "router",
     "ed": "next-707e28fd"
+   },
+   {
+    "in": 0.48,
+    "out": 1.8,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
    }
   ],
   "expanded-xiaomi-mimo-v2-6-flash": [
@@ -3706,6 +3980,13 @@
     "at": "2026-11-15",
     "src": "router",
     "ed": "next-05ff7363"
+   },
+   {
+    "in": 1.68,
+    "out": 5.28,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
    }
   ],
   "gemini-3-6-flash": [
@@ -3982,6 +4263,13 @@
     "at": "2026-11-15",
     "src": "router",
     "ed": "next-d04174b7"
+   },
+   {
+    "in": 0.571,
+    "out": 2.286,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
    }
   ],
   "tracked-deepseek-deepseek-r1-distill-llama-70b": [
@@ -4487,6 +4775,13 @@
     "at": "2026-11-16",
     "src": "router",
     "ed": "next-350051c3"
+   },
+   {
+    "in": 0.17,
+    "out": 0.25,
+    "at": "2026-11-18",
+    "src": "router",
+    "ed": "next-7e413e64"
    }
   ],
   "tracked-qwen-qwen3-5-plus-20260420": [

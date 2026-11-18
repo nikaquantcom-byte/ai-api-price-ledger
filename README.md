@@ -7,22 +7,22 @@ Open data on what AI models cost through their APIs, and when models are retired
 - **Retirement calendar:** announced model retirements and scheduled price changes, each with the vendor's own source link and the date it was checked.
 
 <!-- stats:start -->
-Data as of **2026-11-16**: 61 recorded changes (32 price rises, 20 price cuts, 9 retirements) across 359 models, first observation 2026-09-08.
+Data as of **2026-11-18**: 74 recorded changes (39 price rises, 26 price cuts, 9 retirements) across 360 models, first observation 2026-09-08.
 
 **Latest price moves** (USD per 1M tokens, input / output)
 
 | Date | Model | Before | After | Source |
 |---|---|---|---|---|
-| 2026-11-16 | DeepSeek V4.1 Flash | $0.05 / $0.20 | $0.14 / $0.42 | OpenRouter |
-| 2026-11-16 | Gemma 4 26B A4B | $0.07 / $0.23 | $0.09 / $0.30 | OpenRouter |
-| 2026-11-16 | GLM 4.5 Air | $0.20 / $1.10 | $0.13 / $0.85 | OpenRouter |
-| 2026-11-16 | gpt-oss-20b | $0.03 / $0.13 | $0.07 / $0.30 | OpenRouter |
-| 2026-11-16 | Granite 4.2 8B | $0.06 / $0.25 | $0.06 / $0.15 | OpenRouter |
-| 2026-11-16 | MiniMax M2.5 | $0.27 / $0.95 | $0.29 / $1.20 | OpenRouter |
-| 2026-11-16 | Qwen3.5 397B A17B | $0.60 / $3.60 | $0.45 / $3.00 | OpenRouter |
-| 2026-11-16 | Qwen3.5-9B | $0.02 / $0.03 | $0.08 / $0.12 | OpenRouter |
-| 2026-11-15 | DeepSeek V3 0324 | $0.25 / $1.00 | $0.29 / $1.14 | OpenRouter |
-| 2026-11-15 | DeepSeek V3.2 | $0.27 / $0.40 | $0.26 / $0.38 | OpenRouter |
+| 2026-11-18 | DeepSeek V4.1 Flash | $0.14 / $0.42 | $0.05 / $0.20 | OpenRouter |
+| 2026-11-18 | Gemma 3 27B | $0.08 / $0.35 | $0.08 / $0.45 | OpenRouter |
+| 2026-11-18 | GLM 5.3 Prime | $2.80 / $8.80 | $1.68 / $5.28 | OpenRouter |
+| 2026-11-18 | gpt-oss-20b | $0.07 / $0.30 | $0.02 / $0.09 | OpenRouter |
+| 2026-11-18 | MiMo-V2.5-Pro | $0.43 / $0.87 | $0.48 / $1.80 | OpenRouter |
+| 2026-11-18 | Mistral Medium 3.1 | $0.40 / $2.00 | $0.44 / $2.20 | OpenRouter |
+| 2026-11-18 | Muse Glimmer 30B | $0.30 / $1.20 | $0.35 / $1.50 | OpenRouter |
+| 2026-11-18 | Nemotron 3 Ultra | $0.60 / $2.40 | $0.50 / $2.20 | OpenRouter |
+| 2026-11-18 | Qwen3 Next 80B A3B Instruct | $0.09 / $1.10 | $0.10 / $1.10 | OpenRouter |
+| 2026-11-18 | Qwen3.5-27B | $0.26 / $2.60 | $0.30 / $2.40 | OpenRouter |
 
 **Announced dates ahead**
 
