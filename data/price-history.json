@@ -7,8 +7,53 @@
   "attribution": "AIScoreboard (aiscoreboard.app), https://aiscoreboard.app/price-changes/"
  },
  "firstObservation": "2026-09-08",
- "lastObservation": "2026-11-18",
+ "lastObservation": "2026-11-19",
  "changes": [
+  {
+   "at": "2026-11-19",
+   "id": "expanded-reflection-beam-1-0-501b-a23b",
+   "name": "Beam 1.0 501B A23B",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.3,
+    1
+   ],
+   "to": [
+    0.25,
+    1
+   ]
+  },
+  {
+   "at": "2026-11-19",
+   "id": "expanded-google-gemma-3-27b-it",
+   "name": "Gemma 3 27B",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.08,
+    0.45
+   ],
+   "to": [
+    0.08,
+    0.16
+   ]
+  },
+  {
+   "at": "2026-11-19",
+   "id": "expanded-qwen-qwen3-5-27b",
+   "name": "Qwen3.5-27B",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.3,
+    2.4
+   ],
+   "to": [
+    0.195,
+    1.56
+   ]
+  },
   {
    "at": "2026-11-18",
    "id": "expanded-deepseek-deepseek-v4-1-flash",
@@ -1678,6 +1723,15 @@
     "ed": "next-d4a6e624"
    }
   ],
+  "expanded-google-gemini-4-neon": [
+   {
+    "in": 3,
+    "out": 15,
+    "at": "2026-11-19",
+    "src": "router",
+    "ed": "next-db77d9b1"
+   }
+  ],
   "expanded-google-gemma-2-27b-it": [
    {
     "in": 0.65,
@@ -1717,6 +1771,13 @@
     "at": "2026-11-18",
     "src": "router",
     "ed": "next-7e413e64"
+   },
+   {
+    "in": 0.08,
+    "out": 0.16,
+    "at": "2026-11-19",
+    "src": "router",
+    "ed": "next-db77d9b1"
    }
   ],
   "expanded-google-gemma-3-4b-it": [
@@ -3227,6 +3288,13 @@
     "at": "2026-11-18",
     "src": "router",
     "ed": "next-7e413e64"
+   },
+   {
+    "in": 0.195,
+    "out": 1.56,
+    "at": "2026-11-19",
+    "src": "router",
+    "ed": "next-db77d9b1"
    }
   ],
   "expanded-qwen-qwen3-5-397b-a17b": [
@@ -3458,6 +3526,13 @@
     "at": "2026-11-15",
     "src": "router",
     "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.25,
+    "out": 1,
+    "at": "2026-11-19",
+    "src": "router",
+    "ed": "next-db77d9b1"
    }
   ],
   "expanded-rekaai-reka-edge": [

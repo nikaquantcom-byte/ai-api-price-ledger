@@ -1,4 +1,7 @@
 date,model_id,model,change,source,input_before_usd_per_1m,output_before_usd_per_1m,input_after_usd_per_1m,output_after_usd_per_1m
+2026-11-19,expanded-reflection-beam-1-0-501b-a23b,Beam 1.0 501B A23B,down,openrouter,0.3,1,0.25,1
+2026-11-19,expanded-google-gemma-3-27b-it,Gemma 3 27B,down,openrouter,0.08,0.45,0.08,0.16
+2026-11-19,expanded-qwen-qwen3-5-27b,Qwen3.5-27B,down,openrouter,0.3,2.4,0.195,1.56
 2026-11-18,expanded-deepseek-deepseek-v4-1-flash,DeepSeek V4.1 Flash,down,openrouter,0.14,0.42,0.0507,0.2028
 2026-11-18,expanded-google-gemma-3-27b-it,Gemma 3 27B,up,openrouter,0.08,0.35,0.08,0.45
 2026-11-18,expanded-z-ai-glm-5-3-prime,GLM 5.3 Prime,down,openrouter,2.8,8.8,1.68,5.28

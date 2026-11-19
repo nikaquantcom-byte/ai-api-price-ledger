@@ -2092,6 +2092,1197 @@
      ]
     }
    ]
+  },
+  {
+   "name": "Mistral",
+   "pages": [
+    "https://docs.mistral.ai/platform/pricing",
+    "https://mistral.ai/technology/",
+    "https://mistral.ai/pricing"
+   ],
+   "captures": 27,
+   "firstCapture": "2024-03-07",
+   "lastCapture": "2026-07-01",
+   "models": [
+    {
+     "name": "Mistral Medium 3.5",
+     "firstSeen": "2026-05-09",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-05-09",
+       "until": "2026-07-01",
+       "in": 1.5,
+       "out": 7.5,
+       "snapshot": "https://web.archive.org/web/20260509063839/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Small 4",
+     "firstSeen": "2026-04-06",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-04-06",
+       "until": "2026-07-01",
+       "in": 0.15,
+       "out": 0.6,
+       "snapshot": "https://web.archive.org/web/20260406094048/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Devstral 2",
+     "firstSeen": "2026-02-03",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-02-03",
+       "until": "2026-07-01",
+       "in": 0.4,
+       "out": 2,
+       "snapshot": "https://web.archive.org/web/20260203182559/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Devstral Small 2",
+     "firstSeen": "2026-02-03",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-02-03",
+       "until": "2026-07-01",
+       "in": 0.1,
+       "out": 0.3,
+       "snapshot": "https://web.archive.org/web/20260203182559/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Ministral 3 - 14B",
+     "firstSeen": "2026-01-18",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-01-18",
+       "until": "2026-07-01",
+       "in": 0.2,
+       "out": 0.2,
+       "snapshot": "https://web.archive.org/web/20260118045426/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Ministral 3 - 3B",
+     "firstSeen": "2026-01-18",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-01-18",
+       "until": "2026-07-01",
+       "in": 0.1,
+       "out": 0.1,
+       "snapshot": "https://web.archive.org/web/20260118045426/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Ministral 3 - 8B",
+     "firstSeen": "2026-01-18",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-01-18",
+       "until": "2026-07-01",
+       "in": 0.15,
+       "out": 0.15,
+       "snapshot": "https://web.archive.org/web/20260118045426/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Large 3",
+     "firstSeen": "2026-01-18",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-01-18",
+       "until": "2026-07-01",
+       "in": 0.5,
+       "out": 1.5,
+       "snapshot": "https://web.archive.org/web/20260118045426/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Small Creative",
+     "firstSeen": "2026-01-18",
+     "lastSeen": "2026-06-03",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-01-18",
+       "until": "2026-06-03",
+       "in": 0.1,
+       "out": 0.3,
+       "snapshot": "https://web.archive.org/web/20260118045426/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Devstral Medium",
+     "firstSeen": "2025-08-02",
+     "lastSeen": "2025-12-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-08-02",
+       "until": "2025-12-02",
+       "in": 0.4,
+       "out": 2,
+       "snapshot": "https://web.archive.org/web/20250802151648/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Devstral Small",
+     "firstSeen": "2025-08-02",
+     "lastSeen": "2025-12-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-08-02",
+       "until": "2025-12-02",
+       "in": 0.1,
+       "out": 0.3,
+       "snapshot": "https://web.archive.org/web/20250802151648/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Magistral Medium",
+     "firstSeen": "2025-08-02",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2025-08-02",
+       "until": "2026-07-01",
+       "in": 2,
+       "out": 5,
+       "snapshot": "https://web.archive.org/web/20250802151648/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Magistral Medium (Preview)",
+     "firstSeen": "2025-07-02",
+     "lastSeen": "2025-07-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-07-02",
+       "until": "2025-07-02",
+       "in": 2,
+       "out": 5,
+       "snapshot": "https://web.archive.org/web/20250702051936/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Magistral Small",
+     "firstSeen": "2025-07-02",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2025-07-02",
+       "until": "2026-07-01",
+       "in": 0.5,
+       "out": 1.5,
+       "snapshot": "https://web.archive.org/web/20250702051936/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Small 3.2",
+     "firstSeen": "2025-07-02",
+     "lastSeen": "2026-05-09",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-07-02",
+       "until": "2026-05-09",
+       "in": 0.1,
+       "out": 0.3,
+       "snapshot": "https://web.archive.org/web/20250702051936/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Devstral",
+     "firstSeen": "2025-05-25",
+     "lastSeen": "2025-07-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-05-25",
+       "until": "2025-07-02",
+       "in": 0.1,
+       "out": 0.3,
+       "snapshot": "https://web.archive.org/web/20250525061708/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Medium 3",
+     "firstSeen": "2025-05-25",
+     "lastSeen": "2026-04-06",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-05-25",
+       "until": "2026-04-06",
+       "in": 0.4,
+       "out": 2,
+       "snapshot": "https://web.archive.org/web/20250525061708/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Saba",
+     "firstSeen": "2025-05-25",
+     "lastSeen": "2025-10-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-05-25",
+       "until": "2025-10-01",
+       "in": 0.2,
+       "out": 0.6,
+       "snapshot": "https://web.archive.org/web/20250525061708/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Small 3.1",
+     "firstSeen": "2025-05-25",
+     "lastSeen": "2025-06-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-05-25",
+       "until": "2025-06-01",
+       "in": 0.1,
+       "out": 0.3,
+       "snapshot": "https://web.archive.org/web/20250525061708/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Small 25.01",
+     "firstSeen": "2025-02-03",
+     "lastSeen": "2025-02-03",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-02-03",
+       "until": "2025-02-03",
+       "in": 0.1,
+       "out": 0.3,
+       "snapshot": "https://web.archive.org/web/20250203181801/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Large 24.11",
+     "firstSeen": "2024-12-02",
+     "lastSeen": "2025-02-03",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-12-02",
+       "until": "2025-02-03",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20241202130657/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "Pixtral Large",
+     "firstSeen": "2024-12-02",
+     "lastSeen": "2026-05-09",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-12-02",
+       "until": "2026-05-09",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20241202130657/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "Ministral 3B 24.10",
+     "firstSeen": "2024-11-02",
+     "lastSeen": "2025-12-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-11-02",
+       "until": "2025-12-02",
+       "in": 0.04,
+       "out": 0.04,
+       "snapshot": "https://web.archive.org/web/20241102123835/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "Ministral 8B 24.10",
+     "firstSeen": "2024-11-02",
+     "lastSeen": "2025-12-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-11-02",
+       "until": "2025-12-02",
+       "in": 0.1,
+       "out": 0.1,
+       "snapshot": "https://web.archive.org/web/20241102123835/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Small 24.09",
+     "firstSeen": "2024-10-06",
+     "lastSeen": "2025-01-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-10-06",
+       "until": "2025-01-02",
+       "in": 0.2,
+       "out": 0.6,
+       "snapshot": "https://web.archive.org/web/20241006123931/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "Pixtral 12B",
+     "firstSeen": "2024-10-06",
+     "lastSeen": "2026-05-09",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-10-06",
+       "until": "2026-05-09",
+       "in": 0.15,
+       "out": 0.15,
+       "snapshot": "https://web.archive.org/web/20241006123931/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "Codestral",
+     "firstSeen": "2024-08-02",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2024-08-02",
+       "until": "2024-09-07",
+       "in": 1,
+       "out": 3,
+       "snapshot": "https://web.archive.org/web/20240802093204/https://mistral.ai/technology/"
+      },
+      {
+       "from": "2024-10-06",
+       "until": "2025-01-02",
+       "in": 0.2,
+       "out": 0.6,
+       "snapshot": "https://web.archive.org/web/20241006123931/https://mistral.ai/technology/"
+      },
+      {
+       "from": "2025-02-03",
+       "until": "2026-07-01",
+       "in": 0.3,
+       "out": 0.9,
+       "snapshot": "https://web.archive.org/web/20250203181801/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Large 2",
+     "firstSeen": "2024-08-02",
+     "lastSeen": "2024-11-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-08-02",
+       "until": "2024-09-07",
+       "in": 3,
+       "out": 9,
+       "snapshot": "https://web.archive.org/web/20240802093204/https://mistral.ai/technology/"
+      },
+      {
+       "from": "2024-10-06",
+       "until": "2024-11-02",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20241006123931/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "Mistral NeMo",
+     "firstSeen": "2024-08-02",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2024-08-02",
+       "until": "2024-09-07",
+       "in": 0.3,
+       "out": 0.3,
+       "snapshot": "https://web.archive.org/web/20240802093204/https://mistral.ai/technology/"
+      },
+      {
+       "from": "2024-10-06",
+       "until": "2026-07-01",
+       "in": 0.15,
+       "out": 0.15,
+       "snapshot": "https://web.archive.org/web/20241006123931/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "Mixtral 8x22B",
+     "firstSeen": "2024-08-02",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2024-08-02",
+       "until": "2026-07-01",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20240802093204/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "codestral-2405",
+     "firstSeen": "2024-06-06",
+     "lastSeen": "2024-07-11",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-06-06",
+       "until": "2024-07-11",
+       "in": 1,
+       "out": 3,
+       "snapshot": "https://web.archive.org/web/20240606015230/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "mistral-large-2402",
+     "firstSeen": "2024-06-06",
+     "lastSeen": "2024-07-11",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-06-06",
+       "until": "2024-07-11",
+       "in": 4,
+       "out": 12,
+       "snapshot": "https://web.archive.org/web/20240606015230/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "mistral-medium-2312",
+     "firstSeen": "2024-06-06",
+     "lastSeen": "2024-07-11",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-06-06",
+       "until": "2024-07-11",
+       "in": 2.7,
+       "out": 8.1,
+       "snapshot": "https://web.archive.org/web/20240606015230/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "mistral-small-2402",
+     "firstSeen": "2024-06-06",
+     "lastSeen": "2024-07-11",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-06-06",
+       "until": "2024-07-11",
+       "in": 1,
+       "out": 3,
+       "snapshot": "https://web.archive.org/web/20240606015230/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "open-mistral-7b",
+     "firstSeen": "2024-05-05",
+     "lastSeen": "2024-07-11",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-05-05",
+       "until": "2024-07-11",
+       "in": 0.25,
+       "out": 0.25,
+       "snapshot": "https://web.archive.org/web/20240505230813/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "open-mixtral-8x22b",
+     "firstSeen": "2024-05-05",
+     "lastSeen": "2024-07-11",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-05-05",
+       "until": "2024-07-11",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20240505230813/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "open-mixtral-8x7b",
+     "firstSeen": "2024-05-05",
+     "lastSeen": "2024-07-11",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-05-05",
+       "until": "2024-07-11",
+       "in": 0.7,
+       "out": 0.7,
+       "snapshot": "https://web.archive.org/web/20240505230813/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "Mistral 7B",
+     "firstSeen": "2024-03-07",
+     "lastSeen": "2026-05-09",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-03-07",
+       "until": "2026-05-09",
+       "in": 0.25,
+       "out": 0.25,
+       "snapshot": "https://web.archive.org/web/20240307184040/https://docs.mistral.ai/platform/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Large",
+     "firstSeen": "2024-03-07",
+     "lastSeen": "2025-12-02",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-03-07",
+       "until": "2024-04-05",
+       "in": 8,
+       "out": 24,
+       "snapshot": "https://web.archive.org/web/20240307184040/https://docs.mistral.ai/platform/pricing"
+      },
+      {
+       "from": "2024-05-05",
+       "until": "2024-05-05",
+       "in": 4,
+       "out": 12,
+       "snapshot": "https://web.archive.org/web/20240505230813/https://mistral.ai/technology/"
+      },
+      {
+       "from": "2025-05-25",
+       "until": "2025-12-02",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20250525061708/https://mistral.ai/pricing"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Medium",
+     "firstSeen": "2024-03-07",
+     "lastSeen": "2024-09-07",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-03-07",
+       "until": "2024-05-05",
+       "in": 2.7,
+       "out": 8.1,
+       "snapshot": "https://web.archive.org/web/20240307184040/https://docs.mistral.ai/platform/pricing"
+      },
+      {
+       "from": "2024-08-02",
+       "until": "2024-09-07",
+       "in": 2.75,
+       "out": 8.1,
+       "snapshot": "https://web.archive.org/web/20240802093204/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "Mistral Small",
+     "firstSeen": "2024-03-07",
+     "lastSeen": "2024-09-07",
+     "listed": false,
+     "points": [
+      {
+       "from": "2024-03-07",
+       "until": "2024-04-05",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20240307184040/https://docs.mistral.ai/platform/pricing"
+      },
+      {
+       "from": "2024-05-05",
+       "until": "2024-09-07",
+       "in": 1,
+       "out": 3,
+       "snapshot": "https://web.archive.org/web/20240505230813/https://mistral.ai/technology/"
+      }
+     ]
+    },
+    {
+     "name": "Mixtral 8x7B",
+     "firstSeen": "2024-03-07",
+     "lastSeen": "2026-07-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2024-03-07",
+       "until": "2026-07-01",
+       "in": 0.7,
+       "out": 0.7,
+       "snapshot": "https://web.archive.org/web/20240307184040/https://docs.mistral.ai/platform/pricing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "xAI",
+   "pages": [
+    "https://x.ai/api",
+    "https://docs.x.ai/docs/models",
+    "https://docs.x.ai/developers/models"
+   ],
+   "captures": 40,
+   "firstCapture": "2025-04-02",
+   "lastCapture": "2026-11-09",
+   "models": [
+    {
+     "name": "grok-4.7",
+     "firstSeen": "2026-10-02",
+     "lastSeen": "2026-11-09",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-10-02",
+       "until": "2026-11-09",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20261002103412/https://docs.x.ai/developers/models",
+       "note": "Prompts up to 200k tokens. The page data lists a higher price for one region (us-central-1)"
+      }
+     ]
+    },
+    {
+     "name": "grok-4.6",
+     "firstSeen": "2026-08-23",
+     "lastSeen": "2026-09-03",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-08-23",
+       "until": "2026-09-03",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20260823070308/https://x.ai/api"
+      }
+     ]
+    },
+    {
+     "name": "grok-4.5",
+     "firstSeen": "2026-08-05",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-08-05",
+       "until": "2026-11-01",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20260805034745/https://docs.x.ai/developers/models",
+       "note": "Prompts up to 200k tokens"
+      }
+     ]
+    },
+    {
+     "name": "grok-build-0.1",
+     "firstSeen": "2026-06-06",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-06-06",
+       "until": "2026-11-01",
+       "in": 1,
+       "out": 2,
+       "snapshot": "https://web.archive.org/web/20260606125233/https://docs.x.ai/developers/models",
+       "note": "Prompts up to 200k tokens"
+      }
+     ]
+    },
+    {
+     "name": "grok-4.3",
+     "firstSeen": "2026-05-06",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-05-06",
+       "until": "2026-11-01",
+       "in": 1.25,
+       "out": 2.5,
+       "snapshot": "https://web.archive.org/web/20260506163207/https://docs.x.ai/developers/models",
+       "note": "Prompts up to 200k tokens"
+      }
+     ]
+    },
+    {
+     "name": "grok-4.20-non-reasoning",
+     "firstSeen": "2026-04-05",
+     "lastSeen": "2026-05-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-04-05",
+       "until": "2026-05-01",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20260405054630/https://x.ai/api"
+      }
+     ]
+    },
+    {
+     "name": "grok-4.20-reasoning",
+     "firstSeen": "2026-04-05",
+     "lastSeen": "2026-05-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2026-04-05",
+       "until": "2026-05-01",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20260405054630/https://x.ai/api"
+      }
+     ]
+    },
+    {
+     "name": "grok-4.20-0309-non-reasoning",
+     "firstSeen": "2026-04-02",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-04-02",
+       "until": "2026-04-02",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20260402074148/https://docs.x.ai/developers/models",
+       "note": "Prompts up to 200k tokens. Price is in the archived page’s data, not in its visible text"
+      },
+      {
+       "from": "2026-05-06",
+       "until": "2026-11-01",
+       "in": 1.25,
+       "out": 2.5,
+       "snapshot": "https://web.archive.org/web/20260506163207/https://docs.x.ai/developers/models",
+       "note": "Prompts up to 200k tokens"
+      }
+     ]
+    },
+    {
+     "name": "grok-4.20-0309-reasoning",
+     "firstSeen": "2026-04-02",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-04-02",
+       "until": "2026-04-02",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20260402074148/https://docs.x.ai/developers/models",
+       "note": "Prompts up to 200k tokens. Price is in the archived page’s data, not in its visible text"
+      },
+      {
+       "from": "2026-05-06",
+       "until": "2026-11-01",
+       "in": 1.25,
+       "out": 2.5,
+       "snapshot": "https://web.archive.org/web/20260506163207/https://docs.x.ai/developers/models",
+       "note": "Prompts up to 200k tokens"
+      }
+     ]
+    },
+    {
+     "name": "grok-4.20-multi-agent-0309",
+     "firstSeen": "2026-04-02",
+     "lastSeen": "2026-11-01",
+     "listed": true,
+     "points": [
+      {
+       "from": "2026-04-02",
+       "until": "2026-04-02",
+       "in": 2,
+       "out": 6,
+       "snapshot": "https://web.archive.org/web/20260402074148/https://docs.x.ai/developers/models",
+       "note": "Prompts up to 200k tokens. Price is in the archived page’s data, not in its visible text"
+      },
+      {
+       "from": "2026-05-06",
+       "until": "2026-11-01",
+       "in": 1.25,
+       "out": 2.5,
+       "snapshot": "https://web.archive.org/web/20260506163207/https://docs.x.ai/developers/models",
+       "note": "Prompts up to 200k tokens"
+      }
+     ]
+    },
+    {
+     "name": "grok-4-1-fast-non-reasoning",
+     "firstSeen": "2025-12-02",
+     "lastSeen": "2026-05-06",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-12-02",
+       "until": "2026-05-06",
+       "in": 0.2,
+       "out": 0.5,
+       "snapshot": "https://web.archive.org/web/20251202224031/https://docs.x.ai/docs/models",
+       "note": "Prompts up to 128k tokens"
+      }
+     ]
+    },
+    {
+     "name": "grok-4-1-fast-reasoning",
+     "firstSeen": "2025-12-02",
+     "lastSeen": "2026-05-06",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-12-02",
+       "until": "2026-05-06",
+       "in": 0.2,
+       "out": 0.5,
+       "snapshot": "https://web.archive.org/web/20251202224031/https://docs.x.ai/docs/models",
+       "note": "Prompts up to 128k tokens"
+      }
+     ]
+    },
+    {
+     "name": "grok-4-fast-non-reasoning",
+     "firstSeen": "2025-10-01",
+     "lastSeen": "2026-05-06",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-10-01",
+       "until": "2026-05-06",
+       "in": 0.2,
+       "out": 0.5,
+       "snapshot": "https://web.archive.org/web/20251001004851/https://x.ai/api"
+      }
+     ]
+    },
+    {
+     "name": "grok-4-fast-reasoning",
+     "firstSeen": "2025-10-01",
+     "lastSeen": "2026-05-06",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-10-01",
+       "until": "2026-05-06",
+       "in": 0.2,
+       "out": 0.5,
+       "snapshot": "https://web.archive.org/web/20251001004851/https://x.ai/api"
+      }
+     ]
+    },
+    {
+     "name": "grok-code-fast-1",
+     "firstSeen": "2025-09-01",
+     "lastSeen": "2026-05-06",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-09-01",
+       "until": "2026-05-06",
+       "in": 0.2,
+       "out": 1.5,
+       "snapshot": "https://web.archive.org/web/20250901180226/https://x.ai/api"
+      }
+     ]
+    },
+    {
+     "name": "grok-4",
+     "firstSeen": "2025-08-05",
+     "lastSeen": "2026-03-06",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-08-05",
+       "until": "2026-03-06",
+       "in": 3,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20250805170626/https://x.ai/api"
+      }
+     ]
+    },
+    {
+     "name": "grok-4-0709",
+     "firstSeen": "2025-08-01",
+     "lastSeen": "2026-05-06",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-08-01",
+       "until": "2026-05-06",
+       "in": 3,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20250801003158/https://docs.x.ai/docs/models",
+       "note": "Prompts up to 128k tokens"
+      }
+     ]
+    },
+    {
+     "name": "grok-3",
+     "firstSeen": "2025-06-05",
+     "lastSeen": "2026-05-06",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-06-05",
+       "until": "2026-05-06",
+       "in": 3,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20250605111511/https://docs.x.ai/docs/models",
+       "note": "Price is in the archived page’s data, not in its visible text"
+      }
+     ]
+    },
+    {
+     "name": "grok-3-fast",
+     "firstSeen": "2025-06-05",
+     "lastSeen": "2025-09-11",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-06-05",
+       "until": "2025-09-11",
+       "in": 5,
+       "out": 25,
+       "snapshot": "https://web.archive.org/web/20250605111511/https://docs.x.ai/docs/models",
+       "note": "Price is in the archived page’s data, not in its visible text"
+      }
+     ]
+    },
+    {
+     "name": "grok-3-mini",
+     "firstSeen": "2025-06-05",
+     "lastSeen": "2026-05-06",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-06-05",
+       "until": "2026-05-06",
+       "in": 0.3,
+       "out": 0.5,
+       "snapshot": "https://web.archive.org/web/20250605111511/https://docs.x.ai/docs/models",
+       "note": "Price is in the archived page’s data, not in its visible text"
+      }
+     ]
+    },
+    {
+     "name": "grok-3-mini-fast",
+     "firstSeen": "2025-06-05",
+     "lastSeen": "2025-09-11",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-06-05",
+       "until": "2025-09-11",
+       "in": 0.6,
+       "out": 4,
+       "snapshot": "https://web.archive.org/web/20250605111511/https://docs.x.ai/docs/models",
+       "note": "Price is in the archived page’s data, not in its visible text"
+      }
+     ]
+    },
+    {
+     "name": "grok-3-beta",
+     "firstSeen": "2025-04-10",
+     "lastSeen": "2025-07-08",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-04-10",
+       "until": "2025-07-08",
+       "in": 3,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20250410123654/https://docs.x.ai/docs/models",
+       "note": "Price is in the archived page’s data, not in its visible text"
+      }
+     ]
+    },
+    {
+     "name": "grok-3-fast-beta",
+     "firstSeen": "2025-04-10",
+     "lastSeen": "2025-05-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-04-10",
+       "until": "2025-05-01",
+       "in": 5,
+       "out": 25,
+       "snapshot": "https://web.archive.org/web/20250410123654/https://docs.x.ai/docs/models",
+       "note": "Price is in the archived page’s data, not in its visible text"
+      }
+     ]
+    },
+    {
+     "name": "grok-3-mini-beta",
+     "firstSeen": "2025-04-10",
+     "lastSeen": "2025-07-08",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-04-10",
+       "until": "2025-07-08",
+       "in": 0.3,
+       "out": 0.5,
+       "snapshot": "https://web.archive.org/web/20250410123654/https://docs.x.ai/docs/models",
+       "note": "Price is in the archived page’s data, not in its visible text"
+      }
+     ]
+    },
+    {
+     "name": "grok-3-mini-fast-beta",
+     "firstSeen": "2025-04-10",
+     "lastSeen": "2025-05-01",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-04-10",
+       "until": "2025-05-01",
+       "in": 0.6,
+       "out": 4,
+       "snapshot": "https://web.archive.org/web/20250410123654/https://docs.x.ai/docs/models",
+       "note": "Price is in the archived page’s data, not in its visible text"
+      }
+     ]
+    },
+    {
+     "name": "grok-beta",
+     "firstSeen": "2025-04-10",
+     "lastSeen": "2025-06-05",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-04-10",
+       "until": "2025-06-05",
+       "in": 5,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20250410123654/https://docs.x.ai/docs/models",
+       "note": "Price is in the archived page’s data, not in its visible text"
+      }
+     ]
+    },
+    {
+     "name": "grok-vision-beta",
+     "firstSeen": "2025-04-10",
+     "lastSeen": "2025-06-05",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-04-10",
+       "until": "2025-06-05",
+       "in": 5,
+       "out": 15,
+       "snapshot": "https://web.archive.org/web/20250410123654/https://docs.x.ai/docs/models",
+       "note": "Price is in the archived page’s data, not in its visible text"
+      }
+     ]
+    },
+    {
+     "name": "grok-2-1212",
+     "firstSeen": "2025-04-02",
+     "lastSeen": "2026-02-05",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-04-02",
+       "until": "2026-02-05",
+       "in": 2,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20250402012120/https://x.ai/api"
+      }
+     ]
+    },
+    {
+     "name": "grok-2-vision-1212",
+     "firstSeen": "2025-04-02",
+     "lastSeen": "2026-02-05",
+     "listed": false,
+     "points": [
+      {
+       "from": "2025-04-02",
+       "until": "2026-02-05",
+       "in": 2,
+       "out": 10,
+       "snapshot": "https://web.archive.org/web/20250402012120/https://x.ai/api"
+      }
+     ]
+    }
+   ]
   }
  ],
  "changes": [
@@ -2163,6 +3354,57 @@
    "snapshot": "https://web.archive.org/web/20260602230941/https://api-docs.deepseek.com/quick_start/pricing"
   },
   {
+   "vendor": "xAI",
+   "model": "grok-4.20-0309-non-reasoning",
+   "at": "2026-05-06",
+   "lastSeenOld": "2026-04-02",
+   "kind": "down",
+   "from": [
+    2,
+    6
+   ],
+   "to": [
+    1.25,
+    2.5
+   ],
+   "snapshot": "https://web.archive.org/web/20260506163207/https://docs.x.ai/developers/models",
+   "note": "Prompts up to 200k tokens"
+  },
+  {
+   "vendor": "xAI",
+   "model": "grok-4.20-0309-reasoning",
+   "at": "2026-05-06",
+   "lastSeenOld": "2026-04-02",
+   "kind": "down",
+   "from": [
+    2,
+    6
+   ],
+   "to": [
+    1.25,
+    2.5
+   ],
+   "snapshot": "https://web.archive.org/web/20260506163207/https://docs.x.ai/developers/models",
+   "note": "Prompts up to 200k tokens"
+  },
+  {
+   "vendor": "xAI",
+   "model": "grok-4.20-multi-agent-0309",
+   "at": "2026-05-06",
+   "lastSeenOld": "2026-04-02",
+   "kind": "down",
+   "from": [
+    2,
+    6
+   ],
+   "to": [
+    1.25,
+    2.5
+   ],
+   "snapshot": "https://web.archive.org/web/20260506163207/https://docs.x.ai/developers/models",
+   "note": "Prompts up to 200k tokens"
+  },
+  {
    "vendor": "DeepSeek",
    "model": "deepseek-chat",
    "at": "2025-10-04",
@@ -2209,6 +3451,22 @@
     8
    ],
    "snapshot": "https://web.archive.org/web/20250702152237/https://openai.com/api/pricing/"
+  },
+  {
+   "vendor": "Mistral",
+   "model": "Codestral",
+   "at": "2025-02-03",
+   "lastSeenOld": "2025-01-02",
+   "kind": "up",
+   "from": [
+    0.2,
+    0.6
+   ],
+   "to": [
+    0.3,
+    0.9
+   ],
+   "snapshot": "https://web.archive.org/web/20250203181801/https://mistral.ai/technology/"
   },
   {
    "vendor": "OpenAI",
@@ -2293,6 +3551,54 @@
    "note": "Prompts up to 128k tokens"
   },
   {
+   "vendor": "Mistral",
+   "model": "Codestral",
+   "at": "2024-10-06",
+   "lastSeenOld": "2024-09-07",
+   "kind": "down",
+   "from": [
+    1,
+    3
+   ],
+   "to": [
+    0.2,
+    0.6
+   ],
+   "snapshot": "https://web.archive.org/web/20241006123931/https://mistral.ai/technology/"
+  },
+  {
+   "vendor": "Mistral",
+   "model": "Mistral Large 2",
+   "at": "2024-10-06",
+   "lastSeenOld": "2024-09-07",
+   "kind": "down",
+   "from": [
+    3,
+    9
+   ],
+   "to": [
+    2,
+    6
+   ],
+   "snapshot": "https://web.archive.org/web/20241006123931/https://mistral.ai/technology/"
+  },
+  {
+   "vendor": "Mistral",
+   "model": "Mistral NeMo",
+   "at": "2024-10-06",
+   "lastSeenOld": "2024-09-07",
+   "kind": "down",
+   "from": [
+    0.3,
+    0.3
+   ],
+   "to": [
+    0.15,
+    0.15
+   ],
+   "snapshot": "https://web.archive.org/web/20241006123931/https://mistral.ai/technology/"
+  },
+  {
    "vendor": "Google",
    "model": "Gemini 1.5 Flash",
    "at": "2024-09-04",
@@ -2325,6 +3631,38 @@
    ],
    "snapshot": "https://web.archive.org/web/20240603135204/https://ai.google.dev/pricing",
    "note": "Prompts up to 128k tokens"
+  },
+  {
+   "vendor": "Mistral",
+   "model": "Mistral Large",
+   "at": "2024-05-05",
+   "lastSeenOld": "2024-04-05",
+   "kind": "down",
+   "from": [
+    8,
+    24
+   ],
+   "to": [
+    4,
+    12
+   ],
+   "snapshot": "https://web.archive.org/web/20240505230813/https://mistral.ai/technology/"
+  },
+  {
+   "vendor": "Mistral",
+   "model": "Mistral Small",
+   "at": "2024-05-05",
+   "lastSeenOld": "2024-04-05",
+   "kind": "down",
+   "from": [
+    2,
+    6
+   ],
+   "to": [
+    1,
+    3
+   ],
+   "snapshot": "https://web.archive.org/web/20240505230813/https://mistral.ai/technology/"
   },
   {
    "vendor": "OpenAI",
@@ -2396,6 +3734,6 @@
   }
  ],
  "firstCapture": "2021-11-20",
- "lastCapture": "2026-11-04",
- "captures": 154
+ "lastCapture": "2026-11-09",
+ "captures": 221
 }

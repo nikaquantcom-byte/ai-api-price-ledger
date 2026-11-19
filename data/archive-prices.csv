@@ -141,3 +141,85 @@ DeepSeek,deepseek-reasoner,2025-10-04,2026-04-03,0.28,0.42,,https://web.archive.
 DeepSeek,deepseek-chat,2024-11-07,2024-12-04,0.14,0.28,,https://web.archive.org/web/20241107075055/https://api-docs.deepseek.com/quick_start/pricing
 DeepSeek,deepseek-chat,2025-01-03,2025-09-01,0.27,1.1,Temporary discount shown beside the list price: $0.14 / $0.28 until 2025-02-08 16:00 (UTC),https://web.archive.org/web/20250103234807/https://api-docs.deepseek.com/quick_start/pricing
 DeepSeek,deepseek-chat,2025-10-04,2026-04-03,0.28,0.42,,https://web.archive.org/web/20251004112357/https://api-docs.deepseek.com/quick_start/pricing
+Mistral,Mistral Medium 3.5,2026-05-09,2026-07-01,1.5,7.5,,https://web.archive.org/web/20260509063839/https://mistral.ai/pricing
+Mistral,Mistral Small 4,2026-04-06,2026-07-01,0.15,0.6,,https://web.archive.org/web/20260406094048/https://mistral.ai/pricing
+Mistral,Devstral 2,2026-02-03,2026-07-01,0.4,2,,https://web.archive.org/web/20260203182559/https://mistral.ai/pricing
+Mistral,Devstral Small 2,2026-02-03,2026-07-01,0.1,0.3,,https://web.archive.org/web/20260203182559/https://mistral.ai/pricing
+Mistral,Ministral 3 - 14B,2026-01-18,2026-07-01,0.2,0.2,,https://web.archive.org/web/20260118045426/https://mistral.ai/pricing
+Mistral,Ministral 3 - 3B,2026-01-18,2026-07-01,0.1,0.1,,https://web.archive.org/web/20260118045426/https://mistral.ai/pricing
+Mistral,Ministral 3 - 8B,2026-01-18,2026-07-01,0.15,0.15,,https://web.archive.org/web/20260118045426/https://mistral.ai/pricing
+Mistral,Mistral Large 3,2026-01-18,2026-07-01,0.5,1.5,,https://web.archive.org/web/20260118045426/https://mistral.ai/pricing
+Mistral,Mistral Small Creative,2026-01-18,2026-06-03,0.1,0.3,,https://web.archive.org/web/20260118045426/https://mistral.ai/pricing
+Mistral,Devstral Medium,2025-08-02,2025-12-02,0.4,2,,https://web.archive.org/web/20250802151648/https://mistral.ai/pricing
+Mistral,Devstral Small,2025-08-02,2025-12-02,0.1,0.3,,https://web.archive.org/web/20250802151648/https://mistral.ai/pricing
+Mistral,Magistral Medium,2025-08-02,2026-07-01,2,5,,https://web.archive.org/web/20250802151648/https://mistral.ai/pricing
+Mistral,Magistral Medium (Preview),2025-07-02,2025-07-02,2,5,,https://web.archive.org/web/20250702051936/https://mistral.ai/pricing
+Mistral,Magistral Small,2025-07-02,2026-07-01,0.5,1.5,,https://web.archive.org/web/20250702051936/https://mistral.ai/pricing
+Mistral,Mistral Small 3.2,2025-07-02,2026-05-09,0.1,0.3,,https://web.archive.org/web/20250702051936/https://mistral.ai/pricing
+Mistral,Devstral,2025-05-25,2025-07-02,0.1,0.3,,https://web.archive.org/web/20250525061708/https://mistral.ai/pricing
+Mistral,Mistral Medium 3,2025-05-25,2026-04-06,0.4,2,,https://web.archive.org/web/20250525061708/https://mistral.ai/pricing
+Mistral,Mistral Saba,2025-05-25,2025-10-01,0.2,0.6,,https://web.archive.org/web/20250525061708/https://mistral.ai/pricing
+Mistral,Mistral Small 3.1,2025-05-25,2025-06-01,0.1,0.3,,https://web.archive.org/web/20250525061708/https://mistral.ai/pricing
+Mistral,Mistral Small 25.01,2025-02-03,2025-02-03,0.1,0.3,,https://web.archive.org/web/20250203181801/https://mistral.ai/technology/
+Mistral,Mistral Large 24.11,2024-12-02,2025-02-03,2,6,,https://web.archive.org/web/20241202130657/https://mistral.ai/technology/
+Mistral,Pixtral Large,2024-12-02,2026-05-09,2,6,,https://web.archive.org/web/20241202130657/https://mistral.ai/technology/
+Mistral,Ministral 3B 24.10,2024-11-02,2025-12-02,0.04,0.04,,https://web.archive.org/web/20241102123835/https://mistral.ai/technology/
+Mistral,Ministral 8B 24.10,2024-11-02,2025-12-02,0.1,0.1,,https://web.archive.org/web/20241102123835/https://mistral.ai/technology/
+Mistral,Mistral Small 24.09,2024-10-06,2025-01-02,0.2,0.6,,https://web.archive.org/web/20241006123931/https://mistral.ai/technology/
+Mistral,Pixtral 12B,2024-10-06,2026-05-09,0.15,0.15,,https://web.archive.org/web/20241006123931/https://mistral.ai/technology/
+Mistral,Codestral,2024-08-02,2024-09-07,1,3,,https://web.archive.org/web/20240802093204/https://mistral.ai/technology/
+Mistral,Codestral,2024-10-06,2025-01-02,0.2,0.6,,https://web.archive.org/web/20241006123931/https://mistral.ai/technology/
+Mistral,Codestral,2025-02-03,2026-07-01,0.3,0.9,,https://web.archive.org/web/20250203181801/https://mistral.ai/technology/
+Mistral,Mistral Large 2,2024-08-02,2024-09-07,3,9,,https://web.archive.org/web/20240802093204/https://mistral.ai/technology/
+Mistral,Mistral Large 2,2024-10-06,2024-11-02,2,6,,https://web.archive.org/web/20241006123931/https://mistral.ai/technology/
+Mistral,Mistral NeMo,2024-08-02,2024-09-07,0.3,0.3,,https://web.archive.org/web/20240802093204/https://mistral.ai/technology/
+Mistral,Mistral NeMo,2024-10-06,2026-07-01,0.15,0.15,,https://web.archive.org/web/20241006123931/https://mistral.ai/technology/
+Mistral,Mixtral 8x22B,2024-08-02,2026-07-01,2,6,,https://web.archive.org/web/20240802093204/https://mistral.ai/technology/
+Mistral,codestral-2405,2024-06-06,2024-07-11,1,3,,https://web.archive.org/web/20240606015230/https://mistral.ai/technology/
+Mistral,mistral-large-2402,2024-06-06,2024-07-11,4,12,,https://web.archive.org/web/20240606015230/https://mistral.ai/technology/
+Mistral,mistral-medium-2312,2024-06-06,2024-07-11,2.7,8.1,,https://web.archive.org/web/20240606015230/https://mistral.ai/technology/
+Mistral,mistral-small-2402,2024-06-06,2024-07-11,1,3,,https://web.archive.org/web/20240606015230/https://mistral.ai/technology/
+Mistral,open-mistral-7b,2024-05-05,2024-07-11,0.25,0.25,,https://web.archive.org/web/20240505230813/https://mistral.ai/technology/
+Mistral,open-mixtral-8x22b,2024-05-05,2024-07-11,2,6,,https://web.archive.org/web/20240505230813/https://mistral.ai/technology/
+Mistral,open-mixtral-8x7b,2024-05-05,2024-07-11,0.7,0.7,,https://web.archive.org/web/20240505230813/https://mistral.ai/technology/
+Mistral,Mistral 7B,2024-03-07,2026-05-09,0.25,0.25,,https://web.archive.org/web/20240307184040/https://docs.mistral.ai/platform/pricing
+Mistral,Mistral Large,2024-03-07,2024-04-05,8,24,,https://web.archive.org/web/20240307184040/https://docs.mistral.ai/platform/pricing
+Mistral,Mistral Large,2024-05-05,2024-05-05,4,12,,https://web.archive.org/web/20240505230813/https://mistral.ai/technology/
+Mistral,Mistral Large,2025-05-25,2025-12-02,2,6,,https://web.archive.org/web/20250525061708/https://mistral.ai/pricing
+Mistral,Mistral Medium,2024-03-07,2024-05-05,2.7,8.1,,https://web.archive.org/web/20240307184040/https://docs.mistral.ai/platform/pricing
+Mistral,Mistral Medium,2024-08-02,2024-09-07,2.75,8.1,,https://web.archive.org/web/20240802093204/https://mistral.ai/technology/
+Mistral,Mistral Small,2024-03-07,2024-04-05,2,6,,https://web.archive.org/web/20240307184040/https://docs.mistral.ai/platform/pricing
+Mistral,Mistral Small,2024-05-05,2024-09-07,1,3,,https://web.archive.org/web/20240505230813/https://mistral.ai/technology/
+Mistral,Mixtral 8x7B,2024-03-07,2026-07-01,0.7,0.7,,https://web.archive.org/web/20240307184040/https://docs.mistral.ai/platform/pricing
+xAI,grok-4.7,2026-10-02,2026-11-09,2,6,Prompts up to 200k tokens. The page data lists a higher price for one region (us-central-1),https://web.archive.org/web/20261002103412/https://docs.x.ai/developers/models
+xAI,grok-4.6,2026-08-23,2026-09-03,2,6,,https://web.archive.org/web/20260823070308/https://x.ai/api
+xAI,grok-4.5,2026-08-05,2026-11-01,2,6,Prompts up to 200k tokens,https://web.archive.org/web/20260805034745/https://docs.x.ai/developers/models
+xAI,grok-build-0.1,2026-06-06,2026-11-01,1,2,Prompts up to 200k tokens,https://web.archive.org/web/20260606125233/https://docs.x.ai/developers/models
+xAI,grok-4.3,2026-05-06,2026-11-01,1.25,2.5,Prompts up to 200k tokens,https://web.archive.org/web/20260506163207/https://docs.x.ai/developers/models
+xAI,grok-4.20-non-reasoning,2026-04-05,2026-05-01,2,6,,https://web.archive.org/web/20260405054630/https://x.ai/api
+xAI,grok-4.20-reasoning,2026-04-05,2026-05-01,2,6,,https://web.archive.org/web/20260405054630/https://x.ai/api
+xAI,grok-4.20-0309-non-reasoning,2026-04-02,2026-04-02,2,6,"Prompts up to 200k tokens. Price is in the archived page’s data, not in its visible text",https://web.archive.org/web/20260402074148/https://docs.x.ai/developers/models
+xAI,grok-4.20-0309-non-reasoning,2026-05-06,2026-11-01,1.25,2.5,Prompts up to 200k tokens,https://web.archive.org/web/20260506163207/https://docs.x.ai/developers/models
+xAI,grok-4.20-0309-reasoning,2026-04-02,2026-04-02,2,6,"Prompts up to 200k tokens. Price is in the archived page’s data, not in its visible text",https://web.archive.org/web/20260402074148/https://docs.x.ai/developers/models
+xAI,grok-4.20-0309-reasoning,2026-05-06,2026-11-01,1.25,2.5,Prompts up to 200k tokens,https://web.archive.org/web/20260506163207/https://docs.x.ai/developers/models
+xAI,grok-4.20-multi-agent-0309,2026-04-02,2026-04-02,2,6,"Prompts up to 200k tokens. Price is in the archived page’s data, not in its visible text",https://web.archive.org/web/20260402074148/https://docs.x.ai/developers/models
+xAI,grok-4.20-multi-agent-0309,2026-05-06,2026-11-01,1.25,2.5,Prompts up to 200k tokens,https://web.archive.org/web/20260506163207/https://docs.x.ai/developers/models
+xAI,grok-4-1-fast-non-reasoning,2025-12-02,2026-05-06,0.2,0.5,Prompts up to 128k tokens,https://web.archive.org/web/20251202224031/https://docs.x.ai/docs/models
+xAI,grok-4-1-fast-reasoning,2025-12-02,2026-05-06,0.2,0.5,Prompts up to 128k tokens,https://web.archive.org/web/20251202224031/https://docs.x.ai/docs/models
+xAI,grok-4-fast-non-reasoning,2025-10-01,2026-05-06,0.2,0.5,,https://web.archive.org/web/20251001004851/https://x.ai/api
+xAI,grok-4-fast-reasoning,2025-10-01,2026-05-06,0.2,0.5,,https://web.archive.org/web/20251001004851/https://x.ai/api
+xAI,grok-code-fast-1,2025-09-01,2026-05-06,0.2,1.5,,https://web.archive.org/web/20250901180226/https://x.ai/api
+xAI,grok-4,2025-08-05,2026-03-06,3,15,,https://web.archive.org/web/20250805170626/https://x.ai/api
+xAI,grok-4-0709,2025-08-01,2026-05-06,3,15,Prompts up to 128k tokens,https://web.archive.org/web/20250801003158/https://docs.x.ai/docs/models
+xAI,grok-3,2025-06-05,2026-05-06,3,15,"Price is in the archived page’s data, not in its visible text",https://web.archive.org/web/20250605111511/https://docs.x.ai/docs/models
+xAI,grok-3-fast,2025-06-05,2025-09-11,5,25,"Price is in the archived page’s data, not in its visible text",https://web.archive.org/web/20250605111511/https://docs.x.ai/docs/models
+xAI,grok-3-mini,2025-06-05,2026-05-06,0.3,0.5,"Price is in the archived page’s data, not in its visible text",https://web.archive.org/web/20250605111511/https://docs.x.ai/docs/models
+xAI,grok-3-mini-fast,2025-06-05,2025-09-11,0.6,4,"Price is in the archived page’s data, not in its visible text",https://web.archive.org/web/20250605111511/https://docs.x.ai/docs/models
+xAI,grok-3-beta,2025-04-10,2025-07-08,3,15,"Price is in the archived page’s data, not in its visible text",https://web.archive.org/web/20250410123654/https://docs.x.ai/docs/models
+xAI,grok-3-fast-beta,2025-04-10,2025-05-01,5,25,"Price is in the archived page’s data, not in its visible text",https://web.archive.org/web/20250410123654/https://docs.x.ai/docs/models
+xAI,grok-3-mini-beta,2025-04-10,2025-07-08,0.3,0.5,"Price is in the archived page’s data, not in its visible text",https://web.archive.org/web/20250410123654/https://docs.x.ai/docs/models
+xAI,grok-3-mini-fast-beta,2025-04-10,2025-05-01,0.6,4,"Price is in the archived page’s data, not in its visible text",https://web.archive.org/web/20250410123654/https://docs.x.ai/docs/models
+xAI,grok-beta,2025-04-10,2025-06-05,5,15,"Price is in the archived page’s data, not in its visible text",https://web.archive.org/web/20250410123654/https://docs.x.ai/docs/models
+xAI,grok-vision-beta,2025-04-10,2025-06-05,5,15,"Price is in the archived page’s data, not in its visible text",https://web.archive.org/web/20250410123654/https://docs.x.ai/docs/models
+xAI,grok-2-1212,2025-04-02,2026-02-05,2,10,,https://web.archive.org/web/20250402012120/https://x.ai/api
+xAI,grok-2-vision-1212,2025-04-02,2026-02-05,2,10,,https://web.archive.org/web/20250402012120/https://x.ai/api
