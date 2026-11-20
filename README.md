@@ -7,22 +7,22 @@ Open data on what AI models cost through their APIs, and when models are retired
 - **Retirement calendar:** announced model retirements and scheduled price changes, each with the vendor's own source link and the date it was checked.
 
 <!-- stats:start -->
-Data as of **2026-11-19**: 77 recorded changes (39 price rises, 29 price cuts, 9 retirements) across 361 models, first observation 2026-09-08.
+Data as of **2026-11-20**: 82 recorded changes (42 price rises, 31 price cuts, 9 retirements) across 362 models, first observation 2026-09-08.
 
 **Latest price moves** (USD per 1M tokens, input / output)
 
 | Date | Model | Before | After | Source |
 |---|---|---|---|---|
+| 2026-11-20 | DeepSeek V4.1 Flash | $0.05 / $0.20 | $0.30 / $1.20 | OpenRouter |
+| 2026-11-20 | gpt-oss-120b | $0.15 / $0.60 | $0.09 / $0.36 | OpenRouter |
+| 2026-11-20 | Ling 3.1 Flash | $0.04 / $0.14 | $0.06 / $0.18 | OpenRouter |
+| 2026-11-20 | Llama 3.2 3B Instruct | $0.05 / $0.34 | $0.05 / $0.33 | OpenRouter |
+| 2026-11-20 | Particle-1 | $0.06 / $0.50 | $0.07 / $0.50 | OpenRouter |
 | 2026-11-19 | Beam 1.0 501B A23B | $0.30 / $1.00 | $0.25 / $1.00 | OpenRouter |
 | 2026-11-19 | Gemma 3 27B | $0.08 / $0.45 | $0.08 / $0.16 | OpenRouter |
 | 2026-11-19 | Qwen3.5-27B | $0.30 / $2.40 | $0.20 / $1.56 | OpenRouter |
 | 2026-11-18 | DeepSeek V4.1 Flash | $0.14 / $0.42 | $0.05 / $0.20 | OpenRouter |
 | 2026-11-18 | Gemma 3 27B | $0.08 / $0.35 | $0.08 / $0.45 | OpenRouter |
-| 2026-11-18 | GLM 5.3 Prime | $2.80 / $8.80 | $1.68 / $5.28 | OpenRouter |
-| 2026-11-18 | gpt-oss-20b | $0.07 / $0.30 | $0.02 / $0.09 | OpenRouter |
-| 2026-11-18 | MiMo-V2.5-Pro | $0.43 / $0.87 | $0.48 / $1.80 | OpenRouter |
-| 2026-11-18 | Mistral Medium 3.1 | $0.40 / $2.00 | $0.44 / $2.20 | OpenRouter |
-| 2026-11-18 | Muse Glimmer 30B | $0.30 / $1.20 | $0.35 / $1.50 | OpenRouter |
 
 **Announced dates ahead**
 

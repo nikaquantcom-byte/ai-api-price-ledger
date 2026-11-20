@@ -1,4 +1,9 @@
 date,model_id,model,change,source,input_before_usd_per_1m,output_before_usd_per_1m,input_after_usd_per_1m,output_after_usd_per_1m
+2026-11-20,expanded-deepseek-deepseek-v4-1-flash,DeepSeek V4.1 Flash,up,openrouter,0.0507,0.2028,0.3,1.2
+2026-11-20,expanded-openai-gpt-oss-120b,gpt-oss-120b,down,openrouter,0.15,0.6,0.09,0.36
+2026-11-20,expanded-inclusionai-ling-3-1-flash,Ling 3.1 Flash,up,openrouter,0.045,0.135,0.06,0.18
+2026-11-20,tracked-meta-llama-llama-3-2-3b-instruct,Llama 3.2 3B Instruct,down,openrouter,0.0509,0.335,0.05,0.33
+2026-11-20,expanded-particle-ai-particle-1,Particle-1,up,openrouter,0.06,0.5,0.07,0.5
 2026-11-19,expanded-reflection-beam-1-0-501b-a23b,Beam 1.0 501B A23B,down,openrouter,0.3,1,0.25,1
 2026-11-19,expanded-google-gemma-3-27b-it,Gemma 3 27B,down,openrouter,0.08,0.45,0.08,0.16
 2026-11-19,expanded-qwen-qwen3-5-27b,Qwen3.5-27B,down,openrouter,0.3,2.4,0.195,1.56

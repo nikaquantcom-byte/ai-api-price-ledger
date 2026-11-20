@@ -7,8 +7,83 @@
   "attribution": "AIScoreboard (aiscoreboard.app), https://aiscoreboard.app/price-changes/"
  },
  "firstObservation": "2026-09-08",
- "lastObservation": "2026-11-19",
+ "lastObservation": "2026-11-20",
  "changes": [
+  {
+   "at": "2026-11-20",
+   "id": "expanded-deepseek-deepseek-v4-1-flash",
+   "name": "DeepSeek V4.1 Flash",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.0507,
+    0.2028
+   ],
+   "to": [
+    0.3,
+    1.2
+   ]
+  },
+  {
+   "at": "2026-11-20",
+   "id": "expanded-openai-gpt-oss-120b",
+   "name": "gpt-oss-120b",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.15,
+    0.6
+   ],
+   "to": [
+    0.09,
+    0.36
+   ]
+  },
+  {
+   "at": "2026-11-20",
+   "id": "expanded-inclusionai-ling-3-1-flash",
+   "name": "Ling 3.1 Flash",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.045,
+    0.135
+   ],
+   "to": [
+    0.06,
+    0.18
+   ]
+  },
+  {
+   "at": "2026-11-20",
+   "id": "tracked-meta-llama-llama-3-2-3b-instruct",
+   "name": "Llama 3.2 3B Instruct",
+   "kind": "down",
+   "src": "router",
+   "from": [
+    0.0509,
+    0.335
+   ],
+   "to": [
+    0.05,
+    0.33
+   ]
+  },
+  {
+   "at": "2026-11-20",
+   "id": "expanded-particle-ai-particle-1",
+   "name": "Particle-1",
+   "kind": "up",
+   "src": "router",
+   "from": [
+    0.06,
+    0.5
+   ],
+   "to": [
+    0.07,
+    0.5
+   ]
+  },
   {
    "at": "2026-11-19",
    "id": "expanded-reflection-beam-1-0-501b-a23b",
@@ -1572,6 +1647,13 @@
     "at": "2026-11-18",
     "src": "router",
     "ed": "next-7e413e64"
+   },
+   {
+    "in": 0.3,
+    "out": 1.2,
+    "at": "2026-11-20",
+    "src": "router",
+    "ed": "next-0f5ea3fd"
    }
   ],
   "expanded-deepseek-deepseek-v4-1-flash-1017": [
@@ -1900,6 +1982,13 @@
     "at": "2026-11-15",
     "src": "router",
     "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.06,
+    "out": 0.18,
+    "at": "2026-11-20",
+    "src": "router",
+    "ed": "next-0f5ea3fd"
    }
   ],
   "expanded-inclusionai-ling-3-2-flash-free": [
@@ -2330,6 +2419,15 @@
     "at": "2026-09-11",
     "src": "router",
     "ed": "next-707e28fd"
+   }
+  ],
+  "expanded-mistralai-pixtral-large-2502": [
+   {
+    "in": 2,
+    "out": 6,
+    "at": "2026-11-20",
+    "src": "router",
+    "ed": "next-0f5ea3fd"
    }
   ],
   "expanded-mistralai-voxtral-small-24b-2507": [
@@ -2908,6 +3006,13 @@
     "at": "2026-11-15",
     "src": "router",
     "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.09,
+    "out": 0.36,
+    "at": "2026-11-20",
+    "src": "router",
+    "ed": "next-0f5ea3fd"
    }
   ],
   "expanded-openai-gpt-oss-20b": [
@@ -3021,6 +3126,13 @@
     "at": "2026-11-15",
     "src": "router",
     "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.07,
+    "out": 0.5,
+    "at": "2026-11-20",
+    "src": "router",
+    "ed": "next-0f5ea3fd"
    }
   ],
   "expanded-perceptron-perceptron-mk1": [
@@ -4567,6 +4679,13 @@
     "at": "2026-11-15",
     "src": "router",
     "ed": "next-05ff7363"
+   },
+   {
+    "in": 0.05,
+    "out": 0.33,
+    "at": "2026-11-20",
+    "src": "router",
+    "ed": "next-0f5ea3fd"
    }
   ],
   "tracked-meta-llama-llama-3-3-70b-instruct": [
